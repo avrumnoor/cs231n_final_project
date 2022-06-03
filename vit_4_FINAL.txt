@@ -1,0 +1,6911 @@
+23845
+cuda
+Epoch Number: 0
+Iteration Number: 0
+[1,     1] loss: 6.475
+Iteration Number: 1
+[1,     2] loss: 2.691
+Iteration Number: 2
+[1,     3] loss: 1.480
+Iteration Number: 3
+[1,     4] loss: 1.495
+Iteration Number: 4
+[1,     5] loss: 1.261
+Iteration Number: 5
+[1,     6] loss: 2.034
+Iteration Number: 6
+[1,     7] loss: 0.897
+Iteration Number: 7
+[1,     8] loss: 0.934
+Iteration Number: 8
+[1,     9] loss: 0.919
+Iteration Number: 9
+[1,    10] loss: 1.537
+Iteration Number: 10
+[1,    11] loss: 0.783
+Iteration Number: 11
+[1,    12] loss: 0.834
+Iteration Number: 12
+[1,    13] loss: 0.301
+Iteration Number: 13
+[1,    14] loss: 1.242
+Iteration Number: 14
+[1,    15] loss: 0.327
+Iteration Number: 15
+[1,    16] loss: 1.058
+Iteration Number: 16
+[1,    17] loss: 1.439
+Iteration Number: 17
+[1,    18] loss: 1.259
+Iteration Number: 18
+[1,    19] loss: 1.305
+Iteration Number: 19
+[1,    20] loss: 0.762
+Iteration Number: 20
+[1,    21] loss: 1.001
+Iteration Number: 21
+[1,    22] loss: 1.088
+Iteration Number: 22
+[1,    23] loss: 0.767
+Iteration Number: 23
+[1,    24] loss: 0.700
+Iteration Number: 24
+[1,    25] loss: 0.420
+Iteration Number: 25
+[1,    26] loss: 0.677
+Iteration Number: 26
+[1,    27] loss: 0.813
+Iteration Number: 27
+[1,    28] loss: 1.191
+Iteration Number: 28
+[1,    29] loss: 0.734
+Iteration Number: 29
+[1,    30] loss: 0.455
+Iteration Number: 30
+[1,    31] loss: 0.376
+Iteration Number: 31
+[1,    32] loss: 0.777
+Iteration Number: 32
+[1,    33] loss: 0.648
+Iteration Number: 33
+[1,    34] loss: 1.000
+Iteration Number: 34
+[1,    35] loss: 0.833
+Iteration Number: 35
+[1,    36] loss: 0.856
+Iteration Number: 36
+[1,    37] loss: 0.391
+Iteration Number: 37
+[1,    38] loss: 0.397
+Iteration Number: 38
+[1,    39] loss: 0.536
+Iteration Number: 39
+[1,    40] loss: 0.701
+Iteration Number: 40
+[1,    41] loss: 0.430
+Iteration Number: 41
+[1,    42] loss: 0.446
+Iteration Number: 42
+[1,    43] loss: 0.585
+Iteration Number: 43
+[1,    44] loss: 0.715
+Iteration Number: 44
+[1,    45] loss: 0.678
+Iteration Number: 45
+[1,    46] loss: 0.720
+Iteration Number: 46
+[1,    47] loss: 0.718
+Iteration Number: 47
+[1,    48] loss: 0.690
+Iteration Number: 48
+[1,    49] loss: 0.494
+Iteration Number: 49
+[1,    50] loss: 0.641
+Iteration Number: 50
+[1,    51] loss: 0.595
+Iteration Number: 51
+[1,    52] loss: 0.836
+Iteration Number: 52
+[1,    53] loss: 0.658
+Iteration Number: 53
+[1,    54] loss: 0.628
+Iteration Number: 54
+[1,    55] loss: 0.689
+Iteration Number: 55
+[1,    56] loss: 0.705
+Iteration Number: 56
+[1,    57] loss: 0.673
+Iteration Number: 57
+[1,    58] loss: 0.824
+Iteration Number: 58
+[1,    59] loss: 0.605
+Iteration Number: 59
+[1,    60] loss: 0.475
+Iteration Number: 60
+[1,    61] loss: 0.831
+Iteration Number: 61
+[1,    62] loss: 0.775
+Iteration Number: 62
+[1,    63] loss: 0.693
+Iteration Number: 63
+[1,    64] loss: 0.831
+Iteration Number: 64
+[1,    65] loss: 0.319
+Iteration Number: 65
+[1,    66] loss: 0.746
+Iteration Number: 66
+[1,    67] loss: 0.549
+Iteration Number: 67
+[1,    68] loss: 0.421
+Iteration Number: 68
+[1,    69] loss: 0.486
+Iteration Number: 69
+[1,    70] loss: 0.620
+Iteration Number: 70
+[1,    71] loss: 0.695
+Iteration Number: 71
+[1,    72] loss: 0.552
+Iteration Number: 72
+[1,    73] loss: 0.995
+Iteration Number: 73
+[1,    74] loss: 1.030
+Iteration Number: 74
+[1,    75] loss: 0.723
+Iteration Number: 75
+[1,    76] loss: 0.773
+Iteration Number: 76
+[1,    77] loss: 0.616
+Iteration Number: 77
+[1,    78] loss: 0.628
+Iteration Number: 78
+[1,    79] loss: 0.478
+Iteration Number: 79
+[1,    80] loss: 0.744
+Iteration Number: 80
+[1,    81] loss: 0.683
+Iteration Number: 81
+[1,    82] loss: 0.820
+Iteration Number: 82
+[1,    83] loss: 0.932
+Iteration Number: 83
+[1,    84] loss: 0.671
+Iteration Number: 84
+[1,    85] loss: 1.019
+Iteration Number: 85
+[1,    86] loss: 1.027
+Iteration Number: 86
+[1,    87] loss: 0.542
+Iteration Number: 87
+[1,    88] loss: 0.821
+Iteration Number: 88
+[1,    89] loss: 0.620
+Iteration Number: 89
+[1,    90] loss: 0.751
+Iteration Number: 90
+[1,    91] loss: 0.490
+Iteration Number: 91
+[1,    92] loss: 0.521
+Iteration Number: 92
+[1,    93] loss: 0.455
+Iteration Number: 93
+[1,    94] loss: 0.431
+Iteration Number: 94
+[1,    95] loss: 0.535
+Iteration Number: 95
+[1,    96] loss: 0.955
+Iteration Number: 96
+[1,    97] loss: 1.041
+Iteration Number: 97
+[1,    98] loss: 0.534
+Iteration Number: 98
+[1,    99] loss: 0.460
+Iteration Number: 99
+[1,   100] loss: 0.585
+Iteration Number: 100
+[1,   101] loss: 0.523
+Iteration Number: 101
+[1,   102] loss: 0.634
+Iteration Number: 102
+[1,   103] loss: 0.588
+Iteration Number: 103
+[1,   104] loss: 0.485
+Iteration Number: 104
+[1,   105] loss: 0.327
+Iteration Number: 105
+[1,   106] loss: 0.657
+Iteration Number: 106
+[1,   107] loss: 0.469
+Iteration Number: 107
+[1,   108] loss: 0.739
+Iteration Number: 108
+[1,   109] loss: 0.637
+Iteration Number: 109
+[1,   110] loss: 0.634
+Iteration Number: 110
+[1,   111] loss: 0.472
+Iteration Number: 111
+[1,   112] loss: 0.621
+Iteration Number: 112
+[1,   113] loss: 0.751
+Iteration Number: 113
+[1,   114] loss: 0.621
+Iteration Number: 114
+[1,   115] loss: 0.628
+Iteration Number: 115
+[1,   116] loss: 0.580
+Iteration Number: 116
+[1,   117] loss: 0.679
+Iteration Number: 117
+[1,   118] loss: 0.798
+Iteration Number: 118
+[1,   119] loss: 0.481
+Iteration Number: 119
+[1,   120] loss: 0.742
+Iteration Number: 120
+[1,   121] loss: 0.346
+Iteration Number: 121
+[1,   122] loss: 0.824
+Iteration Number: 122
+[1,   123] loss: 1.195
+Iteration Number: 123
+[1,   124] loss: 0.582
+Iteration Number: 124
+[1,   125] loss: 0.633
+Iteration Number: 125
+[1,   126] loss: 0.470
+Iteration Number: 126
+[1,   127] loss: 0.498
+Iteration Number: 127
+[1,   128] loss: 0.306
+Iteration Number: 128
+[1,   129] loss: 0.526
+Iteration Number: 129
+[1,   130] loss: 0.273
+Iteration Number: 130
+[1,   131] loss: 0.490
+Iteration Number: 131
+[1,   132] loss: 0.855
+Iteration Number: 132
+[1,   133] loss: 0.162
+Iteration Number: 133
+[1,   134] loss: 0.956
+Iteration Number: 134
+[1,   135] loss: 0.788
+Iteration Number: 135
+[1,   136] loss: 0.545
+Iteration Number: 136
+[1,   137] loss: 0.574
+Iteration Number: 137
+[1,   138] loss: 0.509
+Iteration Number: 138
+[1,   139] loss: 0.706
+Iteration Number: 139
+[1,   140] loss: 0.729
+Iteration Number: 140
+[1,   141] loss: 0.548
+Iteration Number: 141
+[1,   142] loss: 0.686
+Iteration Number: 142
+[1,   143] loss: 0.681
+Iteration Number: 143
+[1,   144] loss: 0.542
+Iteration Number: 144
+[1,   145] loss: 0.545
+Iteration Number: 145
+[1,   146] loss: 0.635
+Iteration Number: 146
+[1,   147] loss: 1.116
+Iteration Number: 147
+[1,   148] loss: 0.698
+Iteration Number: 148
+[1,   149] loss: 0.394
+Iteration Number: 149
+[1,   150] loss: 0.608
+Iteration Number: 150
+[1,   151] loss: 0.564
+Iteration Number: 151
+[1,   152] loss: 0.723
+Iteration Number: 152
+[1,   153] loss: 0.717
+Iteration Number: 153
+[1,   154] loss: 0.553
+Iteration Number: 154
+[1,   155] loss: 0.646
+Iteration Number: 155
+[1,   156] loss: 0.547
+Iteration Number: 156
+[1,   157] loss: 0.626
+Iteration Number: 157
+[1,   158] loss: 0.526
+Iteration Number: 158
+[1,   159] loss: 0.453
+Iteration Number: 159
+[1,   160] loss: 0.546
+Iteration Number: 160
+[1,   161] loss: 0.349
+Iteration Number: 161
+[1,   162] loss: 0.799
+Iteration Number: 162
+[1,   163] loss: 0.450
+Iteration Number: 163
+[1,   164] loss: 0.622
+Iteration Number: 164
+[1,   165] loss: 0.678
+Iteration Number: 165
+[1,   166] loss: 0.876
+Iteration Number: 166
+[1,   167] loss: 0.667
+Iteration Number: 167
+[1,   168] loss: 0.601
+Iteration Number: 168
+[1,   169] loss: 0.496
+Iteration Number: 169
+[1,   170] loss: 0.446
+Iteration Number: 170
+[1,   171] loss: 0.811
+Iteration Number: 171
+[1,   172] loss: 0.541
+Iteration Number: 172
+[1,   173] loss: 0.531
+Iteration Number: 173
+[1,   174] loss: 0.465
+Iteration Number: 174
+[1,   175] loss: 0.629
+Iteration Number: 175
+[1,   176] loss: 0.548
+Iteration Number: 176
+[1,   177] loss: 0.547
+Iteration Number: 177
+[1,   178] loss: 0.621
+Iteration Number: 178
+[1,   179] loss: 0.256
+Iteration Number: 179
+[1,   180] loss: 0.478
+Iteration Number: 180
+[1,   181] loss: 0.703
+Iteration Number: 181
+[1,   182] loss: 0.552
+Iteration Number: 182
+[1,   183] loss: 0.625
+Iteration Number: 183
+[1,   184] loss: 0.381
+Iteration Number: 184
+[1,   185] loss: 0.522
+Iteration Number: 185
+[1,   186] loss: 0.575
+Iteration Number: 186
+[1,   187] loss: 0.358
+Iteration Number: 187
+[1,   188] loss: 0.470
+Iteration Number: 188
+[1,   189] loss: 0.445
+Iteration Number: 189
+[1,   190] loss: 0.624
+Iteration Number: 190
+[1,   191] loss: 0.586
+Iteration Number: 191
+[1,   192] loss: 0.627
+Iteration Number: 192
+[1,   193] loss: 0.587
+Iteration Number: 193
+[1,   194] loss: 0.745
+Iteration Number: 194
+[1,   195] loss: 0.619
+Iteration Number: 195
+[1,   196] loss: 0.739
+Iteration Number: 196
+[1,   197] loss: 0.781
+Iteration Number: 197
+[1,   198] loss: 0.478
+Iteration Number: 198
+[1,   199] loss: 0.497
+Iteration Number: 199
+[1,   200] loss: 0.461
+Iteration Number: 200
+[1,   201] loss: 0.397
+Iteration Number: 201
+[1,   202] loss: 0.398
+Iteration Number: 202
+[1,   203] loss: 0.471
+Iteration Number: 203
+[1,   204] loss: 0.895
+Iteration Number: 204
+[1,   205] loss: 0.175
+Iteration Number: 205
+[1,   206] loss: 0.608
+Iteration Number: 206
+[1,   207] loss: 0.937
+Iteration Number: 207
+[1,   208] loss: 0.580
+Iteration Number: 208
+[1,   209] loss: 0.745
+Iteration Number: 209
+[1,   210] loss: 0.469
+Iteration Number: 210
+[1,   211] loss: 0.503
+Iteration Number: 211
+[1,   212] loss: 0.798
+Iteration Number: 212
+[1,   213] loss: 0.701
+Iteration Number: 213
+[1,   214] loss: 0.786
+Iteration Number: 214
+[1,   215] loss: 0.546
+Iteration Number: 215
+[1,   216] loss: 0.561
+Iteration Number: 216
+[1,   217] loss: 0.871
+Iteration Number: 217
+[1,   218] loss: 0.458
+Iteration Number: 218
+[1,   219] loss: 0.450
+Iteration Number: 219
+[1,   220] loss: 0.525
+Iteration Number: 220
+[1,   221] loss: 0.656
+Iteration Number: 221
+[1,   222] loss: 0.692
+Iteration Number: 222
+[1,   223] loss: 0.451
+Iteration Number: 223
+[1,   224] loss: 0.269
+Iteration Number: 224
+[1,   225] loss: 1.002
+Iteration Number: 225
+[1,   226] loss: 0.646
+Iteration Number: 226
+[1,   227] loss: 0.469
+Iteration Number: 227
+[1,   228] loss: 0.579
+Iteration Number: 228
+[1,   229] loss: 0.679
+Iteration Number: 229
+[1,   230] loss: 0.631
+Iteration Number: 230
+[1,   231] loss: 0.573
+Iteration Number: 231
+[1,   232] loss: 0.783
+Iteration Number: 232
+[1,   233] loss: 0.728
+Iteration Number: 233
+[1,   234] loss: 0.755
+Iteration Number: 234
+[1,   235] loss: 0.728
+Iteration Number: 235
+[1,   236] loss: 0.673
+Iteration Number: 236
+[1,   237] loss: 0.522
+Iteration Number: 237
+[1,   238] loss: 0.573
+Iteration Number: 238
+[1,   239] loss: 0.619
+Iteration Number: 239
+[1,   240] loss: 0.550
+Iteration Number: 240
+[1,   241] loss: 0.800
+Iteration Number: 241
+[1,   242] loss: 0.818
+Iteration Number: 242
+[1,   243] loss: 0.686
+Iteration Number: 243
+[1,   244] loss: 0.796
+Iteration Number: 244
+[1,   245] loss: 0.715
+Iteration Number: 245
+[1,   246] loss: 0.711
+Iteration Number: 246
+[1,   247] loss: 0.485
+Iteration Number: 247
+[1,   248] loss: 0.835
+Iteration Number: 248
+[1,   249] loss: 0.383
+Iteration Number: 249
+[1,   250] loss: 0.662
+Iteration Number: 250
+[1,   251] loss: 0.382
+Iteration Number: 251
+[1,   252] loss: 0.554
+Iteration Number: 252
+[1,   253] loss: 0.445
+Iteration Number: 253
+[1,   254] loss: 0.487
+Iteration Number: 254
+[1,   255] loss: 0.876
+Iteration Number: 255
+[1,   256] loss: 0.351
+Iteration Number: 256
+[1,   257] loss: 0.561
+Iteration Number: 257
+[1,   258] loss: 0.375
+Iteration Number: 258
+[1,   259] loss: 0.416
+Iteration Number: 259
+[1,   260] loss: 0.537
+Iteration Number: 260
+[1,   261] loss: 0.612
+Iteration Number: 261
+[1,   262] loss: 0.435
+Iteration Number: 262
+[1,   263] loss: 0.952
+Iteration Number: 263
+[1,   264] loss: 0.664
+Iteration Number: 264
+[1,   265] loss: 0.382
+Iteration Number: 265
+[1,   266] loss: 0.489
+Iteration Number: 266
+[1,   267] loss: 0.643
+Iteration Number: 267
+[1,   268] loss: 0.467
+Iteration Number: 268
+[1,   269] loss: 0.638
+Iteration Number: 269
+[1,   270] loss: 0.632
+Iteration Number: 270
+[1,   271] loss: 0.542
+Iteration Number: 271
+[1,   272] loss: 0.539
+Iteration Number: 272
+[1,   273] loss: 0.477
+Iteration Number: 273
+[1,   274] loss: 0.464
+Iteration Number: 274
+[1,   275] loss: 0.684
+Iteration Number: 275
+[1,   276] loss: 0.467
+Iteration Number: 276
+[1,   277] loss: 0.451
+Iteration Number: 277
+[1,   278] loss: 0.583
+Iteration Number: 278
+[1,   279] loss: 0.552
+Iteration Number: 279
+[1,   280] loss: 0.642
+Iteration Number: 280
+[1,   281] loss: 0.500
+Iteration Number: 281
+[1,   282] loss: 0.570
+Iteration Number: 282
+[1,   283] loss: 0.979
+Iteration Number: 283
+[1,   284] loss: 0.800
+Iteration Number: 284
+[1,   285] loss: 0.610
+Iteration Number: 285
+[1,   286] loss: 1.194
+Iteration Number: 286
+[1,   287] loss: 0.542
+Iteration Number: 287
+[1,   288] loss: 0.644
+Iteration Number: 288
+[1,   289] loss: 0.743
+Iteration Number: 289
+[1,   290] loss: 0.502
+Iteration Number: 290
+[1,   291] loss: 0.849
+Iteration Number: 291
+[1,   292] loss: 0.785
+Iteration Number: 292
+[1,   293] loss: 0.704
+Iteration Number: 293
+[1,   294] loss: 0.617
+Iteration Number: 294
+[1,   295] loss: 1.111
+Iteration Number: 295
+[1,   296] loss: 0.474
+Iteration Number: 296
+[1,   297] loss: 0.572
+Iteration Number: 297
+[1,   298] loss: 0.633
+Iteration Number: 298
+[1,   299] loss: 0.543
+Iteration Number: 299
+[1,   300] loss: 0.756
+Iteration Number: 300
+[1,   301] loss: 0.669
+Iteration Number: 301
+[1,   302] loss: 0.574
+Iteration Number: 302
+[1,   303] loss: 0.641
+Iteration Number: 303
+[1,   304] loss: 0.760
+Iteration Number: 304
+[1,   305] loss: 0.598
+Iteration Number: 305
+[1,   306] loss: 0.426
+Iteration Number: 306
+[1,   307] loss: 0.519
+Iteration Number: 307
+[1,   308] loss: 0.426
+Iteration Number: 308
+[1,   309] loss: 0.489
+Iteration Number: 309
+[1,   310] loss: 0.416
+Iteration Number: 310
+[1,   311] loss: 0.418
+Iteration Number: 311
+[1,   312] loss: 0.873
+Iteration Number: 312
+[1,   313] loss: 0.522
+[1,   314] Train Acc: 81.882
+Epoch Number: 1
+Iteration Number: 0
+[2,     1] loss: 0.688
+Iteration Number: 1
+[2,     2] loss: 0.555
+Iteration Number: 2
+[2,     3] loss: 0.569
+Iteration Number: 3
+[2,     4] loss: 0.621
+Iteration Number: 4
+[2,     5] loss: 0.532
+Iteration Number: 5
+[2,     6] loss: 0.786
+Iteration Number: 6
+[2,     7] loss: 0.523
+Iteration Number: 7
+[2,     8] loss: 0.604
+Iteration Number: 8
+[2,     9] loss: 0.604
+Iteration Number: 9
+[2,    10] loss: 0.845
+Iteration Number: 10
+[2,    11] loss: 0.263
+Iteration Number: 11
+[2,    12] loss: 0.475
+Iteration Number: 12
+[2,    13] loss: 0.318
+Iteration Number: 13
+[2,    14] loss: 0.805
+Iteration Number: 14
+[2,    15] loss: 0.281
+Iteration Number: 15
+[2,    16] loss: 0.674
+Iteration Number: 16
+[2,    17] loss: 0.879
+Iteration Number: 17
+[2,    18] loss: 0.773
+Iteration Number: 18
+[2,    19] loss: 0.864
+Iteration Number: 19
+[2,    20] loss: 0.554
+Iteration Number: 20
+[2,    21] loss: 0.853
+Iteration Number: 21
+[2,    22] loss: 0.834
+Iteration Number: 22
+[2,    23] loss: 0.665
+Iteration Number: 23
+[2,    24] loss: 0.674
+Iteration Number: 24
+[2,    25] loss: 0.465
+Iteration Number: 25
+[2,    26] loss: 0.608
+Iteration Number: 26
+[2,    27] loss: 0.752
+Iteration Number: 27
+[2,    28] loss: 0.842
+Iteration Number: 28
+[2,    29] loss: 0.451
+Iteration Number: 29
+[2,    30] loss: 0.377
+Iteration Number: 30
+[2,    31] loss: 0.284
+Iteration Number: 31
+[2,    32] loss: 0.609
+Iteration Number: 32
+[2,    33] loss: 0.590
+Iteration Number: 33
+[2,    34] loss: 0.704
+Iteration Number: 34
+[2,    35] loss: 0.654
+Iteration Number: 35
+[2,    36] loss: 0.696
+Iteration Number: 36
+[2,    37] loss: 0.345
+Iteration Number: 37
+[2,    38] loss: 0.476
+Iteration Number: 38
+[2,    39] loss: 0.631
+Iteration Number: 39
+[2,    40] loss: 0.623
+Iteration Number: 40
+[2,    41] loss: 0.478
+Iteration Number: 41
+[2,    42] loss: 0.435
+Iteration Number: 42
+[2,    43] loss: 0.547
+Iteration Number: 43
+[2,    44] loss: 0.690
+Iteration Number: 44
+[2,    45] loss: 0.671
+Iteration Number: 45
+[2,    46] loss: 0.719
+Iteration Number: 46
+[2,    47] loss: 0.785
+Iteration Number: 47
+[2,    48] loss: 0.724
+Iteration Number: 48
+[2,    49] loss: 0.550
+Iteration Number: 49
+[2,    50] loss: 0.522
+Iteration Number: 50
+[2,    51] loss: 0.568
+Iteration Number: 51
+[2,    52] loss: 0.714
+Iteration Number: 52
+[2,    53] loss: 0.612
+Iteration Number: 53
+[2,    54] loss: 0.611
+Iteration Number: 54
+[2,    55] loss: 0.669
+Iteration Number: 55
+[2,    56] loss: 0.678
+Iteration Number: 56
+[2,    57] loss: 0.660
+Iteration Number: 57
+[2,    58] loss: 0.754
+Iteration Number: 58
+[2,    59] loss: 0.550
+Iteration Number: 59
+[2,    60] loss: 0.414
+Iteration Number: 60
+[2,    61] loss: 0.774
+Iteration Number: 61
+[2,    62] loss: 0.759
+Iteration Number: 62
+[2,    63] loss: 0.642
+Iteration Number: 63
+[2,    64] loss: 0.814
+Iteration Number: 64
+[2,    65] loss: 0.344
+Iteration Number: 65
+[2,    66] loss: 0.727
+Iteration Number: 66
+[2,    67] loss: 0.551
+Iteration Number: 67
+[2,    68] loss: 0.422
+Iteration Number: 68
+[2,    69] loss: 0.455
+Iteration Number: 69
+[2,    70] loss: 0.608
+Iteration Number: 70
+[2,    71] loss: 0.705
+Iteration Number: 71
+[2,    72] loss: 0.564
+Iteration Number: 72
+[2,    73] loss: 1.013
+Iteration Number: 73
+[2,    74] loss: 1.073
+Iteration Number: 74
+[2,    75] loss: 0.707
+Iteration Number: 75
+[2,    76] loss: 0.749
+Iteration Number: 76
+[2,    77] loss: 0.567
+Iteration Number: 77
+[2,    78] loss: 0.635
+Iteration Number: 78
+[2,    79] loss: 0.509
+Iteration Number: 79
+[2,    80] loss: 0.698
+Iteration Number: 80
+[2,    81] loss: 0.637
+Iteration Number: 81
+[2,    82] loss: 0.754
+Iteration Number: 82
+[2,    83] loss: 0.871
+Iteration Number: 83
+[2,    84] loss: 0.643
+Iteration Number: 84
+[2,    85] loss: 1.023
+Iteration Number: 85
+[2,    86] loss: 1.072
+Iteration Number: 86
+[2,    87] loss: 0.477
+Iteration Number: 87
+[2,    88] loss: 0.787
+Iteration Number: 88
+[2,    89] loss: 0.539
+Iteration Number: 89
+[2,    90] loss: 0.745
+Iteration Number: 90
+[2,    91] loss: 0.507
+Iteration Number: 91
+[2,    92] loss: 0.524
+Iteration Number: 92
+[2,    93] loss: 0.448
+Iteration Number: 93
+[2,    94] loss: 0.411
+Iteration Number: 94
+[2,    95] loss: 0.507
+Iteration Number: 95
+[2,    96] loss: 0.889
+Iteration Number: 96
+[2,    97] loss: 0.984
+Iteration Number: 97
+[2,    98] loss: 0.523
+Iteration Number: 98
+[2,    99] loss: 0.456
+Iteration Number: 99
+[2,   100] loss: 0.578
+Iteration Number: 100
+[2,   101] loss: 0.515
+Iteration Number: 101
+[2,   102] loss: 0.624
+Iteration Number: 102
+[2,   103] loss: 0.572
+Iteration Number: 103
+[2,   104] loss: 0.475
+Iteration Number: 104
+[2,   105] loss: 0.327
+Iteration Number: 105
+[2,   106] loss: 0.636
+Iteration Number: 106
+[2,   107] loss: 0.477
+Iteration Number: 107
+[2,   108] loss: 0.723
+Iteration Number: 108
+[2,   109] loss: 0.620
+Iteration Number: 109
+[2,   110] loss: 0.617
+Iteration Number: 110
+[2,   111] loss: 0.464
+Iteration Number: 111
+[2,   112] loss: 0.616
+Iteration Number: 112
+[2,   113] loss: 0.752
+Iteration Number: 113
+[2,   114] loss: 0.613
+Iteration Number: 114
+[2,   115] loss: 0.618
+Iteration Number: 115
+[2,   116] loss: 0.564
+Iteration Number: 116
+[2,   117] loss: 0.683
+Iteration Number: 117
+[2,   118] loss: 0.802
+Iteration Number: 118
+[2,   119] loss: 0.496
+Iteration Number: 119
+[2,   120] loss: 0.736
+Iteration Number: 120
+[2,   121] loss: 0.360
+Iteration Number: 121
+[2,   122] loss: 0.809
+Iteration Number: 122
+[2,   123] loss: 1.158
+Iteration Number: 123
+[2,   124] loss: 0.575
+Iteration Number: 124
+[2,   125] loss: 0.633
+Iteration Number: 125
+[2,   126] loss: 0.456
+Iteration Number: 126
+[2,   127] loss: 0.489
+Iteration Number: 127
+[2,   128] loss: 0.302
+Iteration Number: 128
+[2,   129] loss: 0.520
+Iteration Number: 129
+[2,   130] loss: 0.272
+Iteration Number: 130
+[2,   131] loss: 0.485
+Iteration Number: 131
+[2,   132] loss: 0.836
+Iteration Number: 132
+[2,   133] loss: 0.162
+Iteration Number: 133
+[2,   134] loss: 0.924
+Iteration Number: 134
+[2,   135] loss: 0.767
+Iteration Number: 135
+[2,   136] loss: 0.541
+Iteration Number: 136
+[2,   137] loss: 0.576
+Iteration Number: 137
+[2,   138] loss: 0.499
+Iteration Number: 138
+[2,   139] loss: 0.703
+Iteration Number: 139
+[2,   140] loss: 0.720
+Iteration Number: 140
+[2,   141] loss: 0.541
+Iteration Number: 141
+[2,   142] loss: 0.690
+Iteration Number: 142
+[2,   143] loss: 0.676
+Iteration Number: 143
+[2,   144] loss: 0.542
+Iteration Number: 144
+[2,   145] loss: 0.543
+Iteration Number: 145
+[2,   146] loss: 0.628
+Iteration Number: 146
+[2,   147] loss: 1.089
+Iteration Number: 147
+[2,   148] loss: 0.694
+Iteration Number: 148
+[2,   149] loss: 0.385
+Iteration Number: 149
+[2,   150] loss: 0.604
+Iteration Number: 150
+[2,   151] loss: 0.553
+Iteration Number: 151
+[2,   152] loss: 0.728
+Iteration Number: 152
+[2,   153] loss: 0.713
+Iteration Number: 153
+[2,   154] loss: 0.550
+Iteration Number: 154
+[2,   155] loss: 0.660
+Iteration Number: 155
+[2,   156] loss: 0.549
+Iteration Number: 156
+[2,   157] loss: 0.617
+Iteration Number: 157
+[2,   158] loss: 0.530
+Iteration Number: 158
+[2,   159] loss: 0.455
+Iteration Number: 159
+[2,   160] loss: 0.544
+Iteration Number: 160
+[2,   161] loss: 0.350
+Iteration Number: 161
+[2,   162] loss: 0.794
+Iteration Number: 162
+[2,   163] loss: 0.448
+Iteration Number: 163
+[2,   164] loss: 0.621
+Iteration Number: 164
+[2,   165] loss: 0.679
+Iteration Number: 165
+[2,   166] loss: 0.885
+Iteration Number: 166
+[2,   167] loss: 0.668
+Iteration Number: 167
+[2,   168] loss: 0.601
+Iteration Number: 168
+[2,   169] loss: 0.498
+Iteration Number: 169
+[2,   170] loss: 0.440
+Iteration Number: 170
+[2,   171] loss: 0.796
+Iteration Number: 171
+[2,   172] loss: 0.541
+Iteration Number: 172
+[2,   173] loss: 0.517
+Iteration Number: 173
+[2,   174] loss: 0.465
+Iteration Number: 174
+[2,   175] loss: 0.626
+Iteration Number: 175
+[2,   176] loss: 0.546
+Iteration Number: 176
+[2,   177] loss: 0.548
+Iteration Number: 177
+[2,   178] loss: 0.621
+Iteration Number: 178
+[2,   179] loss: 0.248
+Iteration Number: 179
+[2,   180] loss: 0.482
+Iteration Number: 180
+[2,   181] loss: 0.704
+Iteration Number: 181
+[2,   182] loss: 0.556
+Iteration Number: 182
+[2,   183] loss: 0.633
+Iteration Number: 183
+[2,   184] loss: 0.386
+Iteration Number: 184
+[2,   185] loss: 0.524
+Iteration Number: 185
+[2,   186] loss: 0.565
+Iteration Number: 186
+[2,   187] loss: 0.359
+Iteration Number: 187
+[2,   188] loss: 0.472
+Iteration Number: 188
+[2,   189] loss: 0.442
+Iteration Number: 189
+[2,   190] loss: 0.617
+Iteration Number: 190
+[2,   191] loss: 0.581
+Iteration Number: 191
+[2,   192] loss: 0.621
+Iteration Number: 192
+[2,   193] loss: 0.584
+Iteration Number: 193
+[2,   194] loss: 0.742
+Iteration Number: 194
+[2,   195] loss: 0.619
+Iteration Number: 195
+[2,   196] loss: 0.742
+Iteration Number: 196
+[2,   197] loss: 0.783
+Iteration Number: 197
+[2,   198] loss: 0.461
+Iteration Number: 198
+[2,   199] loss: 0.483
+Iteration Number: 199
+[2,   200] loss: 0.457
+Iteration Number: 200
+[2,   201] loss: 0.398
+Iteration Number: 201
+[2,   202] loss: 0.406
+Iteration Number: 202
+[2,   203] loss: 0.468
+Iteration Number: 203
+[2,   204] loss: 0.861
+Iteration Number: 204
+[2,   205] loss: 0.180
+Iteration Number: 205
+[2,   206] loss: 0.596
+Iteration Number: 206
+[2,   207] loss: 0.917
+Iteration Number: 207
+[2,   208] loss: 0.579
+Iteration Number: 208
+[2,   209] loss: 0.748
+Iteration Number: 209
+[2,   210] loss: 0.467
+Iteration Number: 210
+[2,   211] loss: 0.494
+Iteration Number: 211
+[2,   212] loss: 0.801
+Iteration Number: 212
+[2,   213] loss: 0.695
+Iteration Number: 213
+[2,   214] loss: 0.791
+Iteration Number: 214
+[2,   215] loss: 0.547
+Iteration Number: 215
+[2,   216] loss: 0.575
+Iteration Number: 216
+[2,   217] loss: 0.853
+Iteration Number: 217
+[2,   218] loss: 0.469
+Iteration Number: 218
+[2,   219] loss: 0.453
+Iteration Number: 219
+[2,   220] loss: 0.520
+Iteration Number: 220
+[2,   221] loss: 0.649
+Iteration Number: 221
+[2,   222] loss: 0.692
+Iteration Number: 222
+[2,   223] loss: 0.452
+Iteration Number: 223
+[2,   224] loss: 0.261
+Iteration Number: 224
+[2,   225] loss: 1.031
+Iteration Number: 225
+[2,   226] loss: 0.637
+Iteration Number: 226
+[2,   227] loss: 0.458
+Iteration Number: 227
+[2,   228] loss: 0.576
+Iteration Number: 228
+[2,   229] loss: 0.680
+Iteration Number: 229
+[2,   230] loss: 0.642
+Iteration Number: 230
+[2,   231] loss: 0.601
+Iteration Number: 231
+[2,   232] loss: 0.769
+Iteration Number: 232
+[2,   233] loss: 0.733
+Iteration Number: 233
+[2,   234] loss: 0.751
+Iteration Number: 234
+[2,   235] loss: 0.717
+Iteration Number: 235
+[2,   236] loss: 0.666
+Iteration Number: 236
+[2,   237] loss: 0.506
+Iteration Number: 237
+[2,   238] loss: 0.561
+Iteration Number: 238
+[2,   239] loss: 0.617
+Iteration Number: 239
+[2,   240] loss: 0.551
+Iteration Number: 240
+[2,   241] loss: 0.778
+Iteration Number: 241
+[2,   242] loss: 0.815
+Iteration Number: 242
+[2,   243] loss: 0.681
+Iteration Number: 243
+[2,   244] loss: 0.796
+Iteration Number: 244
+[2,   245] loss: 0.718
+Iteration Number: 245
+[2,   246] loss: 0.712
+Iteration Number: 246
+[2,   247] loss: 0.468
+Iteration Number: 247
+[2,   248] loss: 0.828
+Iteration Number: 248
+[2,   249] loss: 0.383
+Iteration Number: 249
+[2,   250] loss: 0.659
+Iteration Number: 250
+[2,   251] loss: 0.384
+Iteration Number: 251
+[2,   252] loss: 0.551
+Iteration Number: 252
+[2,   253] loss: 0.436
+Iteration Number: 253
+[2,   254] loss: 0.488
+Iteration Number: 254
+[2,   255] loss: 0.862
+Iteration Number: 255
+[2,   256] loss: 0.346
+Iteration Number: 256
+[2,   257] loss: 0.564
+Iteration Number: 257
+[2,   258] loss: 0.373
+Iteration Number: 258
+[2,   259] loss: 0.411
+Iteration Number: 259
+[2,   260] loss: 0.537
+Iteration Number: 260
+[2,   261] loss: 0.613
+Iteration Number: 261
+[2,   262] loss: 0.427
+Iteration Number: 262
+[2,   263] loss: 0.958
+Iteration Number: 263
+[2,   264] loss: 0.667
+Iteration Number: 264
+[2,   265] loss: 0.390
+Iteration Number: 265
+[2,   266] loss: 0.495
+Iteration Number: 266
+[2,   267] loss: 0.631
+Iteration Number: 267
+[2,   268] loss: 0.466
+Iteration Number: 268
+[2,   269] loss: 0.631
+Iteration Number: 269
+[2,   270] loss: 0.627
+Iteration Number: 270
+[2,   271] loss: 0.541
+Iteration Number: 271
+[2,   272] loss: 0.542
+Iteration Number: 272
+[2,   273] loss: 0.474
+Iteration Number: 273
+[2,   274] loss: 0.461
+Iteration Number: 274
+[2,   275] loss: 0.688
+Iteration Number: 275
+[2,   276] loss: 0.465
+Iteration Number: 276
+[2,   277] loss: 0.453
+Iteration Number: 277
+[2,   278] loss: 0.583
+Iteration Number: 278
+[2,   279] loss: 0.554
+Iteration Number: 279
+[2,   280] loss: 0.639
+Iteration Number: 280
+[2,   281] loss: 0.500
+Iteration Number: 281
+[2,   282] loss: 0.568
+Iteration Number: 282
+[2,   283] loss: 0.965
+Iteration Number: 283
+[2,   284] loss: 0.794
+Iteration Number: 284
+[2,   285] loss: 0.611
+Iteration Number: 285
+[2,   286] loss: 1.202
+Iteration Number: 286
+[2,   287] loss: 0.529
+Iteration Number: 287
+[2,   288] loss: 0.631
+Iteration Number: 288
+[2,   289] loss: 0.738
+Iteration Number: 289
+[2,   290] loss: 0.496
+Iteration Number: 290
+[2,   291] loss: 0.840
+Iteration Number: 291
+[2,   292] loss: 0.774
+Iteration Number: 292
+[2,   293] loss: 0.697
+Iteration Number: 293
+[2,   294] loss: 0.615
+Iteration Number: 294
+[2,   295] loss: 1.094
+Iteration Number: 295
+[2,   296] loss: 0.474
+Iteration Number: 296
+[2,   297] loss: 0.564
+Iteration Number: 297
+[2,   298] loss: 0.617
+Iteration Number: 298
+[2,   299] loss: 0.530
+Iteration Number: 299
+[2,   300] loss: 0.754
+Iteration Number: 300
+[2,   301] loss: 0.666
+Iteration Number: 301
+[2,   302] loss: 0.571
+Iteration Number: 302
+[2,   303] loss: 0.634
+Iteration Number: 303
+[2,   304] loss: 0.749
+Iteration Number: 304
+[2,   305] loss: 0.602
+Iteration Number: 305
+[2,   306] loss: 0.426
+Iteration Number: 306
+[2,   307] loss: 0.516
+Iteration Number: 307
+[2,   308] loss: 0.422
+Iteration Number: 308
+[2,   309] loss: 0.490
+Iteration Number: 309
+[2,   310] loss: 0.413
+Iteration Number: 310
+[2,   311] loss: 0.416
+Iteration Number: 311
+[2,   312] loss: 0.871
+Iteration Number: 312
+[2,   313] loss: 0.522
+[2,   314] Train Acc: 82.131
+Epoch Number: 2
+Iteration Number: 0
+[3,     1] loss: 0.688
+Iteration Number: 1
+[3,     2] loss: 0.553
+Iteration Number: 2
+[3,     3] loss: 0.569
+Iteration Number: 3
+[3,     4] loss: 0.618
+Iteration Number: 4
+[3,     5] loss: 0.530
+Iteration Number: 5
+[3,     6] loss: 0.786
+Iteration Number: 6
+[3,     7] loss: 0.524
+Iteration Number: 7
+[3,     8] loss: 0.606
+Iteration Number: 8
+[3,     9] loss: 0.603
+Iteration Number: 9
+[3,    10] loss: 0.840
+Iteration Number: 10
+[3,    11] loss: 0.266
+Iteration Number: 11
+[3,    12] loss: 0.477
+Iteration Number: 12
+[3,    13] loss: 0.315
+Iteration Number: 13
+[3,    14] loss: 0.806
+Iteration Number: 14
+[3,    15] loss: 0.280
+Iteration Number: 15
+[3,    16] loss: 0.676
+Iteration Number: 16
+[3,    17] loss: 0.883
+Iteration Number: 17
+[3,    18] loss: 0.777
+Iteration Number: 18
+[3,    19] loss: 0.872
+Iteration Number: 19
+[3,    20] loss: 0.552
+Iteration Number: 20
+[3,    21] loss: 0.851
+Iteration Number: 21
+[3,    22] loss: 0.832
+Iteration Number: 22
+[3,    23] loss: 0.659
+Iteration Number: 23
+[3,    24] loss: 0.682
+Iteration Number: 24
+[3,    25] loss: 0.492
+Iteration Number: 25
+[3,    26] loss: 0.612
+Iteration Number: 26
+[3,    27] loss: 0.733
+Iteration Number: 27
+[3,    28] loss: 0.823
+Iteration Number: 28
+[3,    29] loss: 0.449
+Iteration Number: 29
+[3,    30] loss: 0.375
+Iteration Number: 30
+[3,    31] loss: 0.283
+Iteration Number: 31
+[3,    32] loss: 0.613
+Iteration Number: 32
+[3,    33] loss: 0.602
+Iteration Number: 33
+[3,    34] loss: 0.721
+Iteration Number: 34
+[3,    35] loss: 0.672
+Iteration Number: 35
+[3,    36] loss: 0.717
+Iteration Number: 36
+[3,    37] loss: 0.321
+Iteration Number: 37
+[3,    38] loss: 0.457
+Iteration Number: 38
+[3,    39] loss: 0.625
+Iteration Number: 39
+[3,    40] loss: 0.623
+Iteration Number: 40
+[3,    41] loss: 0.489
+Iteration Number: 41
+[3,    42] loss: 0.461
+Iteration Number: 42
+[3,    43] loss: 0.552
+Iteration Number: 43
+[3,    44] loss: 0.673
+Iteration Number: 44
+[3,    45] loss: 0.656
+Iteration Number: 45
+[3,    46] loss: 0.706
+Iteration Number: 46
+[3,    47] loss: 0.775
+Iteration Number: 47
+[3,    48] loss: 0.723
+Iteration Number: 48
+[3,    49] loss: 0.532
+Iteration Number: 49
+[3,    50] loss: 0.522
+Iteration Number: 50
+[3,    51] loss: 0.557
+Iteration Number: 51
+[3,    52] loss: 0.725
+Iteration Number: 52
+[3,    53] loss: 0.612
+Iteration Number: 53
+[3,    54] loss: 0.611
+Iteration Number: 54
+[3,    55] loss: 0.671
+Iteration Number: 55
+[3,    56] loss: 0.680
+Iteration Number: 56
+[3,    57] loss: 0.659
+Iteration Number: 57
+[3,    58] loss: 0.752
+Iteration Number: 58
+[3,    59] loss: 0.554
+Iteration Number: 59
+[3,    60] loss: 0.418
+Iteration Number: 60
+[3,    61] loss: 0.775
+Iteration Number: 61
+[3,    62] loss: 0.763
+Iteration Number: 62
+[3,    63] loss: 0.644
+Iteration Number: 63
+[3,    64] loss: 0.827
+Iteration Number: 64
+[3,    65] loss: 0.329
+Iteration Number: 65
+[3,    66] loss: 0.732
+Iteration Number: 66
+[3,    67] loss: 0.546
+Iteration Number: 67
+[3,    68] loss: 0.419
+Iteration Number: 68
+[3,    69] loss: 0.457
+Iteration Number: 69
+[3,    70] loss: 0.606
+Iteration Number: 70
+[3,    71] loss: 0.698
+Iteration Number: 71
+[3,    72] loss: 0.560
+Iteration Number: 72
+[3,    73] loss: 0.992
+Iteration Number: 73
+[3,    74] loss: 1.059
+Iteration Number: 74
+[3,    75] loss: 0.706
+Iteration Number: 75
+[3,    76] loss: 0.742
+Iteration Number: 76
+[3,    77] loss: 0.529
+Iteration Number: 77
+[3,    78] loss: 0.622
+Iteration Number: 78
+[3,    79] loss: 0.511
+Iteration Number: 79
+[3,    80] loss: 0.696
+Iteration Number: 80
+[3,    81] loss: 0.627
+Iteration Number: 81
+[3,    82] loss: 0.737
+Iteration Number: 82
+[3,    83] loss: 0.848
+Iteration Number: 83
+[3,    84] loss: 0.635
+Iteration Number: 84
+[3,    85] loss: 1.006
+Iteration Number: 85
+[3,    86] loss: 1.059
+Iteration Number: 86
+[3,    87] loss: 0.462
+Iteration Number: 87
+[3,    88] loss: 0.775
+Iteration Number: 88
+[3,    89] loss: 0.518
+Iteration Number: 89
+[3,    90] loss: 0.745
+Iteration Number: 90
+[3,    91] loss: 0.513
+Iteration Number: 91
+[3,    92] loss: 0.530
+Iteration Number: 92
+[3,    93] loss: 0.451
+Iteration Number: 93
+[3,    94] loss: 0.413
+Iteration Number: 94
+[3,    95] loss: 0.496
+Iteration Number: 95
+[3,    96] loss: 0.859
+Iteration Number: 96
+[3,    97] loss: 0.957
+Iteration Number: 97
+[3,    98] loss: 0.513
+Iteration Number: 98
+[3,    99] loss: 0.453
+Iteration Number: 99
+[3,   100] loss: 0.571
+Iteration Number: 100
+[3,   101] loss: 0.513
+Iteration Number: 101
+[3,   102] loss: 0.619
+Iteration Number: 102
+[3,   103] loss: 0.565
+Iteration Number: 103
+[3,   104] loss: 0.471
+Iteration Number: 104
+[3,   105] loss: 0.329
+Iteration Number: 105
+[3,   106] loss: 0.630
+Iteration Number: 106
+[3,   107] loss: 0.481
+Iteration Number: 107
+[3,   108] loss: 0.721
+Iteration Number: 108
+[3,   109] loss: 0.617
+Iteration Number: 109
+[3,   110] loss: 0.613
+Iteration Number: 110
+[3,   111] loss: 0.460
+Iteration Number: 111
+[3,   112] loss: 0.614
+Iteration Number: 112
+[3,   113] loss: 0.754
+Iteration Number: 113
+[3,   114] loss: 0.610
+Iteration Number: 114
+[3,   115] loss: 0.615
+Iteration Number: 115
+[3,   116] loss: 0.561
+Iteration Number: 116
+[3,   117] loss: 0.684
+Iteration Number: 117
+[3,   118] loss: 0.803
+Iteration Number: 118
+[3,   119] loss: 0.504
+Iteration Number: 119
+[3,   120] loss: 0.734
+Iteration Number: 120
+[3,   121] loss: 0.368
+Iteration Number: 121
+[3,   122] loss: 0.804
+Iteration Number: 122
+[3,   123] loss: 1.139
+Iteration Number: 123
+[3,   124] loss: 0.570
+Iteration Number: 124
+[3,   125] loss: 0.635
+Iteration Number: 125
+[3,   126] loss: 0.449
+Iteration Number: 126
+[3,   127] loss: 0.485
+Iteration Number: 127
+[3,   128] loss: 0.301
+Iteration Number: 128
+[3,   129] loss: 0.518
+Iteration Number: 129
+[3,   130] loss: 0.273
+Iteration Number: 130
+[3,   131] loss: 0.483
+Iteration Number: 131
+[3,   132] loss: 0.828
+Iteration Number: 132
+[3,   133] loss: 0.161
+Iteration Number: 133
+[3,   134] loss: 0.906
+Iteration Number: 134
+[3,   135] loss: 0.755
+Iteration Number: 135
+[3,   136] loss: 0.539
+Iteration Number: 136
+[3,   137] loss: 0.579
+Iteration Number: 137
+[3,   138] loss: 0.496
+Iteration Number: 138
+[3,   139] loss: 0.704
+Iteration Number: 139
+[3,   140] loss: 0.717
+Iteration Number: 140
+[3,   141] loss: 0.535
+Iteration Number: 141
+[3,   142] loss: 0.693
+Iteration Number: 142
+[3,   143] loss: 0.676
+Iteration Number: 143
+[3,   144] loss: 0.544
+Iteration Number: 144
+[3,   145] loss: 0.545
+Iteration Number: 145
+[3,   146] loss: 0.624
+Iteration Number: 146
+[3,   147] loss: 1.069
+Iteration Number: 147
+[3,   148] loss: 0.690
+Iteration Number: 148
+[3,   149] loss: 0.384
+Iteration Number: 149
+[3,   150] loss: 0.603
+Iteration Number: 150
+[3,   151] loss: 0.549
+Iteration Number: 151
+[3,   152] loss: 0.732
+Iteration Number: 152
+[3,   153] loss: 0.713
+Iteration Number: 153
+[3,   154] loss: 0.547
+Iteration Number: 154
+[3,   155] loss: 0.669
+Iteration Number: 155
+[3,   156] loss: 0.551
+Iteration Number: 156
+[3,   157] loss: 0.613
+Iteration Number: 157
+[3,   158] loss: 0.534
+Iteration Number: 158
+[3,   159] loss: 0.457
+Iteration Number: 159
+[3,   160] loss: 0.543
+Iteration Number: 160
+[3,   161] loss: 0.353
+Iteration Number: 161
+[3,   162] loss: 0.788
+Iteration Number: 162
+[3,   163] loss: 0.447
+Iteration Number: 163
+[3,   164] loss: 0.619
+Iteration Number: 164
+[3,   165] loss: 0.678
+Iteration Number: 165
+[3,   166] loss: 0.888
+Iteration Number: 166
+[3,   167] loss: 0.669
+Iteration Number: 167
+[3,   168] loss: 0.599
+Iteration Number: 168
+[3,   169] loss: 0.497
+Iteration Number: 169
+[3,   170] loss: 0.436
+Iteration Number: 170
+[3,   171] loss: 0.791
+Iteration Number: 171
+[3,   172] loss: 0.542
+Iteration Number: 172
+[3,   173] loss: 0.508
+Iteration Number: 173
+[3,   174] loss: 0.466
+Iteration Number: 174
+[3,   175] loss: 0.624
+Iteration Number: 175
+[3,   176] loss: 0.546
+Iteration Number: 176
+[3,   177] loss: 0.550
+Iteration Number: 177
+[3,   178] loss: 0.620
+Iteration Number: 178
+[3,   179] loss: 0.244
+Iteration Number: 179
+[3,   180] loss: 0.483
+Iteration Number: 180
+[3,   181] loss: 0.705
+Iteration Number: 181
+[3,   182] loss: 0.559
+Iteration Number: 182
+[3,   183] loss: 0.639
+Iteration Number: 183
+[3,   184] loss: 0.389
+Iteration Number: 184
+[3,   185] loss: 0.527
+Iteration Number: 185
+[3,   186] loss: 0.558
+Iteration Number: 186
+[3,   187] loss: 0.361
+Iteration Number: 187
+[3,   188] loss: 0.475
+Iteration Number: 188
+[3,   189] loss: 0.438
+Iteration Number: 189
+[3,   190] loss: 0.612
+Iteration Number: 190
+[3,   191] loss: 0.579
+Iteration Number: 191
+[3,   192] loss: 0.617
+Iteration Number: 192
+[3,   193] loss: 0.581
+Iteration Number: 193
+[3,   194] loss: 0.738
+Iteration Number: 194
+[3,   195] loss: 0.618
+Iteration Number: 195
+[3,   196] loss: 0.743
+Iteration Number: 196
+[3,   197] loss: 0.785
+Iteration Number: 197
+[3,   198] loss: 0.452
+Iteration Number: 198
+[3,   199] loss: 0.474
+Iteration Number: 199
+[3,   200] loss: 0.452
+Iteration Number: 200
+[3,   201] loss: 0.396
+Iteration Number: 201
+[3,   202] loss: 0.410
+Iteration Number: 202
+[3,   203] loss: 0.469
+Iteration Number: 203
+[3,   204] loss: 0.845
+Iteration Number: 204
+[3,   205] loss: 0.185
+Iteration Number: 205
+[3,   206] loss: 0.590
+Iteration Number: 206
+[3,   207] loss: 0.906
+Iteration Number: 207
+[3,   208] loss: 0.578
+Iteration Number: 208
+[3,   209] loss: 0.747
+Iteration Number: 209
+[3,   210] loss: 0.466
+Iteration Number: 210
+[3,   211] loss: 0.490
+Iteration Number: 211
+[3,   212] loss: 0.804
+Iteration Number: 212
+[3,   213] loss: 0.692
+Iteration Number: 213
+[3,   214] loss: 0.794
+Iteration Number: 214
+[3,   215] loss: 0.542
+Iteration Number: 215
+[3,   216] loss: 0.580
+Iteration Number: 216
+[3,   217] loss: 0.846
+Iteration Number: 217
+[3,   218] loss: 0.477
+Iteration Number: 218
+[3,   219] loss: 0.457
+Iteration Number: 219
+[3,   220] loss: 0.517
+Iteration Number: 220
+[3,   221] loss: 0.643
+Iteration Number: 221
+[3,   222] loss: 0.689
+Iteration Number: 222
+[3,   223] loss: 0.452
+Iteration Number: 223
+[3,   224] loss: 0.259
+Iteration Number: 224
+[3,   225] loss: 1.044
+Iteration Number: 225
+[3,   226] loss: 0.632
+Iteration Number: 226
+[3,   227] loss: 0.454
+Iteration Number: 227
+[3,   228] loss: 0.573
+Iteration Number: 228
+[3,   229] loss: 0.679
+Iteration Number: 229
+[3,   230] loss: 0.646
+Iteration Number: 230
+[3,   231] loss: 0.615
+Iteration Number: 231
+[3,   232] loss: 0.763
+Iteration Number: 232
+[3,   233] loss: 0.740
+Iteration Number: 233
+[3,   234] loss: 0.749
+Iteration Number: 234
+[3,   235] loss: 0.707
+Iteration Number: 235
+[3,   236] loss: 0.662
+Iteration Number: 236
+[3,   237] loss: 0.499
+Iteration Number: 237
+[3,   238] loss: 0.552
+Iteration Number: 238
+[3,   239] loss: 0.615
+Iteration Number: 239
+[3,   240] loss: 0.550
+Iteration Number: 240
+[3,   241] loss: 0.769
+Iteration Number: 241
+[3,   242] loss: 0.818
+Iteration Number: 242
+[3,   243] loss: 0.681
+Iteration Number: 243
+[3,   244] loss: 0.800
+Iteration Number: 244
+[3,   245] loss: 0.722
+Iteration Number: 245
+[3,   246] loss: 0.715
+Iteration Number: 246
+[3,   247] loss: 0.461
+Iteration Number: 247
+[3,   248] loss: 0.823
+Iteration Number: 248
+[3,   249] loss: 0.385
+Iteration Number: 249
+[3,   250] loss: 0.658
+Iteration Number: 250
+[3,   251] loss: 0.386
+Iteration Number: 251
+[3,   252] loss: 0.550
+Iteration Number: 252
+[3,   253] loss: 0.432
+Iteration Number: 253
+[3,   254] loss: 0.488
+Iteration Number: 254
+[3,   255] loss: 0.855
+Iteration Number: 255
+[3,   256] loss: 0.343
+Iteration Number: 256
+[3,   257] loss: 0.567
+Iteration Number: 257
+[3,   258] loss: 0.372
+Iteration Number: 258
+[3,   259] loss: 0.408
+Iteration Number: 259
+[3,   260] loss: 0.537
+Iteration Number: 260
+[3,   261] loss: 0.615
+Iteration Number: 261
+[3,   262] loss: 0.422
+Iteration Number: 262
+[3,   263] loss: 0.966
+Iteration Number: 263
+[3,   264] loss: 0.670
+Iteration Number: 264
+[3,   265] loss: 0.395
+Iteration Number: 265
+[3,   266] loss: 0.500
+Iteration Number: 266
+[3,   267] loss: 0.622
+Iteration Number: 267
+[3,   268] loss: 0.467
+Iteration Number: 268
+[3,   269] loss: 0.628
+Iteration Number: 269
+[3,   270] loss: 0.624
+Iteration Number: 270
+[3,   271] loss: 0.539
+Iteration Number: 271
+[3,   272] loss: 0.544
+Iteration Number: 272
+[3,   273] loss: 0.473
+Iteration Number: 273
+[3,   274] loss: 0.460
+Iteration Number: 274
+[3,   275] loss: 0.691
+Iteration Number: 275
+[3,   276] loss: 0.464
+Iteration Number: 276
+[3,   277] loss: 0.455
+Iteration Number: 277
+[3,   278] loss: 0.585
+Iteration Number: 278
+[3,   279] loss: 0.557
+Iteration Number: 279
+[3,   280] loss: 0.636
+Iteration Number: 280
+[3,   281] loss: 0.499
+Iteration Number: 281
+[3,   282] loss: 0.568
+Iteration Number: 282
+[3,   283] loss: 0.954
+Iteration Number: 283
+[3,   284] loss: 0.790
+Iteration Number: 284
+[3,   285] loss: 0.611
+Iteration Number: 285
+[3,   286] loss: 1.203
+Iteration Number: 286
+[3,   287] loss: 0.525
+Iteration Number: 287
+[3,   288] loss: 0.624
+Iteration Number: 288
+[3,   289] loss: 0.736
+Iteration Number: 289
+[3,   290] loss: 0.488
+Iteration Number: 290
+[3,   291] loss: 0.835
+Iteration Number: 291
+[3,   292] loss: 0.769
+Iteration Number: 292
+[3,   293] loss: 0.694
+Iteration Number: 293
+[3,   294] loss: 0.615
+Iteration Number: 294
+[3,   295] loss: 1.086
+Iteration Number: 295
+[3,   296] loss: 0.476
+Iteration Number: 296
+[3,   297] loss: 0.561
+Iteration Number: 297
+[3,   298] loss: 0.608
+Iteration Number: 298
+[3,   299] loss: 0.523
+Iteration Number: 299
+[3,   300] loss: 0.752
+Iteration Number: 300
+[3,   301] loss: 0.665
+Iteration Number: 301
+[3,   302] loss: 0.570
+Iteration Number: 302
+[3,   303] loss: 0.631
+Iteration Number: 303
+[3,   304] loss: 0.745
+Iteration Number: 304
+[3,   305] loss: 0.604
+Iteration Number: 305
+[3,   306] loss: 0.426
+Iteration Number: 306
+[3,   307] loss: 0.514
+Iteration Number: 307
+[3,   308] loss: 0.420
+Iteration Number: 308
+[3,   309] loss: 0.491
+Iteration Number: 309
+[3,   310] loss: 0.410
+Iteration Number: 310
+[3,   311] loss: 0.413
+Iteration Number: 311
+[3,   312] loss: 0.868
+Iteration Number: 312
+[3,   313] loss: 0.521
+[3,   314] Train Acc: 82.131
+Epoch Number: 3
+Iteration Number: 0
+[4,     1] loss: 0.688
+Iteration Number: 1
+[4,     2] loss: 0.552
+Iteration Number: 2
+[4,     3] loss: 0.569
+Iteration Number: 3
+[4,     4] loss: 0.616
+Iteration Number: 4
+[4,     5] loss: 0.528
+Iteration Number: 5
+[4,     6] loss: 0.787
+Iteration Number: 6
+[4,     7] loss: 0.524
+Iteration Number: 7
+[4,     8] loss: 0.607
+Iteration Number: 8
+[4,     9] loss: 0.603
+Iteration Number: 9
+[4,    10] loss: 0.837
+Iteration Number: 10
+[4,    11] loss: 0.269
+Iteration Number: 11
+[4,    12] loss: 0.479
+Iteration Number: 12
+[4,    13] loss: 0.314
+Iteration Number: 13
+[4,    14] loss: 0.806
+Iteration Number: 14
+[4,    15] loss: 0.280
+Iteration Number: 15
+[4,    16] loss: 0.676
+Iteration Number: 16
+[4,    17] loss: 0.886
+Iteration Number: 17
+[4,    18] loss: 0.781
+Iteration Number: 18
+[4,    19] loss: 0.880
+Iteration Number: 19
+[4,    20] loss: 0.551
+Iteration Number: 20
+[4,    21] loss: 0.852
+Iteration Number: 21
+[4,    22] loss: 0.832
+Iteration Number: 22
+[4,    23] loss: 0.653
+Iteration Number: 23
+[4,    24] loss: 0.687
+Iteration Number: 24
+[4,    25] loss: 0.509
+Iteration Number: 25
+[4,    26] loss: 0.617
+Iteration Number: 26
+[4,    27] loss: 0.722
+Iteration Number: 27
+[4,    28] loss: 0.811
+Iteration Number: 28
+[4,    29] loss: 0.449
+Iteration Number: 29
+[4,    30] loss: 0.373
+Iteration Number: 30
+[4,    31] loss: 0.283
+Iteration Number: 31
+[4,    32] loss: 0.613
+Iteration Number: 32
+[4,    33] loss: 0.608
+Iteration Number: 33
+[4,    34] loss: 0.731
+Iteration Number: 34
+[4,    35] loss: 0.684
+Iteration Number: 35
+[4,    36] loss: 0.734
+Iteration Number: 36
+[4,    37] loss: 0.308
+Iteration Number: 37
+[4,    38] loss: 0.445
+Iteration Number: 38
+[4,    39] loss: 0.622
+Iteration Number: 39
+[4,    40] loss: 0.620
+Iteration Number: 40
+[4,    41] loss: 0.491
+Iteration Number: 41
+[4,    42] loss: 0.476
+Iteration Number: 42
+[4,    43] loss: 0.560
+Iteration Number: 43
+[4,    44] loss: 0.664
+Iteration Number: 44
+[4,    45] loss: 0.647
+Iteration Number: 45
+[4,    46] loss: 0.694
+Iteration Number: 46
+[4,    47] loss: 0.765
+Iteration Number: 47
+[4,    48] loss: 0.720
+Iteration Number: 48
+[4,    49] loss: 0.523
+Iteration Number: 49
+[4,    50] loss: 0.524
+Iteration Number: 50
+[4,    51] loss: 0.552
+Iteration Number: 51
+[4,    52] loss: 0.736
+Iteration Number: 52
+[4,    53] loss: 0.613
+Iteration Number: 53
+[4,    54] loss: 0.611
+Iteration Number: 54
+[4,    55] loss: 0.671
+Iteration Number: 55
+[4,    56] loss: 0.681
+Iteration Number: 56
+[4,    57] loss: 0.660
+Iteration Number: 57
+[4,    58] loss: 0.751
+Iteration Number: 58
+[4,    59] loss: 0.560
+Iteration Number: 59
+[4,    60] loss: 0.426
+Iteration Number: 60
+[4,    61] loss: 0.772
+Iteration Number: 61
+[4,    62] loss: 0.762
+Iteration Number: 62
+[4,    63] loss: 0.645
+Iteration Number: 63
+[4,    64] loss: 0.833
+Iteration Number: 64
+[4,    65] loss: 0.320
+Iteration Number: 65
+[4,    66] loss: 0.737
+Iteration Number: 66
+[4,    67] loss: 0.543
+Iteration Number: 67
+[4,    68] loss: 0.412
+Iteration Number: 68
+[4,    69] loss: 0.455
+Iteration Number: 69
+[4,    70] loss: 0.605
+Iteration Number: 70
+[4,    71] loss: 0.696
+Iteration Number: 71
+[4,    72] loss: 0.558
+Iteration Number: 72
+[4,    73] loss: 0.978
+Iteration Number: 73
+[4,    74] loss: 1.046
+Iteration Number: 74
+[4,    75] loss: 0.705
+Iteration Number: 75
+[4,    76] loss: 0.741
+Iteration Number: 76
+[4,    77] loss: 0.514
+Iteration Number: 77
+[4,    78] loss: 0.616
+Iteration Number: 78
+[4,    79] loss: 0.511
+Iteration Number: 79
+[4,    80] loss: 0.695
+Iteration Number: 80
+[4,    81] loss: 0.624
+Iteration Number: 81
+[4,    82] loss: 0.731
+Iteration Number: 82
+[4,    83] loss: 0.839
+Iteration Number: 83
+[4,    84] loss: 0.633
+Iteration Number: 84
+[4,    85] loss: 1.000
+Iteration Number: 85
+[4,    86] loss: 1.054
+Iteration Number: 86
+[4,    87] loss: 0.453
+Iteration Number: 87
+[4,    88] loss: 0.768
+Iteration Number: 88
+[4,    89] loss: 0.507
+Iteration Number: 89
+[4,    90] loss: 0.744
+Iteration Number: 90
+[4,    91] loss: 0.518
+Iteration Number: 91
+[4,    92] loss: 0.534
+Iteration Number: 92
+[4,    93] loss: 0.454
+Iteration Number: 93
+[4,    94] loss: 0.415
+Iteration Number: 94
+[4,    95] loss: 0.490
+Iteration Number: 95
+[4,    96] loss: 0.841
+Iteration Number: 96
+[4,    97] loss: 0.940
+Iteration Number: 97
+[4,    98] loss: 0.507
+Iteration Number: 98
+[4,    99] loss: 0.452
+Iteration Number: 99
+[4,   100] loss: 0.568
+Iteration Number: 100
+[4,   101] loss: 0.513
+Iteration Number: 101
+[4,   102] loss: 0.617
+Iteration Number: 102
+[4,   103] loss: 0.561
+Iteration Number: 103
+[4,   104] loss: 0.468
+Iteration Number: 104
+[4,   105] loss: 0.328
+Iteration Number: 105
+[4,   106] loss: 0.627
+Iteration Number: 106
+[4,   107] loss: 0.485
+Iteration Number: 107
+[4,   108] loss: 0.720
+Iteration Number: 108
+[4,   109] loss: 0.615
+Iteration Number: 109
+[4,   110] loss: 0.610
+Iteration Number: 110
+[4,   111] loss: 0.458
+Iteration Number: 111
+[4,   112] loss: 0.612
+Iteration Number: 112
+[4,   113] loss: 0.756
+Iteration Number: 113
+[4,   114] loss: 0.610
+Iteration Number: 114
+[4,   115] loss: 0.613
+Iteration Number: 115
+[4,   116] loss: 0.559
+Iteration Number: 116
+[4,   117] loss: 0.685
+Iteration Number: 117
+[4,   118] loss: 0.805
+Iteration Number: 118
+[4,   119] loss: 0.508
+Iteration Number: 119
+[4,   120] loss: 0.735
+Iteration Number: 120
+[4,   121] loss: 0.373
+Iteration Number: 121
+[4,   122] loss: 0.800
+Iteration Number: 122
+[4,   123] loss: 1.125
+Iteration Number: 123
+[4,   124] loss: 0.568
+Iteration Number: 124
+[4,   125] loss: 0.637
+Iteration Number: 125
+[4,   126] loss: 0.447
+Iteration Number: 126
+[4,   127] loss: 0.483
+Iteration Number: 127
+[4,   128] loss: 0.300
+Iteration Number: 128
+[4,   129] loss: 0.517
+Iteration Number: 129
+[4,   130] loss: 0.273
+Iteration Number: 130
+[4,   131] loss: 0.482
+Iteration Number: 131
+[4,   132] loss: 0.824
+Iteration Number: 132
+[4,   133] loss: 0.161
+Iteration Number: 133
+[4,   134] loss: 0.897
+Iteration Number: 134
+[4,   135] loss: 0.749
+Iteration Number: 135
+[4,   136] loss: 0.539
+Iteration Number: 136
+[4,   137] loss: 0.582
+Iteration Number: 137
+[4,   138] loss: 0.494
+Iteration Number: 138
+[4,   139] loss: 0.705
+Iteration Number: 139
+[4,   140] loss: 0.716
+Iteration Number: 140
+[4,   141] loss: 0.530
+Iteration Number: 141
+[4,   142] loss: 0.695
+Iteration Number: 142
+[4,   143] loss: 0.676
+Iteration Number: 143
+[4,   144] loss: 0.546
+Iteration Number: 144
+[4,   145] loss: 0.547
+Iteration Number: 145
+[4,   146] loss: 0.622
+Iteration Number: 146
+[4,   147] loss: 1.054
+Iteration Number: 147
+[4,   148] loss: 0.688
+Iteration Number: 148
+[4,   149] loss: 0.384
+Iteration Number: 149
+[4,   150] loss: 0.603
+Iteration Number: 150
+[4,   151] loss: 0.547
+Iteration Number: 151
+[4,   152] loss: 0.735
+Iteration Number: 152
+[4,   153] loss: 0.713
+Iteration Number: 153
+[4,   154] loss: 0.546
+Iteration Number: 154
+[4,   155] loss: 0.677
+Iteration Number: 155
+[4,   156] loss: 0.552
+Iteration Number: 156
+[4,   157] loss: 0.610
+Iteration Number: 157
+[4,   158] loss: 0.538
+Iteration Number: 158
+[4,   159] loss: 0.459
+Iteration Number: 159
+[4,   160] loss: 0.543
+Iteration Number: 160
+[4,   161] loss: 0.356
+Iteration Number: 161
+[4,   162] loss: 0.783
+Iteration Number: 162
+[4,   163] loss: 0.447
+Iteration Number: 163
+[4,   164] loss: 0.617
+Iteration Number: 164
+[4,   165] loss: 0.677
+Iteration Number: 165
+[4,   166] loss: 0.888
+Iteration Number: 166
+[4,   167] loss: 0.670
+Iteration Number: 167
+[4,   168] loss: 0.598
+Iteration Number: 168
+[4,   169] loss: 0.496
+Iteration Number: 169
+[4,   170] loss: 0.434
+Iteration Number: 170
+[4,   171] loss: 0.788
+Iteration Number: 171
+[4,   172] loss: 0.544
+Iteration Number: 172
+[4,   173] loss: 0.502
+Iteration Number: 173
+[4,   174] loss: 0.467
+Iteration Number: 174
+[4,   175] loss: 0.625
+Iteration Number: 175
+[4,   176] loss: 0.547
+Iteration Number: 176
+[4,   177] loss: 0.553
+Iteration Number: 177
+[4,   178] loss: 0.618
+Iteration Number: 178
+[4,   179] loss: 0.243
+Iteration Number: 179
+[4,   180] loss: 0.483
+Iteration Number: 180
+[4,   181] loss: 0.705
+Iteration Number: 181
+[4,   182] loss: 0.560
+Iteration Number: 182
+[4,   183] loss: 0.642
+Iteration Number: 183
+[4,   184] loss: 0.392
+Iteration Number: 184
+[4,   185] loss: 0.529
+Iteration Number: 185
+[4,   186] loss: 0.554
+Iteration Number: 186
+[4,   187] loss: 0.362
+Iteration Number: 187
+[4,   188] loss: 0.478
+Iteration Number: 188
+[4,   189] loss: 0.434
+Iteration Number: 189
+[4,   190] loss: 0.607
+Iteration Number: 190
+[4,   191] loss: 0.577
+Iteration Number: 191
+[4,   192] loss: 0.613
+Iteration Number: 192
+[4,   193] loss: 0.579
+Iteration Number: 193
+[4,   194] loss: 0.734
+Iteration Number: 194
+[4,   195] loss: 0.617
+Iteration Number: 195
+[4,   196] loss: 0.743
+Iteration Number: 196
+[4,   197] loss: 0.785
+Iteration Number: 197
+[4,   198] loss: 0.447
+Iteration Number: 198
+[4,   199] loss: 0.469
+Iteration Number: 199
+[4,   200] loss: 0.448
+Iteration Number: 200
+[4,   201] loss: 0.394
+Iteration Number: 201
+[4,   202] loss: 0.413
+Iteration Number: 202
+[4,   203] loss: 0.469
+Iteration Number: 203
+[4,   204] loss: 0.835
+Iteration Number: 204
+[4,   205] loss: 0.188
+Iteration Number: 205
+[4,   206] loss: 0.586
+Iteration Number: 206
+[4,   207] loss: 0.899
+Iteration Number: 207
+[4,   208] loss: 0.578
+Iteration Number: 208
+[4,   209] loss: 0.745
+Iteration Number: 209
+[4,   210] loss: 0.465
+Iteration Number: 210
+[4,   211] loss: 0.488
+Iteration Number: 211
+[4,   212] loss: 0.807
+Iteration Number: 212
+[4,   213] loss: 0.690
+Iteration Number: 213
+[4,   214] loss: 0.796
+Iteration Number: 214
+[4,   215] loss: 0.537
+Iteration Number: 215
+[4,   216] loss: 0.583
+Iteration Number: 216
+[4,   217] loss: 0.842
+Iteration Number: 217
+[4,   218] loss: 0.483
+Iteration Number: 218
+[4,   219] loss: 0.461
+Iteration Number: 219
+[4,   220] loss: 0.515
+Iteration Number: 220
+[4,   221] loss: 0.638
+Iteration Number: 221
+[4,   222] loss: 0.685
+Iteration Number: 222
+[4,   223] loss: 0.451
+Iteration Number: 223
+[4,   224] loss: 0.258
+Iteration Number: 224
+[4,   225] loss: 1.051
+Iteration Number: 225
+[4,   226] loss: 0.630
+Iteration Number: 226
+[4,   227] loss: 0.453
+Iteration Number: 227
+[4,   228] loss: 0.572
+Iteration Number: 228
+[4,   229] loss: 0.678
+Iteration Number: 229
+[4,   230] loss: 0.647
+Iteration Number: 230
+[4,   231] loss: 0.623
+Iteration Number: 231
+[4,   232] loss: 0.760
+Iteration Number: 232
+[4,   233] loss: 0.745
+Iteration Number: 233
+[4,   234] loss: 0.748
+Iteration Number: 234
+[4,   235] loss: 0.699
+Iteration Number: 235
+[4,   236] loss: 0.658
+Iteration Number: 236
+[4,   237] loss: 0.497
+Iteration Number: 237
+[4,   238] loss: 0.545
+Iteration Number: 238
+[4,   239] loss: 0.613
+Iteration Number: 239
+[4,   240] loss: 0.550
+Iteration Number: 240
+[4,   241] loss: 0.765
+Iteration Number: 241
+[4,   242] loss: 0.820
+Iteration Number: 242
+[4,   243] loss: 0.682
+Iteration Number: 243
+[4,   244] loss: 0.805
+Iteration Number: 244
+[4,   245] loss: 0.726
+Iteration Number: 245
+[4,   246] loss: 0.718
+Iteration Number: 246
+[4,   247] loss: 0.457
+Iteration Number: 247
+[4,   248] loss: 0.818
+Iteration Number: 248
+[4,   249] loss: 0.389
+Iteration Number: 249
+[4,   250] loss: 0.657
+Iteration Number: 250
+[4,   251] loss: 0.389
+Iteration Number: 251
+[4,   252] loss: 0.549
+Iteration Number: 252
+[4,   253] loss: 0.430
+Iteration Number: 253
+[4,   254] loss: 0.488
+Iteration Number: 254
+[4,   255] loss: 0.850
+Iteration Number: 255
+[4,   256] loss: 0.341
+Iteration Number: 256
+[4,   257] loss: 0.570
+Iteration Number: 257
+[4,   258] loss: 0.372
+Iteration Number: 258
+[4,   259] loss: 0.406
+Iteration Number: 259
+[4,   260] loss: 0.538
+Iteration Number: 260
+[4,   261] loss: 0.617
+Iteration Number: 261
+[4,   262] loss: 0.418
+Iteration Number: 262
+[4,   263] loss: 0.974
+Iteration Number: 263
+[4,   264] loss: 0.673
+Iteration Number: 264
+[4,   265] loss: 0.398
+Iteration Number: 265
+[4,   266] loss: 0.505
+Iteration Number: 266
+[4,   267] loss: 0.615
+Iteration Number: 267
+[4,   268] loss: 0.469
+Iteration Number: 268
+[4,   269] loss: 0.626
+Iteration Number: 269
+[4,   270] loss: 0.621
+Iteration Number: 270
+[4,   271] loss: 0.536
+Iteration Number: 271
+[4,   272] loss: 0.544
+Iteration Number: 272
+[4,   273] loss: 0.472
+Iteration Number: 273
+[4,   274] loss: 0.459
+Iteration Number: 274
+[4,   275] loss: 0.694
+Iteration Number: 275
+[4,   276] loss: 0.464
+Iteration Number: 276
+[4,   277] loss: 0.457
+Iteration Number: 277
+[4,   278] loss: 0.588
+Iteration Number: 278
+[4,   279] loss: 0.561
+Iteration Number: 279
+[4,   280] loss: 0.633
+Iteration Number: 280
+[4,   281] loss: 0.497
+Iteration Number: 281
+[4,   282] loss: 0.568
+Iteration Number: 282
+[4,   283] loss: 0.946
+Iteration Number: 283
+[4,   284] loss: 0.785
+Iteration Number: 284
+[4,   285] loss: 0.612
+Iteration Number: 285
+[4,   286] loss: 1.199
+Iteration Number: 286
+[4,   287] loss: 0.524
+Iteration Number: 287
+[4,   288] loss: 0.621
+Iteration Number: 288
+[4,   289] loss: 0.735
+Iteration Number: 289
+[4,   290] loss: 0.482
+Iteration Number: 290
+[4,   291] loss: 0.831
+Iteration Number: 291
+[4,   292] loss: 0.765
+Iteration Number: 292
+[4,   293] loss: 0.692
+Iteration Number: 293
+[4,   294] loss: 0.616
+Iteration Number: 294
+[4,   295] loss: 1.082
+Iteration Number: 295
+[4,   296] loss: 0.478
+Iteration Number: 296
+[4,   297] loss: 0.559
+Iteration Number: 297
+[4,   298] loss: 0.602
+Iteration Number: 298
+[4,   299] loss: 0.518
+Iteration Number: 299
+[4,   300] loss: 0.750
+Iteration Number: 300
+[4,   301] loss: 0.663
+Iteration Number: 301
+[4,   302] loss: 0.570
+Iteration Number: 302
+[4,   303] loss: 0.629
+Iteration Number: 303
+[4,   304] loss: 0.743
+Iteration Number: 304
+[4,   305] loss: 0.604
+Iteration Number: 305
+[4,   306] loss: 0.425
+Iteration Number: 306
+[4,   307] loss: 0.514
+Iteration Number: 307
+[4,   308] loss: 0.419
+Iteration Number: 308
+[4,   309] loss: 0.492
+Iteration Number: 309
+[4,   310] loss: 0.409
+Iteration Number: 310
+[4,   311] loss: 0.412
+Iteration Number: 311
+[4,   312] loss: 0.865
+Iteration Number: 312
+[4,   313] loss: 0.521
+[4,   314] Train Acc: 82.131
+Epoch Number: 4
+Iteration Number: 0
+[5,     1] loss: 0.689
+Iteration Number: 1
+[5,     2] loss: 0.552
+Iteration Number: 2
+[5,     3] loss: 0.569
+Iteration Number: 3
+[5,     4] loss: 0.615
+Iteration Number: 4
+[5,     5] loss: 0.526
+Iteration Number: 5
+[5,     6] loss: 0.789
+Iteration Number: 6
+[5,     7] loss: 0.524
+Iteration Number: 7
+[5,     8] loss: 0.608
+Iteration Number: 8
+[5,     9] loss: 0.603
+Iteration Number: 9
+[5,    10] loss: 0.836
+Iteration Number: 10
+[5,    11] loss: 0.272
+Iteration Number: 11
+[5,    12] loss: 0.482
+Iteration Number: 12
+[5,    13] loss: 0.314
+Iteration Number: 13
+[5,    14] loss: 0.804
+Iteration Number: 14
+[5,    15] loss: 0.280
+Iteration Number: 15
+[5,    16] loss: 0.676
+Iteration Number: 16
+[5,    17] loss: 0.888
+Iteration Number: 17
+[5,    18] loss: 0.784
+Iteration Number: 18
+[5,    19] loss: 0.885
+Iteration Number: 19
+[5,    20] loss: 0.551
+Iteration Number: 20
+[5,    21] loss: 0.853
+Iteration Number: 21
+[5,    22] loss: 0.833
+Iteration Number: 22
+[5,    23] loss: 0.646
+Iteration Number: 23
+[5,    24] loss: 0.690
+Iteration Number: 24
+[5,    25] loss: 0.520
+Iteration Number: 25
+[5,    26] loss: 0.622
+Iteration Number: 26
+[5,    27] loss: 0.715
+Iteration Number: 27
+[5,    28] loss: 0.802
+Iteration Number: 28
+[5,    29] loss: 0.450
+Iteration Number: 29
+[5,    30] loss: 0.372
+Iteration Number: 30
+[5,    31] loss: 0.283
+Iteration Number: 31
+[5,    32] loss: 0.612
+Iteration Number: 32
+[5,    33] loss: 0.610
+Iteration Number: 33
+[5,    34] loss: 0.737
+Iteration Number: 34
+[5,    35] loss: 0.693
+Iteration Number: 35
+[5,    36] loss: 0.747
+Iteration Number: 36
+[5,    37] loss: 0.301
+Iteration Number: 37
+[5,    38] loss: 0.439
+Iteration Number: 38
+[5,    39] loss: 0.621
+Iteration Number: 39
+[5,    40] loss: 0.616
+Iteration Number: 40
+[5,    41] loss: 0.487
+Iteration Number: 41
+[5,    42] loss: 0.484
+Iteration Number: 42
+[5,    43] loss: 0.566
+Iteration Number: 43
+[5,    44] loss: 0.660
+Iteration Number: 44
+[5,    45] loss: 0.642
+Iteration Number: 45
+[5,    46] loss: 0.684
+Iteration Number: 46
+[5,    47] loss: 0.756
+Iteration Number: 47
+[5,    48] loss: 0.715
+Iteration Number: 48
+[5,    49] loss: 0.519
+Iteration Number: 49
+[5,    50] loss: 0.526
+Iteration Number: 50
+[5,    51] loss: 0.550
+Iteration Number: 51
+[5,    52] loss: 0.747
+Iteration Number: 52
+[5,    53] loss: 0.614
+Iteration Number: 53
+[5,    54] loss: 0.610
+Iteration Number: 54
+[5,    55] loss: 0.672
+Iteration Number: 55
+[5,    56] loss: 0.681
+Iteration Number: 56
+[5,    57] loss: 0.660
+Iteration Number: 57
+[5,    58] loss: 0.751
+Iteration Number: 58
+[5,    59] loss: 0.565
+Iteration Number: 59
+[5,    60] loss: 0.435
+Iteration Number: 60
+[5,    61] loss: 0.769
+Iteration Number: 61
+[5,    62] loss: 0.759
+Iteration Number: 62
+[5,    63] loss: 0.646
+Iteration Number: 63
+[5,    64] loss: 0.835
+Iteration Number: 64
+[5,    65] loss: 0.315
+Iteration Number: 65
+[5,    66] loss: 0.741
+Iteration Number: 66
+[5,    67] loss: 0.540
+Iteration Number: 67
+[5,    68] loss: 0.406
+Iteration Number: 68
+[5,    69] loss: 0.452
+Iteration Number: 69
+[5,    70] loss: 0.606
+Iteration Number: 70
+[5,    71] loss: 0.696
+Iteration Number: 71
+[5,    72] loss: 0.558
+Iteration Number: 72
+[5,    73] loss: 0.969
+Iteration Number: 73
+[5,    74] loss: 1.038
+Iteration Number: 74
+[5,    75] loss: 0.705
+Iteration Number: 75
+[5,    76] loss: 0.741
+Iteration Number: 76
+[5,    77] loss: 0.509
+Iteration Number: 77
+[5,    78] loss: 0.613
+Iteration Number: 78
+[5,    79] loss: 0.511
+Iteration Number: 79
+[5,    80] loss: 0.695
+Iteration Number: 80
+[5,    81] loss: 0.622
+Iteration Number: 81
+[5,    82] loss: 0.728
+Iteration Number: 82
+[5,    83] loss: 0.835
+Iteration Number: 83
+[5,    84] loss: 0.632
+Iteration Number: 84
+[5,    85] loss: 0.998
+Iteration Number: 85
+[5,    86] loss: 1.054
+Iteration Number: 86
+[5,    87] loss: 0.446
+Iteration Number: 87
+[5,    88] loss: 0.765
+Iteration Number: 88
+[5,    89] loss: 0.498
+Iteration Number: 89
+[5,    90] loss: 0.744
+Iteration Number: 90
+[5,    91] loss: 0.522
+Iteration Number: 91
+[5,    92] loss: 0.539
+Iteration Number: 92
+[5,    93] loss: 0.457
+Iteration Number: 93
+[5,    94] loss: 0.417
+Iteration Number: 94
+[5,    95] loss: 0.486
+Iteration Number: 95
+[5,    96] loss: 0.827
+Iteration Number: 96
+[5,    97] loss: 0.928
+Iteration Number: 97
+[5,    98] loss: 0.503
+Iteration Number: 98
+[5,    99] loss: 0.451
+Iteration Number: 99
+[5,   100] loss: 0.567
+Iteration Number: 100
+[5,   101] loss: 0.514
+Iteration Number: 101
+[5,   102] loss: 0.617
+Iteration Number: 102
+[5,   103] loss: 0.558
+Iteration Number: 103
+[5,   104] loss: 0.465
+Iteration Number: 104
+[5,   105] loss: 0.325
+Iteration Number: 105
+[5,   106] loss: 0.626
+Iteration Number: 106
+[5,   107] loss: 0.489
+Iteration Number: 107
+[5,   108] loss: 0.721
+Iteration Number: 108
+[5,   109] loss: 0.613
+Iteration Number: 109
+[5,   110] loss: 0.608
+Iteration Number: 110
+[5,   111] loss: 0.457
+Iteration Number: 111
+[5,   112] loss: 0.611
+Iteration Number: 112
+[5,   113] loss: 0.757
+Iteration Number: 113
+[5,   114] loss: 0.610
+Iteration Number: 114
+[5,   115] loss: 0.612
+Iteration Number: 115
+[5,   116] loss: 0.557
+Iteration Number: 116
+[5,   117] loss: 0.685
+Iteration Number: 117
+[5,   118] loss: 0.807
+Iteration Number: 118
+[5,   119] loss: 0.511
+Iteration Number: 119
+[5,   120] loss: 0.735
+Iteration Number: 120
+[5,   121] loss: 0.376
+Iteration Number: 121
+[5,   122] loss: 0.799
+Iteration Number: 122
+[5,   123] loss: 1.113
+Iteration Number: 123
+[5,   124] loss: 0.566
+Iteration Number: 124
+[5,   125] loss: 0.639
+Iteration Number: 125
+[5,   126] loss: 0.446
+Iteration Number: 126
+[5,   127] loss: 0.483
+Iteration Number: 127
+[5,   128] loss: 0.300
+Iteration Number: 128
+[5,   129] loss: 0.516
+Iteration Number: 129
+[5,   130] loss: 0.274
+Iteration Number: 130
+[5,   131] loss: 0.481
+Iteration Number: 131
+[5,   132] loss: 0.821
+Iteration Number: 132
+[5,   133] loss: 0.161
+Iteration Number: 133
+[5,   134] loss: 0.891
+Iteration Number: 134
+[5,   135] loss: 0.745
+Iteration Number: 135
+[5,   136] loss: 0.539
+Iteration Number: 136
+[5,   137] loss: 0.584
+Iteration Number: 137
+[5,   138] loss: 0.492
+Iteration Number: 138
+[5,   139] loss: 0.707
+Iteration Number: 139
+[5,   140] loss: 0.715
+Iteration Number: 140
+[5,   141] loss: 0.527
+Iteration Number: 141
+[5,   142] loss: 0.697
+Iteration Number: 142
+[5,   143] loss: 0.678
+Iteration Number: 143
+[5,   144] loss: 0.548
+Iteration Number: 144
+[5,   145] loss: 0.549
+Iteration Number: 145
+[5,   146] loss: 0.621
+Iteration Number: 146
+[5,   147] loss: 1.042
+Iteration Number: 147
+[5,   148] loss: 0.686
+Iteration Number: 148
+[5,   149] loss: 0.384
+Iteration Number: 149
+[5,   150] loss: 0.603
+Iteration Number: 150
+[5,   151] loss: 0.546
+Iteration Number: 151
+[5,   152] loss: 0.737
+Iteration Number: 152
+[5,   153] loss: 0.713
+Iteration Number: 153
+[5,   154] loss: 0.545
+Iteration Number: 154
+[5,   155] loss: 0.683
+Iteration Number: 155
+[5,   156] loss: 0.553
+Iteration Number: 156
+[5,   157] loss: 0.608
+Iteration Number: 157
+[5,   158] loss: 0.541
+Iteration Number: 158
+[5,   159] loss: 0.461
+Iteration Number: 159
+[5,   160] loss: 0.542
+Iteration Number: 160
+[5,   161] loss: 0.358
+Iteration Number: 161
+[5,   162] loss: 0.779
+Iteration Number: 162
+[5,   163] loss: 0.447
+Iteration Number: 163
+[5,   164] loss: 0.615
+Iteration Number: 164
+[5,   165] loss: 0.675
+Iteration Number: 165
+[5,   166] loss: 0.887
+Iteration Number: 166
+[5,   167] loss: 0.670
+Iteration Number: 167
+[5,   168] loss: 0.596
+Iteration Number: 168
+[5,   169] loss: 0.495
+Iteration Number: 169
+[5,   170] loss: 0.432
+Iteration Number: 170
+[5,   171] loss: 0.787
+Iteration Number: 171
+[5,   172] loss: 0.545
+Iteration Number: 172
+[5,   173] loss: 0.498
+Iteration Number: 173
+[5,   174] loss: 0.468
+Iteration Number: 174
+[5,   175] loss: 0.625
+Iteration Number: 175
+[5,   176] loss: 0.548
+Iteration Number: 176
+[5,   177] loss: 0.555
+Iteration Number: 177
+[5,   178] loss: 0.617
+Iteration Number: 178
+[5,   179] loss: 0.242
+Iteration Number: 179
+[5,   180] loss: 0.482
+Iteration Number: 180
+[5,   181] loss: 0.704
+Iteration Number: 181
+[5,   182] loss: 0.560
+Iteration Number: 182
+[5,   183] loss: 0.644
+Iteration Number: 183
+[5,   184] loss: 0.394
+Iteration Number: 184
+[5,   185] loss: 0.531
+Iteration Number: 185
+[5,   186] loss: 0.551
+Iteration Number: 186
+[5,   187] loss: 0.363
+Iteration Number: 187
+[5,   188] loss: 0.481
+Iteration Number: 188
+[5,   189] loss: 0.430
+Iteration Number: 189
+[5,   190] loss: 0.602
+Iteration Number: 190
+[5,   191] loss: 0.577
+Iteration Number: 191
+[5,   192] loss: 0.609
+Iteration Number: 192
+[5,   193] loss: 0.578
+Iteration Number: 193
+[5,   194] loss: 0.731
+Iteration Number: 194
+[5,   195] loss: 0.616
+Iteration Number: 195
+[5,   196] loss: 0.743
+Iteration Number: 196
+[5,   197] loss: 0.785
+Iteration Number: 197
+[5,   198] loss: 0.444
+Iteration Number: 198
+[5,   199] loss: 0.465
+Iteration Number: 199
+[5,   200] loss: 0.445
+Iteration Number: 200
+[5,   201] loss: 0.392
+Iteration Number: 201
+[5,   202] loss: 0.415
+Iteration Number: 202
+[5,   203] loss: 0.470
+Iteration Number: 203
+[5,   204] loss: 0.829
+Iteration Number: 204
+[5,   205] loss: 0.190
+Iteration Number: 205
+[5,   206] loss: 0.583
+Iteration Number: 206
+[5,   207] loss: 0.896
+Iteration Number: 207
+[5,   208] loss: 0.578
+Iteration Number: 208
+[5,   209] loss: 0.744
+Iteration Number: 209
+[5,   210] loss: 0.465
+Iteration Number: 210
+[5,   211] loss: 0.486
+Iteration Number: 211
+[5,   212] loss: 0.809
+Iteration Number: 212
+[5,   213] loss: 0.689
+Iteration Number: 213
+[5,   214] loss: 0.798
+Iteration Number: 214
+[5,   215] loss: 0.533
+Iteration Number: 215
+[5,   216] loss: 0.586
+Iteration Number: 216
+[5,   217] loss: 0.840
+Iteration Number: 217
+[5,   218] loss: 0.489
+Iteration Number: 218
+[5,   219] loss: 0.464
+Iteration Number: 219
+[5,   220] loss: 0.514
+Iteration Number: 220
+[5,   221] loss: 0.635
+Iteration Number: 221
+[5,   222] loss: 0.682
+Iteration Number: 222
+[5,   223] loss: 0.451
+Iteration Number: 223
+[5,   224] loss: 0.258
+Iteration Number: 224
+[5,   225] loss: 1.055
+Iteration Number: 225
+[5,   226] loss: 0.627
+Iteration Number: 226
+[5,   227] loss: 0.452
+Iteration Number: 227
+[5,   228] loss: 0.571
+Iteration Number: 228
+[5,   229] loss: 0.677
+Iteration Number: 229
+[5,   230] loss: 0.647
+Iteration Number: 230
+[5,   231] loss: 0.627
+Iteration Number: 231
+[5,   232] loss: 0.759
+Iteration Number: 232
+[5,   233] loss: 0.751
+Iteration Number: 233
+[5,   234] loss: 0.747
+Iteration Number: 234
+[5,   235] loss: 0.692
+Iteration Number: 235
+[5,   236] loss: 0.656
+Iteration Number: 236
+[5,   237] loss: 0.496
+Iteration Number: 237
+[5,   238] loss: 0.539
+Iteration Number: 238
+[5,   239] loss: 0.611
+Iteration Number: 239
+[5,   240] loss: 0.549
+Iteration Number: 240
+[5,   241] loss: 0.764
+Iteration Number: 241
+[5,   242] loss: 0.823
+Iteration Number: 242
+[5,   243] loss: 0.682
+Iteration Number: 243
+[5,   244] loss: 0.808
+Iteration Number: 244
+[5,   245] loss: 0.729
+Iteration Number: 245
+[5,   246] loss: 0.720
+Iteration Number: 246
+[5,   247] loss: 0.454
+Iteration Number: 247
+[5,   248] loss: 0.813
+Iteration Number: 248
+[5,   249] loss: 0.392
+Iteration Number: 249
+[5,   250] loss: 0.657
+Iteration Number: 250
+[5,   251] loss: 0.391
+Iteration Number: 251
+[5,   252] loss: 0.548
+Iteration Number: 252
+[5,   253] loss: 0.428
+Iteration Number: 253
+[5,   254] loss: 0.488
+Iteration Number: 254
+[5,   255] loss: 0.846
+Iteration Number: 255
+[5,   256] loss: 0.340
+Iteration Number: 256
+[5,   257] loss: 0.571
+Iteration Number: 257
+[5,   258] loss: 0.372
+Iteration Number: 258
+[5,   259] loss: 0.405
+Iteration Number: 259
+[5,   260] loss: 0.539
+Iteration Number: 260
+[5,   261] loss: 0.620
+Iteration Number: 261
+[5,   262] loss: 0.415
+Iteration Number: 262
+[5,   263] loss: 0.981
+Iteration Number: 263
+[5,   264] loss: 0.676
+Iteration Number: 264
+[5,   265] loss: 0.400
+Iteration Number: 265
+[5,   266] loss: 0.509
+Iteration Number: 266
+[5,   267] loss: 0.608
+Iteration Number: 267
+[5,   268] loss: 0.471
+Iteration Number: 268
+[5,   269] loss: 0.625
+Iteration Number: 269
+[5,   270] loss: 0.618
+Iteration Number: 270
+[5,   271] loss: 0.532
+Iteration Number: 271
+[5,   272] loss: 0.543
+Iteration Number: 272
+[5,   273] loss: 0.473
+Iteration Number: 273
+[5,   274] loss: 0.459
+Iteration Number: 274
+[5,   275] loss: 0.695
+Iteration Number: 275
+[5,   276] loss: 0.464
+Iteration Number: 276
+[5,   277] loss: 0.459
+Iteration Number: 277
+[5,   278] loss: 0.590
+Iteration Number: 278
+[5,   279] loss: 0.565
+Iteration Number: 279
+[5,   280] loss: 0.631
+Iteration Number: 280
+[5,   281] loss: 0.495
+Iteration Number: 281
+[5,   282] loss: 0.569
+Iteration Number: 282
+[5,   283] loss: 0.939
+Iteration Number: 283
+[5,   284] loss: 0.781
+Iteration Number: 284
+[5,   285] loss: 0.612
+Iteration Number: 285
+[5,   286] loss: 1.195
+Iteration Number: 286
+[5,   287] loss: 0.524
+Iteration Number: 287
+[5,   288] loss: 0.620
+Iteration Number: 288
+[5,   289] loss: 0.735
+Iteration Number: 289
+[5,   290] loss: 0.478
+Iteration Number: 290
+[5,   291] loss: 0.827
+Iteration Number: 291
+[5,   292] loss: 0.762
+Iteration Number: 292
+[5,   293] loss: 0.691
+Iteration Number: 293
+[5,   294] loss: 0.616
+Iteration Number: 294
+[5,   295] loss: 1.079
+Iteration Number: 295
+[5,   296] loss: 0.479
+Iteration Number: 296
+[5,   297] loss: 0.558
+Iteration Number: 297
+[5,   298] loss: 0.598
+Iteration Number: 298
+[5,   299] loss: 0.515
+Iteration Number: 299
+[5,   300] loss: 0.748
+Iteration Number: 300
+[5,   301] loss: 0.662
+Iteration Number: 301
+[5,   302] loss: 0.570
+Iteration Number: 302
+[5,   303] loss: 0.629
+Iteration Number: 303
+[5,   304] loss: 0.742
+Iteration Number: 304
+[5,   305] loss: 0.603
+Iteration Number: 305
+[5,   306] loss: 0.424
+Iteration Number: 306
+[5,   307] loss: 0.513
+Iteration Number: 307
+[5,   308] loss: 0.419
+Iteration Number: 308
+[5,   309] loss: 0.492
+Iteration Number: 309
+[5,   310] loss: 0.408
+Iteration Number: 310
+[5,   311] loss: 0.411
+Iteration Number: 311
+[5,   312] loss: 0.863
+Iteration Number: 312
+[5,   313] loss: 0.520
+[5,   314] Train Acc: 82.131
+Epoch Number: 5
+Iteration Number: 0
+[6,     1] loss: 0.689
+Iteration Number: 1
+[6,     2] loss: 0.553
+Iteration Number: 2
+[6,     3] loss: 0.569
+Iteration Number: 3
+[6,     4] loss: 0.615
+Iteration Number: 4
+[6,     5] loss: 0.525
+Iteration Number: 5
+[6,     6] loss: 0.791
+Iteration Number: 6
+[6,     7] loss: 0.523
+Iteration Number: 7
+[6,     8] loss: 0.609
+Iteration Number: 8
+[6,     9] loss: 0.603
+Iteration Number: 9
+[6,    10] loss: 0.835
+Iteration Number: 10
+[6,    11] loss: 0.274
+Iteration Number: 11
+[6,    12] loss: 0.485
+Iteration Number: 12
+[6,    13] loss: 0.314
+Iteration Number: 13
+[6,    14] loss: 0.802
+Iteration Number: 14
+[6,    15] loss: 0.281
+Iteration Number: 15
+[6,    16] loss: 0.676
+Iteration Number: 16
+[6,    17] loss: 0.888
+Iteration Number: 17
+[6,    18] loss: 0.785
+Iteration Number: 18
+[6,    19] loss: 0.889
+Iteration Number: 19
+[6,    20] loss: 0.551
+Iteration Number: 20
+[6,    21] loss: 0.854
+Iteration Number: 21
+[6,    22] loss: 0.834
+Iteration Number: 22
+[6,    23] loss: 0.640
+Iteration Number: 23
+[6,    24] loss: 0.691
+Iteration Number: 24
+[6,    25] loss: 0.526
+Iteration Number: 25
+[6,    26] loss: 0.627
+Iteration Number: 26
+[6,    27] loss: 0.710
+Iteration Number: 27
+[6,    28] loss: 0.795
+Iteration Number: 28
+[6,    29] loss: 0.451
+Iteration Number: 29
+[6,    30] loss: 0.372
+Iteration Number: 30
+[6,    31] loss: 0.284
+Iteration Number: 31
+[6,    32] loss: 0.610
+Iteration Number: 32
+[6,    33] loss: 0.611
+Iteration Number: 33
+[6,    34] loss: 0.741
+Iteration Number: 34
+[6,    35] loss: 0.700
+Iteration Number: 35
+[6,    36] loss: 0.757
+Iteration Number: 36
+[6,    37] loss: 0.296
+Iteration Number: 37
+[6,    38] loss: 0.435
+Iteration Number: 38
+[6,    39] loss: 0.622
+Iteration Number: 39
+[6,    40] loss: 0.613
+Iteration Number: 40
+[6,    41] loss: 0.482
+Iteration Number: 41
+[6,    42] loss: 0.488
+Iteration Number: 42
+[6,    43] loss: 0.572
+Iteration Number: 43
+[6,    44] loss: 0.658
+Iteration Number: 44
+[6,    45] loss: 0.639
+Iteration Number: 45
+[6,    46] loss: 0.677
+Iteration Number: 46
+[6,    47] loss: 0.749
+Iteration Number: 47
+[6,    48] loss: 0.711
+Iteration Number: 48
+[6,    49] loss: 0.516
+Iteration Number: 49
+[6,    50] loss: 0.528
+Iteration Number: 50
+[6,    51] loss: 0.549
+Iteration Number: 51
+[6,    52] loss: 0.755
+Iteration Number: 52
+[6,    53] loss: 0.616
+Iteration Number: 53
+[6,    54] loss: 0.611
+Iteration Number: 54
+[6,    55] loss: 0.672
+Iteration Number: 55
+[6,    56] loss: 0.681
+Iteration Number: 56
+[6,    57] loss: 0.661
+Iteration Number: 57
+[6,    58] loss: 0.750
+Iteration Number: 58
+[6,    59] loss: 0.569
+Iteration Number: 59
+[6,    60] loss: 0.443
+Iteration Number: 60
+[6,    61] loss: 0.765
+Iteration Number: 61
+[6,    62] loss: 0.754
+Iteration Number: 62
+[6,    63] loss: 0.645
+Iteration Number: 63
+[6,    64] loss: 0.834
+Iteration Number: 64
+[6,    65] loss: 0.312
+Iteration Number: 65
+[6,    66] loss: 0.744
+Iteration Number: 66
+[6,    67] loss: 0.539
+Iteration Number: 67
+[6,    68] loss: 0.401
+Iteration Number: 68
+[6,    69] loss: 0.449
+Iteration Number: 69
+[6,    70] loss: 0.606
+Iteration Number: 70
+[6,    71] loss: 0.697
+Iteration Number: 71
+[6,    72] loss: 0.557
+Iteration Number: 72
+[6,    73] loss: 0.965
+Iteration Number: 73
+[6,    74] loss: 1.032
+Iteration Number: 74
+[6,    75] loss: 0.705
+Iteration Number: 75
+[6,    76] loss: 0.741
+Iteration Number: 76
+[6,    77] loss: 0.508
+Iteration Number: 77
+[6,    78] loss: 0.614
+Iteration Number: 78
+[6,    79] loss: 0.513
+Iteration Number: 79
+[6,    80] loss: 0.694
+Iteration Number: 80
+[6,    81] loss: 0.621
+Iteration Number: 81
+[6,    82] loss: 0.725
+Iteration Number: 82
+[6,    83] loss: 0.832
+Iteration Number: 83
+[6,    84] loss: 0.632
+Iteration Number: 84
+[6,    85] loss: 0.999
+Iteration Number: 85
+[6,    86] loss: 1.057
+Iteration Number: 86
+[6,    87] loss: 0.439
+Iteration Number: 87
+[6,    88] loss: 0.762
+Iteration Number: 88
+[6,    89] loss: 0.489
+Iteration Number: 89
+[6,    90] loss: 0.744
+Iteration Number: 90
+[6,    91] loss: 0.526
+Iteration Number: 91
+[6,    92] loss: 0.543
+Iteration Number: 92
+[6,    93] loss: 0.461
+Iteration Number: 93
+[6,    94] loss: 0.420
+Iteration Number: 94
+[6,    95] loss: 0.483
+Iteration Number: 95
+[6,    96] loss: 0.815
+Iteration Number: 96
+[6,    97] loss: 0.916
+Iteration Number: 97
+[6,    98] loss: 0.500
+Iteration Number: 98
+[6,    99] loss: 0.450
+Iteration Number: 99
+[6,   100] loss: 0.565
+Iteration Number: 100
+[6,   101] loss: 0.514
+Iteration Number: 101
+[6,   102] loss: 0.617
+Iteration Number: 102
+[6,   103] loss: 0.556
+Iteration Number: 103
+[6,   104] loss: 0.463
+Iteration Number: 104
+[6,   105] loss: 0.322
+Iteration Number: 105
+[6,   106] loss: 0.625
+Iteration Number: 106
+[6,   107] loss: 0.491
+Iteration Number: 107
+[6,   108] loss: 0.722
+Iteration Number: 108
+[6,   109] loss: 0.612
+Iteration Number: 109
+[6,   110] loss: 0.606
+Iteration Number: 110
+[6,   111] loss: 0.456
+Iteration Number: 111
+[6,   112] loss: 0.610
+Iteration Number: 112
+[6,   113] loss: 0.758
+Iteration Number: 113
+[6,   114] loss: 0.610
+Iteration Number: 114
+[6,   115] loss: 0.612
+Iteration Number: 115
+[6,   116] loss: 0.556
+Iteration Number: 116
+[6,   117] loss: 0.685
+Iteration Number: 117
+[6,   118] loss: 0.808
+Iteration Number: 118
+[6,   119] loss: 0.512
+Iteration Number: 119
+[6,   120] loss: 0.736
+Iteration Number: 120
+[6,   121] loss: 0.378
+Iteration Number: 121
+[6,   122] loss: 0.798
+Iteration Number: 122
+[6,   123] loss: 1.104
+Iteration Number: 123
+[6,   124] loss: 0.565
+Iteration Number: 124
+[6,   125] loss: 0.641
+Iteration Number: 125
+[6,   126] loss: 0.446
+Iteration Number: 126
+[6,   127] loss: 0.483
+Iteration Number: 127
+[6,   128] loss: 0.300
+Iteration Number: 128
+[6,   129] loss: 0.516
+Iteration Number: 129
+[6,   130] loss: 0.274
+Iteration Number: 130
+[6,   131] loss: 0.481
+Iteration Number: 131
+[6,   132] loss: 0.819
+Iteration Number: 132
+[6,   133] loss: 0.161
+Iteration Number: 133
+[6,   134] loss: 0.886
+Iteration Number: 134
+[6,   135] loss: 0.742
+Iteration Number: 135
+[6,   136] loss: 0.540
+Iteration Number: 136
+[6,   137] loss: 0.587
+Iteration Number: 137
+[6,   138] loss: 0.491
+Iteration Number: 138
+[6,   139] loss: 0.709
+Iteration Number: 139
+[6,   140] loss: 0.715
+Iteration Number: 140
+[6,   141] loss: 0.524
+Iteration Number: 141
+[6,   142] loss: 0.699
+Iteration Number: 142
+[6,   143] loss: 0.679
+Iteration Number: 143
+[6,   144] loss: 0.550
+Iteration Number: 144
+[6,   145] loss: 0.552
+Iteration Number: 145
+[6,   146] loss: 0.620
+Iteration Number: 146
+[6,   147] loss: 1.030
+Iteration Number: 147
+[6,   148] loss: 0.685
+Iteration Number: 148
+[6,   149] loss: 0.385
+Iteration Number: 149
+[6,   150] loss: 0.603
+Iteration Number: 150
+[6,   151] loss: 0.545
+Iteration Number: 151
+[6,   152] loss: 0.739
+Iteration Number: 152
+[6,   153] loss: 0.713
+Iteration Number: 153
+[6,   154] loss: 0.544
+Iteration Number: 154
+[6,   155] loss: 0.688
+Iteration Number: 155
+[6,   156] loss: 0.555
+Iteration Number: 156
+[6,   157] loss: 0.606
+Iteration Number: 157
+[6,   158] loss: 0.544
+Iteration Number: 158
+[6,   159] loss: 0.462
+Iteration Number: 159
+[6,   160] loss: 0.542
+Iteration Number: 160
+[6,   161] loss: 0.360
+Iteration Number: 161
+[6,   162] loss: 0.775
+Iteration Number: 162
+[6,   163] loss: 0.447
+Iteration Number: 163
+[6,   164] loss: 0.614
+Iteration Number: 164
+[6,   165] loss: 0.674
+Iteration Number: 165
+[6,   166] loss: 0.886
+Iteration Number: 166
+[6,   167] loss: 0.670
+Iteration Number: 167
+[6,   168] loss: 0.596
+Iteration Number: 168
+[6,   169] loss: 0.494
+Iteration Number: 169
+[6,   170] loss: 0.430
+Iteration Number: 170
+[6,   171] loss: 0.786
+Iteration Number: 171
+[6,   172] loss: 0.546
+Iteration Number: 172
+[6,   173] loss: 0.494
+Iteration Number: 173
+[6,   174] loss: 0.469
+Iteration Number: 174
+[6,   175] loss: 0.626
+Iteration Number: 175
+[6,   176] loss: 0.549
+Iteration Number: 176
+[6,   177] loss: 0.558
+Iteration Number: 177
+[6,   178] loss: 0.616
+Iteration Number: 178
+[6,   179] loss: 0.241
+Iteration Number: 179
+[6,   180] loss: 0.482
+Iteration Number: 180
+[6,   181] loss: 0.704
+Iteration Number: 181
+[6,   182] loss: 0.560
+Iteration Number: 182
+[6,   183] loss: 0.645
+Iteration Number: 183
+[6,   184] loss: 0.396
+Iteration Number: 184
+[6,   185] loss: 0.533
+Iteration Number: 185
+[6,   186] loss: 0.549
+Iteration Number: 186
+[6,   187] loss: 0.365
+Iteration Number: 187
+[6,   188] loss: 0.484
+Iteration Number: 188
+[6,   189] loss: 0.427
+Iteration Number: 189
+[6,   190] loss: 0.598
+Iteration Number: 190
+[6,   191] loss: 0.577
+Iteration Number: 191
+[6,   192] loss: 0.605
+Iteration Number: 192
+[6,   193] loss: 0.577
+Iteration Number: 193
+[6,   194] loss: 0.728
+Iteration Number: 194
+[6,   195] loss: 0.615
+Iteration Number: 195
+[6,   196] loss: 0.742
+Iteration Number: 196
+[6,   197] loss: 0.784
+Iteration Number: 197
+[6,   198] loss: 0.443
+Iteration Number: 198
+[6,   199] loss: 0.463
+Iteration Number: 199
+[6,   200] loss: 0.444
+Iteration Number: 200
+[6,   201] loss: 0.391
+Iteration Number: 201
+[6,   202] loss: 0.417
+Iteration Number: 202
+[6,   203] loss: 0.471
+Iteration Number: 203
+[6,   204] loss: 0.825
+Iteration Number: 204
+[6,   205] loss: 0.192
+Iteration Number: 205
+[6,   206] loss: 0.581
+Iteration Number: 206
+[6,   207] loss: 0.894
+Iteration Number: 207
+[6,   208] loss: 0.578
+Iteration Number: 208
+[6,   209] loss: 0.743
+Iteration Number: 209
+[6,   210] loss: 0.464
+Iteration Number: 210
+[6,   211] loss: 0.484
+Iteration Number: 211
+[6,   212] loss: 0.811
+Iteration Number: 212
+[6,   213] loss: 0.688
+Iteration Number: 213
+[6,   214] loss: 0.800
+Iteration Number: 214
+[6,   215] loss: 0.530
+Iteration Number: 215
+[6,   216] loss: 0.588
+Iteration Number: 216
+[6,   217] loss: 0.838
+Iteration Number: 217
+[6,   218] loss: 0.493
+Iteration Number: 218
+[6,   219] loss: 0.468
+Iteration Number: 219
+[6,   220] loss: 0.513
+Iteration Number: 220
+[6,   221] loss: 0.633
+Iteration Number: 221
+[6,   222] loss: 0.679
+Iteration Number: 222
+[6,   223] loss: 0.450
+Iteration Number: 223
+[6,   224] loss: 0.258
+Iteration Number: 224
+[6,   225] loss: 1.057
+Iteration Number: 225
+[6,   226] loss: 0.625
+Iteration Number: 226
+[6,   227] loss: 0.453
+Iteration Number: 227
+[6,   228] loss: 0.571
+Iteration Number: 228
+[6,   229] loss: 0.677
+Iteration Number: 229
+[6,   230] loss: 0.646
+Iteration Number: 230
+[6,   231] loss: 0.630
+Iteration Number: 231
+[6,   232] loss: 0.759
+Iteration Number: 232
+[6,   233] loss: 0.755
+Iteration Number: 233
+[6,   234] loss: 0.748
+Iteration Number: 234
+[6,   235] loss: 0.687
+Iteration Number: 235
+[6,   236] loss: 0.655
+Iteration Number: 236
+[6,   237] loss: 0.496
+Iteration Number: 237
+[6,   238] loss: 0.534
+Iteration Number: 238
+[6,   239] loss: 0.610
+Iteration Number: 239
+[6,   240] loss: 0.548
+Iteration Number: 240
+[6,   241] loss: 0.764
+Iteration Number: 241
+[6,   242] loss: 0.825
+Iteration Number: 242
+[6,   243] loss: 0.683
+Iteration Number: 243
+[6,   244] loss: 0.812
+Iteration Number: 244
+[6,   245] loss: 0.732
+Iteration Number: 245
+[6,   246] loss: 0.723
+Iteration Number: 246
+[6,   247] loss: 0.452
+Iteration Number: 247
+[6,   248] loss: 0.810
+Iteration Number: 248
+[6,   249] loss: 0.395
+Iteration Number: 249
+[6,   250] loss: 0.657
+Iteration Number: 250
+[6,   251] loss: 0.393
+Iteration Number: 251
+[6,   252] loss: 0.547
+Iteration Number: 252
+[6,   253] loss: 0.427
+Iteration Number: 253
+[6,   254] loss: 0.488
+Iteration Number: 254
+[6,   255] loss: 0.841
+Iteration Number: 255
+[6,   256] loss: 0.339
+Iteration Number: 256
+[6,   257] loss: 0.572
+Iteration Number: 257
+[6,   258] loss: 0.372
+Iteration Number: 258
+[6,   259] loss: 0.404
+Iteration Number: 259
+[6,   260] loss: 0.540
+Iteration Number: 260
+[6,   261] loss: 0.622
+Iteration Number: 261
+[6,   262] loss: 0.412
+Iteration Number: 262
+[6,   263] loss: 0.987
+Iteration Number: 263
+[6,   264] loss: 0.678
+Iteration Number: 264
+[6,   265] loss: 0.401
+Iteration Number: 265
+[6,   266] loss: 0.512
+Iteration Number: 266
+[6,   267] loss: 0.603
+Iteration Number: 267
+[6,   268] loss: 0.473
+Iteration Number: 268
+[6,   269] loss: 0.625
+Iteration Number: 269
+[6,   270] loss: 0.616
+Iteration Number: 270
+[6,   271] loss: 0.529
+Iteration Number: 271
+[6,   272] loss: 0.542
+Iteration Number: 272
+[6,   273] loss: 0.473
+Iteration Number: 273
+[6,   274] loss: 0.459
+Iteration Number: 274
+[6,   275] loss: 0.697
+Iteration Number: 275
+[6,   276] loss: 0.464
+Iteration Number: 276
+[6,   277] loss: 0.461
+Iteration Number: 277
+[6,   278] loss: 0.592
+Iteration Number: 278
+[6,   279] loss: 0.569
+Iteration Number: 279
+[6,   280] loss: 0.629
+Iteration Number: 280
+[6,   281] loss: 0.493
+Iteration Number: 281
+[6,   282] loss: 0.570
+Iteration Number: 282
+[6,   283] loss: 0.933
+Iteration Number: 283
+[6,   284] loss: 0.776
+Iteration Number: 284
+[6,   285] loss: 0.613
+Iteration Number: 285
+[6,   286] loss: 1.189
+Iteration Number: 286
+[6,   287] loss: 0.526
+Iteration Number: 287
+[6,   288] loss: 0.619
+Iteration Number: 288
+[6,   289] loss: 0.735
+Iteration Number: 289
+[6,   290] loss: 0.474
+Iteration Number: 290
+[6,   291] loss: 0.824
+Iteration Number: 291
+[6,   292] loss: 0.759
+Iteration Number: 292
+[6,   293] loss: 0.689
+Iteration Number: 293
+[6,   294] loss: 0.616
+Iteration Number: 294
+[6,   295] loss: 1.078
+Iteration Number: 295
+[6,   296] loss: 0.479
+Iteration Number: 296
+[6,   297] loss: 0.556
+Iteration Number: 297
+[6,   298] loss: 0.595
+Iteration Number: 298
+[6,   299] loss: 0.513
+Iteration Number: 299
+[6,   300] loss: 0.746
+Iteration Number: 300
+[6,   301] loss: 0.661
+Iteration Number: 301
+[6,   302] loss: 0.570
+Iteration Number: 302
+[6,   303] loss: 0.628
+Iteration Number: 303
+[6,   304] loss: 0.741
+Iteration Number: 304
+[6,   305] loss: 0.602
+Iteration Number: 305
+[6,   306] loss: 0.424
+Iteration Number: 306
+[6,   307] loss: 0.512
+Iteration Number: 307
+[6,   308] loss: 0.418
+Iteration Number: 308
+[6,   309] loss: 0.493
+Iteration Number: 309
+[6,   310] loss: 0.407
+Iteration Number: 310
+[6,   311] loss: 0.410
+Iteration Number: 311
+[6,   312] loss: 0.861
+Iteration Number: 312
+[6,   313] loss: 0.520
+[6,   314] Train Acc: 82.131
+Epoch Number: 6
+Iteration Number: 0
+[7,     1] loss: 0.690
+Iteration Number: 1
+[7,     2] loss: 0.553
+Iteration Number: 2
+[7,     3] loss: 0.569
+Iteration Number: 3
+[7,     4] loss: 0.616
+Iteration Number: 4
+[7,     5] loss: 0.523
+Iteration Number: 5
+[7,     6] loss: 0.793
+Iteration Number: 6
+[7,     7] loss: 0.523
+Iteration Number: 7
+[7,     8] loss: 0.610
+Iteration Number: 8
+[7,     9] loss: 0.603
+Iteration Number: 9
+[7,    10] loss: 0.836
+Iteration Number: 10
+[7,    11] loss: 0.276
+Iteration Number: 11
+[7,    12] loss: 0.487
+Iteration Number: 12
+[7,    13] loss: 0.314
+Iteration Number: 13
+[7,    14] loss: 0.801
+Iteration Number: 14
+[7,    15] loss: 0.282
+Iteration Number: 15
+[7,    16] loss: 0.675
+Iteration Number: 16
+[7,    17] loss: 0.887
+Iteration Number: 17
+[7,    18] loss: 0.786
+Iteration Number: 18
+[7,    19] loss: 0.892
+Iteration Number: 19
+[7,    20] loss: 0.551
+Iteration Number: 20
+[7,    21] loss: 0.856
+Iteration Number: 21
+[7,    22] loss: 0.836
+Iteration Number: 22
+[7,    23] loss: 0.635
+Iteration Number: 23
+[7,    24] loss: 0.691
+Iteration Number: 24
+[7,    25] loss: 0.530
+Iteration Number: 25
+[7,    26] loss: 0.630
+Iteration Number: 26
+[7,    27] loss: 0.707
+Iteration Number: 27
+[7,    28] loss: 0.789
+Iteration Number: 28
+[7,    29] loss: 0.453
+Iteration Number: 29
+[7,    30] loss: 0.371
+Iteration Number: 30
+[7,    31] loss: 0.284
+Iteration Number: 31
+[7,    32] loss: 0.608
+Iteration Number: 32
+[7,    33] loss: 0.611
+Iteration Number: 33
+[7,    34] loss: 0.744
+Iteration Number: 34
+[7,    35] loss: 0.705
+Iteration Number: 35
+[7,    36] loss: 0.765
+Iteration Number: 36
+[7,    37] loss: 0.293
+Iteration Number: 37
+[7,    38] loss: 0.432
+Iteration Number: 38
+[7,    39] loss: 0.623
+Iteration Number: 39
+[7,    40] loss: 0.610
+Iteration Number: 40
+[7,    41] loss: 0.475
+Iteration Number: 41
+[7,    42] loss: 0.488
+Iteration Number: 42
+[7,    43] loss: 0.576
+Iteration Number: 43
+[7,    44] loss: 0.657
+Iteration Number: 44
+[7,    45] loss: 0.639
+Iteration Number: 45
+[7,    46] loss: 0.671
+Iteration Number: 46
+[7,    47] loss: 0.743
+Iteration Number: 47
+[7,    48] loss: 0.706
+Iteration Number: 48
+[7,    49] loss: 0.514
+Iteration Number: 49
+[7,    50] loss: 0.529
+Iteration Number: 50
+[7,    51] loss: 0.548
+Iteration Number: 51
+[7,    52] loss: 0.762
+Iteration Number: 52
+[7,    53] loss: 0.619
+Iteration Number: 53
+[7,    54] loss: 0.611
+Iteration Number: 54
+[7,    55] loss: 0.673
+Iteration Number: 55
+[7,    56] loss: 0.680
+Iteration Number: 56
+[7,    57] loss: 0.661
+Iteration Number: 57
+[7,    58] loss: 0.749
+Iteration Number: 58
+[7,    59] loss: 0.573
+Iteration Number: 59
+[7,    60] loss: 0.451
+Iteration Number: 60
+[7,    61] loss: 0.763
+Iteration Number: 61
+[7,    62] loss: 0.750
+Iteration Number: 62
+[7,    63] loss: 0.644
+Iteration Number: 63
+[7,    64] loss: 0.832
+Iteration Number: 64
+[7,    65] loss: 0.311
+Iteration Number: 65
+[7,    66] loss: 0.745
+Iteration Number: 66
+[7,    67] loss: 0.538
+Iteration Number: 67
+[7,    68] loss: 0.396
+Iteration Number: 68
+[7,    69] loss: 0.446
+Iteration Number: 69
+[7,    70] loss: 0.607
+Iteration Number: 70
+[7,    71] loss: 0.699
+Iteration Number: 71
+[7,    72] loss: 0.557
+Iteration Number: 72
+[7,    73] loss: 0.964
+Iteration Number: 73
+[7,    74] loss: 1.030
+Iteration Number: 74
+[7,    75] loss: 0.705
+Iteration Number: 75
+[7,    76] loss: 0.742
+Iteration Number: 76
+[7,    77] loss: 0.509
+Iteration Number: 77
+[7,    78] loss: 0.615
+Iteration Number: 78
+[7,    79] loss: 0.516
+Iteration Number: 79
+[7,    80] loss: 0.693
+Iteration Number: 80
+[7,    81] loss: 0.619
+Iteration Number: 81
+[7,    82] loss: 0.723
+Iteration Number: 82
+[7,    83] loss: 0.829
+Iteration Number: 83
+[7,    84] loss: 0.632
+Iteration Number: 84
+[7,    85] loss: 1.001
+Iteration Number: 85
+[7,    86] loss: 1.061
+Iteration Number: 86
+[7,    87] loss: 0.433
+Iteration Number: 87
+[7,    88] loss: 0.761
+Iteration Number: 88
+[7,    89] loss: 0.480
+Iteration Number: 89
+[7,    90] loss: 0.744
+Iteration Number: 90
+[7,    91] loss: 0.529
+Iteration Number: 91
+[7,    92] loss: 0.547
+Iteration Number: 92
+[7,    93] loss: 0.464
+Iteration Number: 93
+[7,    94] loss: 0.422
+Iteration Number: 94
+[7,    95] loss: 0.481
+Iteration Number: 95
+[7,    96] loss: 0.805
+Iteration Number: 96
+[7,    97] loss: 0.906
+Iteration Number: 97
+[7,    98] loss: 0.497
+Iteration Number: 98
+[7,    99] loss: 0.450
+Iteration Number: 99
+[7,   100] loss: 0.564
+Iteration Number: 100
+[7,   101] loss: 0.515
+Iteration Number: 101
+[7,   102] loss: 0.617
+Iteration Number: 102
+[7,   103] loss: 0.555
+Iteration Number: 103
+[7,   104] loss: 0.460
+Iteration Number: 104
+[7,   105] loss: 0.319
+Iteration Number: 105
+[7,   106] loss: 0.624
+Iteration Number: 106
+[7,   107] loss: 0.493
+Iteration Number: 107
+[7,   108] loss: 0.724
+Iteration Number: 108
+[7,   109] loss: 0.612
+Iteration Number: 109
+[7,   110] loss: 0.605
+Iteration Number: 110
+[7,   111] loss: 0.456
+Iteration Number: 111
+[7,   112] loss: 0.609
+Iteration Number: 112
+[7,   113] loss: 0.758
+Iteration Number: 113
+[7,   114] loss: 0.610
+Iteration Number: 114
+[7,   115] loss: 0.612
+Iteration Number: 115
+[7,   116] loss: 0.556
+Iteration Number: 116
+[7,   117] loss: 0.684
+Iteration Number: 117
+[7,   118] loss: 0.810
+Iteration Number: 118
+[7,   119] loss: 0.512
+Iteration Number: 119
+[7,   120] loss: 0.737
+Iteration Number: 120
+[7,   121] loss: 0.379
+Iteration Number: 121
+[7,   122] loss: 0.798
+Iteration Number: 122
+[7,   123] loss: 1.097
+Iteration Number: 123
+[7,   124] loss: 0.563
+Iteration Number: 124
+[7,   125] loss: 0.643
+Iteration Number: 125
+[7,   126] loss: 0.446
+Iteration Number: 126
+[7,   127] loss: 0.483
+Iteration Number: 127
+[7,   128] loss: 0.300
+Iteration Number: 128
+[7,   129] loss: 0.516
+Iteration Number: 129
+[7,   130] loss: 0.275
+Iteration Number: 130
+[7,   131] loss: 0.481
+Iteration Number: 131
+[7,   132] loss: 0.817
+Iteration Number: 132
+[7,   133] loss: 0.162
+Iteration Number: 133
+[7,   134] loss: 0.882
+Iteration Number: 134
+[7,   135] loss: 0.739
+Iteration Number: 135
+[7,   136] loss: 0.540
+Iteration Number: 136
+[7,   137] loss: 0.589
+Iteration Number: 137
+[7,   138] loss: 0.491
+Iteration Number: 138
+[7,   139] loss: 0.711
+Iteration Number: 139
+[7,   140] loss: 0.715
+Iteration Number: 140
+[7,   141] loss: 0.521
+Iteration Number: 141
+[7,   142] loss: 0.701
+Iteration Number: 142
+[7,   143] loss: 0.680
+Iteration Number: 143
+[7,   144] loss: 0.552
+Iteration Number: 144
+[7,   145] loss: 0.554
+Iteration Number: 145
+[7,   146] loss: 0.619
+Iteration Number: 146
+[7,   147] loss: 1.020
+Iteration Number: 147
+[7,   148] loss: 0.683
+Iteration Number: 148
+[7,   149] loss: 0.387
+Iteration Number: 149
+[7,   150] loss: 0.603
+Iteration Number: 150
+[7,   151] loss: 0.545
+Iteration Number: 151
+[7,   152] loss: 0.740
+Iteration Number: 152
+[7,   153] loss: 0.713
+Iteration Number: 153
+[7,   154] loss: 0.544
+Iteration Number: 154
+[7,   155] loss: 0.693
+Iteration Number: 155
+[7,   156] loss: 0.556
+Iteration Number: 156
+[7,   157] loss: 0.604
+Iteration Number: 157
+[7,   158] loss: 0.547
+Iteration Number: 158
+[7,   159] loss: 0.464
+Iteration Number: 159
+[7,   160] loss: 0.542
+Iteration Number: 160
+[7,   161] loss: 0.362
+Iteration Number: 161
+[7,   162] loss: 0.773
+Iteration Number: 162
+[7,   163] loss: 0.447
+Iteration Number: 163
+[7,   164] loss: 0.612
+Iteration Number: 164
+[7,   165] loss: 0.672
+Iteration Number: 165
+[7,   166] loss: 0.884
+Iteration Number: 166
+[7,   167] loss: 0.670
+Iteration Number: 167
+[7,   168] loss: 0.595
+Iteration Number: 168
+[7,   169] loss: 0.494
+Iteration Number: 169
+[7,   170] loss: 0.429
+Iteration Number: 170
+[7,   171] loss: 0.785
+Iteration Number: 171
+[7,   172] loss: 0.547
+Iteration Number: 172
+[7,   173] loss: 0.491
+Iteration Number: 173
+[7,   174] loss: 0.470
+Iteration Number: 174
+[7,   175] loss: 0.628
+Iteration Number: 175
+[7,   176] loss: 0.551
+Iteration Number: 176
+[7,   177] loss: 0.561
+Iteration Number: 177
+[7,   178] loss: 0.616
+Iteration Number: 178
+[7,   179] loss: 0.240
+Iteration Number: 179
+[7,   180] loss: 0.481
+Iteration Number: 180
+[7,   181] loss: 0.703
+Iteration Number: 181
+[7,   182] loss: 0.560
+Iteration Number: 182
+[7,   183] loss: 0.645
+Iteration Number: 183
+[7,   184] loss: 0.397
+Iteration Number: 184
+[7,   185] loss: 0.534
+Iteration Number: 185
+[7,   186] loss: 0.547
+Iteration Number: 186
+[7,   187] loss: 0.366
+Iteration Number: 187
+[7,   188] loss: 0.487
+Iteration Number: 188
+[7,   189] loss: 0.424
+Iteration Number: 189
+[7,   190] loss: 0.595
+Iteration Number: 190
+[7,   191] loss: 0.577
+Iteration Number: 191
+[7,   192] loss: 0.602
+Iteration Number: 192
+[7,   193] loss: 0.577
+Iteration Number: 193
+[7,   194] loss: 0.726
+Iteration Number: 194
+[7,   195] loss: 0.615
+Iteration Number: 195
+[7,   196] loss: 0.740
+Iteration Number: 196
+[7,   197] loss: 0.784
+Iteration Number: 197
+[7,   198] loss: 0.441
+Iteration Number: 198
+[7,   199] loss: 0.461
+Iteration Number: 199
+[7,   200] loss: 0.443
+Iteration Number: 200
+[7,   201] loss: 0.390
+Iteration Number: 201
+[7,   202] loss: 0.418
+Iteration Number: 202
+[7,   203] loss: 0.472
+Iteration Number: 203
+[7,   204] loss: 0.821
+Iteration Number: 204
+[7,   205] loss: 0.194
+Iteration Number: 205
+[7,   206] loss: 0.580
+Iteration Number: 206
+[7,   207] loss: 0.893
+Iteration Number: 207
+[7,   208] loss: 0.579
+Iteration Number: 208
+[7,   209] loss: 0.742
+Iteration Number: 209
+[7,   210] loss: 0.464
+Iteration Number: 210
+[7,   211] loss: 0.482
+Iteration Number: 211
+[7,   212] loss: 0.812
+Iteration Number: 212
+[7,   213] loss: 0.687
+Iteration Number: 213
+[7,   214] loss: 0.801
+Iteration Number: 214
+[7,   215] loss: 0.527
+Iteration Number: 215
+[7,   216] loss: 0.589
+Iteration Number: 216
+[7,   217] loss: 0.837
+Iteration Number: 217
+[7,   218] loss: 0.497
+Iteration Number: 218
+[7,   219] loss: 0.471
+Iteration Number: 219
+[7,   220] loss: 0.512
+Iteration Number: 220
+[7,   221] loss: 0.631
+Iteration Number: 221
+[7,   222] loss: 0.677
+Iteration Number: 222
+[7,   223] loss: 0.450
+Iteration Number: 223
+[7,   224] loss: 0.258
+Iteration Number: 224
+[7,   225] loss: 1.059
+Iteration Number: 225
+[7,   226] loss: 0.623
+Iteration Number: 226
+[7,   227] loss: 0.453
+Iteration Number: 227
+[7,   228] loss: 0.570
+Iteration Number: 228
+[7,   229] loss: 0.676
+Iteration Number: 229
+[7,   230] loss: 0.645
+Iteration Number: 230
+[7,   231] loss: 0.631
+Iteration Number: 231
+[7,   232] loss: 0.758
+Iteration Number: 232
+[7,   233] loss: 0.760
+Iteration Number: 233
+[7,   234] loss: 0.748
+Iteration Number: 234
+[7,   235] loss: 0.683
+Iteration Number: 235
+[7,   236] loss: 0.654
+Iteration Number: 236
+[7,   237] loss: 0.497
+Iteration Number: 237
+[7,   238] loss: 0.529
+Iteration Number: 238
+[7,   239] loss: 0.609
+Iteration Number: 239
+[7,   240] loss: 0.547
+Iteration Number: 240
+[7,   241] loss: 0.765
+Iteration Number: 241
+[7,   242] loss: 0.826
+Iteration Number: 242
+[7,   243] loss: 0.684
+Iteration Number: 243
+[7,   244] loss: 0.815
+Iteration Number: 244
+[7,   245] loss: 0.735
+Iteration Number: 245
+[7,   246] loss: 0.725
+Iteration Number: 246
+[7,   247] loss: 0.450
+Iteration Number: 247
+[7,   248] loss: 0.806
+Iteration Number: 248
+[7,   249] loss: 0.398
+Iteration Number: 249
+[7,   250] loss: 0.657
+Iteration Number: 250
+[7,   251] loss: 0.395
+Iteration Number: 251
+[7,   252] loss: 0.546
+Iteration Number: 252
+[7,   253] loss: 0.426
+Iteration Number: 253
+[7,   254] loss: 0.487
+Iteration Number: 254
+[7,   255] loss: 0.838
+Iteration Number: 255
+[7,   256] loss: 0.338
+Iteration Number: 256
+[7,   257] loss: 0.573
+Iteration Number: 257
+[7,   258] loss: 0.372
+Iteration Number: 258
+[7,   259] loss: 0.404
+Iteration Number: 259
+[7,   260] loss: 0.542
+Iteration Number: 260
+[7,   261] loss: 0.623
+Iteration Number: 261
+[7,   262] loss: 0.409
+Iteration Number: 262
+[7,   263] loss: 0.993
+Iteration Number: 263
+[7,   264] loss: 0.680
+Iteration Number: 264
+[7,   265] loss: 0.402
+Iteration Number: 265
+[7,   266] loss: 0.515
+Iteration Number: 266
+[7,   267] loss: 0.598
+Iteration Number: 267
+[7,   268] loss: 0.476
+Iteration Number: 268
+[7,   269] loss: 0.625
+Iteration Number: 269
+[7,   270] loss: 0.614
+Iteration Number: 270
+[7,   271] loss: 0.525
+Iteration Number: 271
+[7,   272] loss: 0.540
+Iteration Number: 272
+[7,   273] loss: 0.474
+Iteration Number: 273
+[7,   274] loss: 0.458
+Iteration Number: 274
+[7,   275] loss: 0.698
+Iteration Number: 275
+[7,   276] loss: 0.464
+Iteration Number: 276
+[7,   277] loss: 0.462
+Iteration Number: 277
+[7,   278] loss: 0.594
+Iteration Number: 278
+[7,   279] loss: 0.572
+Iteration Number: 279
+[7,   280] loss: 0.627
+Iteration Number: 280
+[7,   281] loss: 0.490
+Iteration Number: 281
+[7,   282] loss: 0.571
+Iteration Number: 282
+[7,   283] loss: 0.928
+Iteration Number: 283
+[7,   284] loss: 0.772
+Iteration Number: 284
+[7,   285] loss: 0.613
+Iteration Number: 285
+[7,   286] loss: 1.184
+Iteration Number: 286
+[7,   287] loss: 0.527
+Iteration Number: 287
+[7,   288] loss: 0.619
+Iteration Number: 288
+[7,   289] loss: 0.735
+Iteration Number: 289
+[7,   290] loss: 0.472
+Iteration Number: 290
+[7,   291] loss: 0.821
+Iteration Number: 291
+[7,   292] loss: 0.756
+Iteration Number: 292
+[7,   293] loss: 0.688
+Iteration Number: 293
+[7,   294] loss: 0.616
+Iteration Number: 294
+[7,   295] loss: 1.077
+Iteration Number: 295
+[7,   296] loss: 0.479
+Iteration Number: 296
+[7,   297] loss: 0.555
+Iteration Number: 297
+[7,   298] loss: 0.592
+Iteration Number: 298
+[7,   299] loss: 0.511
+Iteration Number: 299
+[7,   300] loss: 0.745
+Iteration Number: 300
+[7,   301] loss: 0.660
+Iteration Number: 301
+[7,   302] loss: 0.570
+Iteration Number: 302
+[7,   303] loss: 0.628
+Iteration Number: 303
+[7,   304] loss: 0.740
+Iteration Number: 304
+[7,   305] loss: 0.601
+Iteration Number: 305
+[7,   306] loss: 0.423
+Iteration Number: 306
+[7,   307] loss: 0.512
+Iteration Number: 307
+[7,   308] loss: 0.418
+Iteration Number: 308
+[7,   309] loss: 0.493
+Iteration Number: 309
+[7,   310] loss: 0.406
+Iteration Number: 310
+[7,   311] loss: 0.409
+Iteration Number: 311
+[7,   312] loss: 0.860
+Iteration Number: 312
+[7,   313] loss: 0.520
+[7,   314] Train Acc: 82.131
+Epoch Number: 7
+Iteration Number: 0
+[8,     1] loss: 0.690
+Iteration Number: 1
+[8,     2] loss: 0.554
+Iteration Number: 2
+[8,     3] loss: 0.569
+Iteration Number: 3
+[8,     4] loss: 0.616
+Iteration Number: 4
+[8,     5] loss: 0.523
+Iteration Number: 5
+[8,     6] loss: 0.794
+Iteration Number: 6
+[8,     7] loss: 0.522
+Iteration Number: 7
+[8,     8] loss: 0.610
+Iteration Number: 8
+[8,     9] loss: 0.604
+Iteration Number: 9
+[8,    10] loss: 0.836
+Iteration Number: 10
+[8,    11] loss: 0.277
+Iteration Number: 11
+[8,    12] loss: 0.490
+Iteration Number: 12
+[8,    13] loss: 0.313
+Iteration Number: 13
+[8,    14] loss: 0.799
+Iteration Number: 14
+[8,    15] loss: 0.282
+Iteration Number: 15
+[8,    16] loss: 0.674
+Iteration Number: 16
+[8,    17] loss: 0.886
+Iteration Number: 17
+[8,    18] loss: 0.787
+Iteration Number: 18
+[8,    19] loss: 0.895
+Iteration Number: 19
+[8,    20] loss: 0.552
+Iteration Number: 20
+[8,    21] loss: 0.857
+Iteration Number: 21
+[8,    22] loss: 0.838
+Iteration Number: 22
+[8,    23] loss: 0.630
+Iteration Number: 23
+[8,    24] loss: 0.692
+Iteration Number: 24
+[8,    25] loss: 0.532
+Iteration Number: 25
+[8,    26] loss: 0.633
+Iteration Number: 26
+[8,    27] loss: 0.705
+Iteration Number: 27
+[8,    28] loss: 0.785
+Iteration Number: 28
+[8,    29] loss: 0.454
+Iteration Number: 29
+[8,    30] loss: 0.371
+Iteration Number: 30
+[8,    31] loss: 0.285
+Iteration Number: 31
+[8,    32] loss: 0.605
+Iteration Number: 32
+[8,    33] loss: 0.609
+Iteration Number: 33
+[8,    34] loss: 0.745
+Iteration Number: 34
+[8,    35] loss: 0.708
+Iteration Number: 35
+[8,    36] loss: 0.772
+Iteration Number: 36
+[8,    37] loss: 0.291
+Iteration Number: 37
+[8,    38] loss: 0.431
+Iteration Number: 38
+[8,    39] loss: 0.626
+Iteration Number: 39
+[8,    40] loss: 0.608
+Iteration Number: 40
+[8,    41] loss: 0.469
+Iteration Number: 41
+[8,    42] loss: 0.486
+Iteration Number: 42
+[8,    43] loss: 0.579
+Iteration Number: 43
+[8,    44] loss: 0.657
+Iteration Number: 44
+[8,    45] loss: 0.639
+Iteration Number: 45
+[8,    46] loss: 0.666
+Iteration Number: 46
+[8,    47] loss: 0.739
+Iteration Number: 47
+[8,    48] loss: 0.702
+Iteration Number: 48
+[8,    49] loss: 0.514
+Iteration Number: 49
+[8,    50] loss: 0.529
+Iteration Number: 50
+[8,    51] loss: 0.548
+Iteration Number: 51
+[8,    52] loss: 0.767
+Iteration Number: 52
+[8,    53] loss: 0.621
+Iteration Number: 53
+[8,    54] loss: 0.613
+Iteration Number: 54
+[8,    55] loss: 0.675
+Iteration Number: 55
+[8,    56] loss: 0.679
+Iteration Number: 56
+[8,    57] loss: 0.661
+Iteration Number: 57
+[8,    58] loss: 0.748
+Iteration Number: 58
+[8,    59] loss: 0.575
+Iteration Number: 59
+[8,    60] loss: 0.457
+Iteration Number: 60
+[8,    61] loss: 0.760
+Iteration Number: 61
+[8,    62] loss: 0.746
+Iteration Number: 62
+[8,    63] loss: 0.644
+Iteration Number: 63
+[8,    64] loss: 0.828
+Iteration Number: 64
+[8,    65] loss: 0.312
+Iteration Number: 65
+[8,    66] loss: 0.746
+Iteration Number: 66
+[8,    67] loss: 0.538
+Iteration Number: 67
+[8,    68] loss: 0.393
+Iteration Number: 68
+[8,    69] loss: 0.444
+Iteration Number: 69
+[8,    70] loss: 0.608
+Iteration Number: 70
+[8,    71] loss: 0.701
+Iteration Number: 71
+[8,    72] loss: 0.557
+Iteration Number: 72
+[8,    73] loss: 0.965
+Iteration Number: 73
+[8,    74] loss: 1.030
+Iteration Number: 74
+[8,    75] loss: 0.705
+Iteration Number: 75
+[8,    76] loss: 0.742
+Iteration Number: 76
+[8,    77] loss: 0.511
+Iteration Number: 77
+[8,    78] loss: 0.617
+Iteration Number: 78
+[8,    79] loss: 0.519
+Iteration Number: 79
+[8,    80] loss: 0.693
+Iteration Number: 80
+[8,    81] loss: 0.617
+Iteration Number: 81
+[8,    82] loss: 0.720
+Iteration Number: 82
+[8,    83] loss: 0.826
+Iteration Number: 83
+[8,    84] loss: 0.632
+Iteration Number: 84
+[8,    85] loss: 1.002
+Iteration Number: 85
+[8,    86] loss: 1.064
+Iteration Number: 86
+[8,    87] loss: 0.427
+Iteration Number: 87
+[8,    88] loss: 0.759
+Iteration Number: 88
+[8,    89] loss: 0.470
+Iteration Number: 89
+[8,    90] loss: 0.743
+Iteration Number: 90
+[8,    91] loss: 0.530
+Iteration Number: 91
+[8,    92] loss: 0.550
+Iteration Number: 92
+[8,    93] loss: 0.467
+Iteration Number: 93
+[8,    94] loss: 0.425
+Iteration Number: 94
+[8,    95] loss: 0.479
+Iteration Number: 95
+[8,    96] loss: 0.795
+Iteration Number: 96
+[8,    97] loss: 0.896
+Iteration Number: 97
+[8,    98] loss: 0.494
+Iteration Number: 98
+[8,    99] loss: 0.449
+Iteration Number: 99
+[8,   100] loss: 0.563
+Iteration Number: 100
+[8,   101] loss: 0.516
+Iteration Number: 101
+[8,   102] loss: 0.618
+Iteration Number: 102
+[8,   103] loss: 0.554
+Iteration Number: 103
+[8,   104] loss: 0.458
+Iteration Number: 104
+[8,   105] loss: 0.315
+Iteration Number: 105
+[8,   106] loss: 0.624
+Iteration Number: 106
+[8,   107] loss: 0.494
+Iteration Number: 107
+[8,   108] loss: 0.726
+Iteration Number: 108
+[8,   109] loss: 0.612
+Iteration Number: 109
+[8,   110] loss: 0.605
+Iteration Number: 110
+[8,   111] loss: 0.456
+Iteration Number: 111
+[8,   112] loss: 0.608
+Iteration Number: 112
+[8,   113] loss: 0.758
+Iteration Number: 113
+[8,   114] loss: 0.610
+Iteration Number: 114
+[8,   115] loss: 0.612
+Iteration Number: 115
+[8,   116] loss: 0.556
+Iteration Number: 116
+[8,   117] loss: 0.684
+Iteration Number: 117
+[8,   118] loss: 0.810
+Iteration Number: 118
+[8,   119] loss: 0.512
+Iteration Number: 119
+[8,   120] loss: 0.738
+Iteration Number: 120
+[8,   121] loss: 0.380
+Iteration Number: 121
+[8,   122] loss: 0.798
+Iteration Number: 122
+[8,   123] loss: 1.091
+Iteration Number: 123
+[8,   124] loss: 0.562
+Iteration Number: 124
+[8,   125] loss: 0.645
+Iteration Number: 125
+[8,   126] loss: 0.447
+Iteration Number: 126
+[8,   127] loss: 0.484
+Iteration Number: 127
+[8,   128] loss: 0.301
+Iteration Number: 128
+[8,   129] loss: 0.516
+Iteration Number: 129
+[8,   130] loss: 0.276
+Iteration Number: 130
+[8,   131] loss: 0.480
+Iteration Number: 131
+[8,   132] loss: 0.815
+Iteration Number: 132
+[8,   133] loss: 0.162
+Iteration Number: 133
+[8,   134] loss: 0.879
+Iteration Number: 134
+[8,   135] loss: 0.737
+Iteration Number: 135
+[8,   136] loss: 0.540
+Iteration Number: 136
+[8,   137] loss: 0.591
+Iteration Number: 137
+[8,   138] loss: 0.490
+Iteration Number: 138
+[8,   139] loss: 0.714
+Iteration Number: 139
+[8,   140] loss: 0.715
+Iteration Number: 140
+[8,   141] loss: 0.518
+Iteration Number: 141
+[8,   142] loss: 0.702
+Iteration Number: 142
+[8,   143] loss: 0.682
+Iteration Number: 143
+[8,   144] loss: 0.554
+Iteration Number: 144
+[8,   145] loss: 0.557
+Iteration Number: 145
+[8,   146] loss: 0.619
+Iteration Number: 146
+[8,   147] loss: 1.010
+Iteration Number: 147
+[8,   148] loss: 0.682
+Iteration Number: 148
+[8,   149] loss: 0.388
+Iteration Number: 149
+[8,   150] loss: 0.603
+Iteration Number: 150
+[8,   151] loss: 0.544
+Iteration Number: 151
+[8,   152] loss: 0.741
+Iteration Number: 152
+[8,   153] loss: 0.714
+Iteration Number: 153
+[8,   154] loss: 0.543
+Iteration Number: 154
+[8,   155] loss: 0.697
+Iteration Number: 155
+[8,   156] loss: 0.557
+Iteration Number: 156
+[8,   157] loss: 0.603
+Iteration Number: 157
+[8,   158] loss: 0.550
+Iteration Number: 158
+[8,   159] loss: 0.465
+Iteration Number: 159
+[8,   160] loss: 0.542
+Iteration Number: 160
+[8,   161] loss: 0.364
+Iteration Number: 161
+[8,   162] loss: 0.771
+Iteration Number: 162
+[8,   163] loss: 0.447
+Iteration Number: 163
+[8,   164] loss: 0.611
+Iteration Number: 164
+[8,   165] loss: 0.671
+Iteration Number: 165
+[8,   166] loss: 0.881
+Iteration Number: 166
+[8,   167] loss: 0.669
+Iteration Number: 167
+[8,   168] loss: 0.595
+Iteration Number: 168
+[8,   169] loss: 0.494
+Iteration Number: 169
+[8,   170] loss: 0.429
+Iteration Number: 170
+[8,   171] loss: 0.785
+Iteration Number: 171
+[8,   172] loss: 0.548
+Iteration Number: 172
+[8,   173] loss: 0.489
+Iteration Number: 173
+[8,   174] loss: 0.470
+Iteration Number: 174
+[8,   175] loss: 0.629
+Iteration Number: 175
+[8,   176] loss: 0.552
+Iteration Number: 176
+[8,   177] loss: 0.564
+Iteration Number: 177
+[8,   178] loss: 0.615
+Iteration Number: 178
+[8,   179] loss: 0.239
+Iteration Number: 179
+[8,   180] loss: 0.479
+Iteration Number: 180
+[8,   181] loss: 0.702
+Iteration Number: 181
+[8,   182] loss: 0.559
+Iteration Number: 182
+[8,   183] loss: 0.644
+Iteration Number: 183
+[8,   184] loss: 0.398
+Iteration Number: 184
+[8,   185] loss: 0.535
+Iteration Number: 185
+[8,   186] loss: 0.545
+Iteration Number: 186
+[8,   187] loss: 0.368
+Iteration Number: 187
+[8,   188] loss: 0.489
+Iteration Number: 188
+[8,   189] loss: 0.421
+Iteration Number: 189
+[8,   190] loss: 0.591
+Iteration Number: 190
+[8,   191] loss: 0.577
+Iteration Number: 191
+[8,   192] loss: 0.599
+Iteration Number: 192
+[8,   193] loss: 0.577
+Iteration Number: 193
+[8,   194] loss: 0.724
+Iteration Number: 194
+[8,   195] loss: 0.614
+Iteration Number: 195
+[8,   196] loss: 0.738
+Iteration Number: 196
+[8,   197] loss: 0.784
+Iteration Number: 197
+[8,   198] loss: 0.441
+Iteration Number: 198
+[8,   199] loss: 0.460
+Iteration Number: 199
+[8,   200] loss: 0.442
+Iteration Number: 200
+[8,   201] loss: 0.389
+Iteration Number: 201
+[8,   202] loss: 0.420
+Iteration Number: 202
+[8,   203] loss: 0.473
+Iteration Number: 203
+[8,   204] loss: 0.818
+Iteration Number: 204
+[8,   205] loss: 0.196
+Iteration Number: 205
+[8,   206] loss: 0.579
+Iteration Number: 206
+[8,   207] loss: 0.893
+Iteration Number: 207
+[8,   208] loss: 0.579
+Iteration Number: 208
+[8,   209] loss: 0.742
+Iteration Number: 209
+[8,   210] loss: 0.464
+Iteration Number: 210
+[8,   211] loss: 0.480
+Iteration Number: 211
+[8,   212] loss: 0.814
+Iteration Number: 212
+[8,   213] loss: 0.686
+Iteration Number: 213
+[8,   214] loss: 0.802
+Iteration Number: 214
+[8,   215] loss: 0.524
+Iteration Number: 215
+[8,   216] loss: 0.591
+Iteration Number: 216
+[8,   217] loss: 0.836
+Iteration Number: 217
+[8,   218] loss: 0.501
+Iteration Number: 218
+[8,   219] loss: 0.474
+Iteration Number: 219
+[8,   220] loss: 0.512
+Iteration Number: 220
+[8,   221] loss: 0.630
+Iteration Number: 221
+[8,   222] loss: 0.674
+Iteration Number: 222
+[8,   223] loss: 0.449
+Iteration Number: 223
+[8,   224] loss: 0.259
+Iteration Number: 224
+[8,   225] loss: 1.060
+Iteration Number: 225
+[8,   226] loss: 0.622
+Iteration Number: 226
+[8,   227] loss: 0.454
+Iteration Number: 227
+[8,   228] loss: 0.570
+Iteration Number: 228
+[8,   229] loss: 0.676
+Iteration Number: 229
+[8,   230] loss: 0.644
+Iteration Number: 230
+[8,   231] loss: 0.631
+Iteration Number: 231
+[8,   232] loss: 0.758
+Iteration Number: 232
+[8,   233] loss: 0.764
+Iteration Number: 233
+[8,   234] loss: 0.749
+Iteration Number: 234
+[8,   235] loss: 0.679
+Iteration Number: 235
+[8,   236] loss: 0.653
+Iteration Number: 236
+[8,   237] loss: 0.498
+Iteration Number: 237
+[8,   238] loss: 0.525
+Iteration Number: 238
+[8,   239] loss: 0.607
+Iteration Number: 239
+[8,   240] loss: 0.546
+Iteration Number: 240
+[8,   241] loss: 0.767
+Iteration Number: 241
+[8,   242] loss: 0.827
+Iteration Number: 242
+[8,   243] loss: 0.684
+Iteration Number: 243
+[8,   244] loss: 0.817
+Iteration Number: 244
+[8,   245] loss: 0.737
+Iteration Number: 245
+[8,   246] loss: 0.727
+Iteration Number: 246
+[8,   247] loss: 0.449
+Iteration Number: 247
+[8,   248] loss: 0.804
+Iteration Number: 248
+[8,   249] loss: 0.401
+Iteration Number: 249
+[8,   250] loss: 0.657
+Iteration Number: 250
+[8,   251] loss: 0.397
+Iteration Number: 251
+[8,   252] loss: 0.545
+Iteration Number: 252
+[8,   253] loss: 0.426
+Iteration Number: 253
+[8,   254] loss: 0.486
+Iteration Number: 254
+[8,   255] loss: 0.834
+Iteration Number: 255
+[8,   256] loss: 0.338
+Iteration Number: 256
+[8,   257] loss: 0.573
+Iteration Number: 257
+[8,   258] loss: 0.372
+Iteration Number: 258
+[8,   259] loss: 0.404
+Iteration Number: 259
+[8,   260] loss: 0.543
+Iteration Number: 260
+[8,   261] loss: 0.625
+Iteration Number: 261
+[8,   262] loss: 0.407
+Iteration Number: 262
+[8,   263] loss: 0.999
+Iteration Number: 263
+[8,   264] loss: 0.681
+Iteration Number: 264
+[8,   265] loss: 0.402
+Iteration Number: 265
+[8,   266] loss: 0.518
+Iteration Number: 266
+[8,   267] loss: 0.594
+Iteration Number: 267
+[8,   268] loss: 0.478
+Iteration Number: 268
+[8,   269] loss: 0.626
+Iteration Number: 269
+[8,   270] loss: 0.612
+Iteration Number: 270
+[8,   271] loss: 0.521
+Iteration Number: 271
+[8,   272] loss: 0.539
+Iteration Number: 272
+[8,   273] loss: 0.475
+Iteration Number: 273
+[8,   274] loss: 0.457
+Iteration Number: 274
+[8,   275] loss: 0.699
+Iteration Number: 275
+[8,   276] loss: 0.463
+Iteration Number: 276
+[8,   277] loss: 0.462
+Iteration Number: 277
+[8,   278] loss: 0.596
+Iteration Number: 278
+[8,   279] loss: 0.575
+Iteration Number: 279
+[8,   280] loss: 0.626
+Iteration Number: 280
+[8,   281] loss: 0.488
+Iteration Number: 281
+[8,   282] loss: 0.571
+Iteration Number: 282
+[8,   283] loss: 0.923
+Iteration Number: 283
+[8,   284] loss: 0.767
+Iteration Number: 284
+[8,   285] loss: 0.613
+Iteration Number: 285
+[8,   286] loss: 1.178
+Iteration Number: 286
+[8,   287] loss: 0.528
+Iteration Number: 287
+[8,   288] loss: 0.619
+Iteration Number: 288
+[8,   289] loss: 0.735
+Iteration Number: 289
+[8,   290] loss: 0.471
+Iteration Number: 290
+[8,   291] loss: 0.818
+Iteration Number: 291
+[8,   292] loss: 0.754
+Iteration Number: 292
+[8,   293] loss: 0.686
+Iteration Number: 293
+[8,   294] loss: 0.616
+Iteration Number: 294
+[8,   295] loss: 1.076
+Iteration Number: 295
+[8,   296] loss: 0.479
+Iteration Number: 296
+[8,   297] loss: 0.554
+Iteration Number: 297
+[8,   298] loss: 0.590
+Iteration Number: 298
+[8,   299] loss: 0.510
+Iteration Number: 299
+[8,   300] loss: 0.744
+Iteration Number: 300
+[8,   301] loss: 0.660
+Iteration Number: 301
+[8,   302] loss: 0.570
+Iteration Number: 302
+[8,   303] loss: 0.627
+Iteration Number: 303
+[8,   304] loss: 0.739
+Iteration Number: 304
+[8,   305] loss: 0.600
+Iteration Number: 305
+[8,   306] loss: 0.423
+Iteration Number: 306
+[8,   307] loss: 0.512
+Iteration Number: 307
+[8,   308] loss: 0.418
+Iteration Number: 308
+[8,   309] loss: 0.493
+Iteration Number: 309
+[8,   310] loss: 0.406
+Iteration Number: 310
+[8,   311] loss: 0.409
+Iteration Number: 311
+[8,   312] loss: 0.859
+Iteration Number: 312
+[8,   313] loss: 0.520
+[8,   314] Train Acc: 82.131
+Epoch Number: 8
+Iteration Number: 0
+[9,     1] loss: 0.690
+Iteration Number: 1
+[9,     2] loss: 0.554
+Iteration Number: 2
+[9,     3] loss: 0.569
+Iteration Number: 3
+[9,     4] loss: 0.616
+Iteration Number: 4
+[9,     5] loss: 0.522
+Iteration Number: 5
+[9,     6] loss: 0.796
+Iteration Number: 6
+[9,     7] loss: 0.522
+Iteration Number: 7
+[9,     8] loss: 0.611
+Iteration Number: 8
+[9,     9] loss: 0.604
+Iteration Number: 9
+[9,    10] loss: 0.837
+Iteration Number: 10
+[9,    11] loss: 0.278
+Iteration Number: 11
+[9,    12] loss: 0.493
+Iteration Number: 12
+[9,    13] loss: 0.313
+Iteration Number: 13
+[9,    14] loss: 0.797
+Iteration Number: 14
+[9,    15] loss: 0.283
+Iteration Number: 15
+[9,    16] loss: 0.672
+Iteration Number: 16
+[9,    17] loss: 0.885
+Iteration Number: 17
+[9,    18] loss: 0.786
+Iteration Number: 18
+[9,    19] loss: 0.897
+Iteration Number: 19
+[9,    20] loss: 0.552
+Iteration Number: 20
+[9,    21] loss: 0.858
+Iteration Number: 21
+[9,    22] loss: 0.840
+Iteration Number: 22
+[9,    23] loss: 0.626
+Iteration Number: 23
+[9,    24] loss: 0.692
+Iteration Number: 24
+[9,    25] loss: 0.533
+Iteration Number: 25
+[9,    26] loss: 0.636
+Iteration Number: 26
+[9,    27] loss: 0.704
+Iteration Number: 27
+[9,    28] loss: 0.781
+Iteration Number: 28
+[9,    29] loss: 0.456
+Iteration Number: 29
+[9,    30] loss: 0.372
+Iteration Number: 30
+[9,    31] loss: 0.285
+Iteration Number: 31
+[9,    32] loss: 0.602
+Iteration Number: 32
+[9,    33] loss: 0.607
+Iteration Number: 33
+[9,    34] loss: 0.745
+Iteration Number: 34
+[9,    35] loss: 0.710
+Iteration Number: 35
+[9,    36] loss: 0.777
+Iteration Number: 36
+[9,    37] loss: 0.289
+Iteration Number: 37
+[9,    38] loss: 0.430
+Iteration Number: 38
+[9,    39] loss: 0.628
+Iteration Number: 39
+[9,    40] loss: 0.606
+Iteration Number: 40
+[9,    41] loss: 0.462
+Iteration Number: 41
+[9,    42] loss: 0.483
+Iteration Number: 42
+[9,    43] loss: 0.581
+Iteration Number: 43
+[9,    44] loss: 0.658
+Iteration Number: 44
+[9,    45] loss: 0.640
+Iteration Number: 45
+[9,    46] loss: 0.663
+Iteration Number: 46
+[9,    47] loss: 0.735
+Iteration Number: 47
+[9,    48] loss: 0.699
+Iteration Number: 48
+[9,    49] loss: 0.514
+Iteration Number: 49
+[9,    50] loss: 0.529
+Iteration Number: 50
+[9,    51] loss: 0.548
+Iteration Number: 51
+[9,    52] loss: 0.772
+Iteration Number: 52
+[9,    53] loss: 0.623
+Iteration Number: 53
+[9,    54] loss: 0.614
+Iteration Number: 54
+[9,    55] loss: 0.676
+Iteration Number: 55
+[9,    56] loss: 0.679
+Iteration Number: 56
+[9,    57] loss: 0.661
+Iteration Number: 57
+[9,    58] loss: 0.747
+Iteration Number: 58
+[9,    59] loss: 0.576
+Iteration Number: 59
+[9,    60] loss: 0.462
+Iteration Number: 60
+[9,    61] loss: 0.759
+Iteration Number: 61
+[9,    62] loss: 0.743
+Iteration Number: 62
+[9,    63] loss: 0.643
+Iteration Number: 63
+[9,    64] loss: 0.824
+Iteration Number: 64
+[9,    65] loss: 0.313
+Iteration Number: 65
+[9,    66] loss: 0.745
+Iteration Number: 66
+[9,    67] loss: 0.537
+Iteration Number: 67
+[9,    68] loss: 0.391
+Iteration Number: 68
+[9,    69] loss: 0.442
+Iteration Number: 69
+[9,    70] loss: 0.609
+Iteration Number: 70
+[9,    71] loss: 0.703
+Iteration Number: 71
+[9,    72] loss: 0.557
+Iteration Number: 72
+[9,    73] loss: 0.968
+Iteration Number: 73
+[9,    74] loss: 1.032
+Iteration Number: 74
+[9,    75] loss: 0.704
+Iteration Number: 75
+[9,    76] loss: 0.742
+Iteration Number: 76
+[9,    77] loss: 0.511
+Iteration Number: 77
+[9,    78] loss: 0.620
+Iteration Number: 78
+[9,    79] loss: 0.523
+Iteration Number: 79
+[9,    80] loss: 0.692
+Iteration Number: 80
+[9,    81] loss: 0.616
+Iteration Number: 81
+[9,    82] loss: 0.716
+Iteration Number: 82
+[9,    83] loss: 0.823
+Iteration Number: 83
+[9,    84] loss: 0.631
+Iteration Number: 84
+[9,    85] loss: 1.002
+Iteration Number: 85
+[9,    86] loss: 1.067
+Iteration Number: 86
+[9,    87] loss: 0.423
+Iteration Number: 87
+[9,    88] loss: 0.759
+Iteration Number: 88
+[9,    89] loss: 0.461
+Iteration Number: 89
+[9,    90] loss: 0.742
+Iteration Number: 90
+[9,    91] loss: 0.531
+Iteration Number: 91
+[9,    92] loss: 0.553
+Iteration Number: 92
+[9,    93] loss: 0.471
+Iteration Number: 93
+[9,    94] loss: 0.428
+Iteration Number: 94
+[9,    95] loss: 0.478
+Iteration Number: 95
+[9,    96] loss: 0.785
+Iteration Number: 96
+[9,    97] loss: 0.886
+Iteration Number: 97
+[9,    98] loss: 0.492
+Iteration Number: 98
+[9,    99] loss: 0.448
+Iteration Number: 99
+[9,   100] loss: 0.562
+Iteration Number: 100
+[9,   101] loss: 0.516
+Iteration Number: 101
+[9,   102] loss: 0.618
+Iteration Number: 102
+[9,   103] loss: 0.553
+Iteration Number: 103
+[9,   104] loss: 0.456
+Iteration Number: 104
+[9,   105] loss: 0.312
+Iteration Number: 105
+[9,   106] loss: 0.625
+Iteration Number: 106
+[9,   107] loss: 0.495
+Iteration Number: 107
+[9,   108] loss: 0.727
+Iteration Number: 108
+[9,   109] loss: 0.612
+Iteration Number: 109
+[9,   110] loss: 0.604
+Iteration Number: 110
+[9,   111] loss: 0.456
+Iteration Number: 111
+[9,   112] loss: 0.607
+Iteration Number: 112
+[9,   113] loss: 0.759
+Iteration Number: 113
+[9,   114] loss: 0.611
+Iteration Number: 114
+[9,   115] loss: 0.612
+Iteration Number: 115
+[9,   116] loss: 0.556
+Iteration Number: 116
+[9,   117] loss: 0.683
+Iteration Number: 117
+[9,   118] loss: 0.811
+Iteration Number: 118
+[9,   119] loss: 0.511
+Iteration Number: 119
+[9,   120] loss: 0.738
+Iteration Number: 120
+[9,   121] loss: 0.380
+Iteration Number: 121
+[9,   122] loss: 0.798
+Iteration Number: 122
+[9,   123] loss: 1.086
+Iteration Number: 123
+[9,   124] loss: 0.561
+Iteration Number: 124
+[9,   125] loss: 0.647
+Iteration Number: 125
+[9,   126] loss: 0.447
+Iteration Number: 126
+[9,   127] loss: 0.484
+Iteration Number: 127
+[9,   128] loss: 0.302
+Iteration Number: 128
+[9,   129] loss: 0.516
+Iteration Number: 129
+[9,   130] loss: 0.277
+Iteration Number: 130
+[9,   131] loss: 0.479
+Iteration Number: 131
+[9,   132] loss: 0.812
+Iteration Number: 132
+[9,   133] loss: 0.162
+Iteration Number: 133
+[9,   134] loss: 0.876
+Iteration Number: 134
+[9,   135] loss: 0.735
+Iteration Number: 135
+[9,   136] loss: 0.541
+Iteration Number: 136
+[9,   137] loss: 0.593
+Iteration Number: 137
+[9,   138] loss: 0.490
+Iteration Number: 138
+[9,   139] loss: 0.716
+Iteration Number: 139
+[9,   140] loss: 0.715
+Iteration Number: 140
+[9,   141] loss: 0.515
+Iteration Number: 141
+[9,   142] loss: 0.703
+Iteration Number: 142
+[9,   143] loss: 0.683
+Iteration Number: 143
+[9,   144] loss: 0.556
+Iteration Number: 144
+[9,   145] loss: 0.560
+Iteration Number: 145
+[9,   146] loss: 0.618
+Iteration Number: 146
+[9,   147] loss: 1.001
+Iteration Number: 147
+[9,   148] loss: 0.681
+Iteration Number: 148
+[9,   149] loss: 0.390
+Iteration Number: 149
+[9,   150] loss: 0.603
+Iteration Number: 150
+[9,   151] loss: 0.544
+Iteration Number: 151
+[9,   152] loss: 0.741
+Iteration Number: 152
+[9,   153] loss: 0.714
+Iteration Number: 153
+[9,   154] loss: 0.543
+Iteration Number: 154
+[9,   155] loss: 0.701
+Iteration Number: 155
+[9,   156] loss: 0.558
+Iteration Number: 156
+[9,   157] loss: 0.603
+Iteration Number: 157
+[9,   158] loss: 0.553
+Iteration Number: 158
+[9,   159] loss: 0.467
+Iteration Number: 159
+[9,   160] loss: 0.542
+Iteration Number: 160
+[9,   161] loss: 0.366
+Iteration Number: 161
+[9,   162] loss: 0.769
+Iteration Number: 162
+[9,   163] loss: 0.447
+Iteration Number: 163
+[9,   164] loss: 0.610
+Iteration Number: 164
+[9,   165] loss: 0.670
+Iteration Number: 165
+[9,   166] loss: 0.879
+Iteration Number: 166
+[9,   167] loss: 0.669
+Iteration Number: 167
+[9,   168] loss: 0.594
+Iteration Number: 168
+[9,   169] loss: 0.494
+Iteration Number: 169
+[9,   170] loss: 0.428
+Iteration Number: 170
+[9,   171] loss: 0.784
+Iteration Number: 171
+[9,   172] loss: 0.549
+Iteration Number: 172
+[9,   173] loss: 0.486
+Iteration Number: 173
+[9,   174] loss: 0.471
+Iteration Number: 174
+[9,   175] loss: 0.630
+Iteration Number: 175
+[9,   176] loss: 0.554
+Iteration Number: 176
+[9,   177] loss: 0.566
+Iteration Number: 177
+[9,   178] loss: 0.615
+Iteration Number: 178
+[9,   179] loss: 0.237
+Iteration Number: 179
+[9,   180] loss: 0.478
+Iteration Number: 180
+[9,   181] loss: 0.702
+Iteration Number: 181
+[9,   182] loss: 0.558
+Iteration Number: 182
+[9,   183] loss: 0.643
+Iteration Number: 183
+[9,   184] loss: 0.399
+Iteration Number: 184
+[9,   185] loss: 0.536
+Iteration Number: 185
+[9,   186] loss: 0.544
+Iteration Number: 186
+[9,   187] loss: 0.370
+Iteration Number: 187
+[9,   188] loss: 0.491
+Iteration Number: 188
+[9,   189] loss: 0.419
+Iteration Number: 189
+[9,   190] loss: 0.588
+Iteration Number: 190
+[9,   191] loss: 0.578
+Iteration Number: 191
+[9,   192] loss: 0.596
+Iteration Number: 192
+[9,   193] loss: 0.577
+Iteration Number: 193
+[9,   194] loss: 0.722
+Iteration Number: 194
+[9,   195] loss: 0.613
+Iteration Number: 195
+[9,   196] loss: 0.736
+Iteration Number: 196
+[9,   197] loss: 0.784
+Iteration Number: 197
+[9,   198] loss: 0.440
+Iteration Number: 198
+[9,   199] loss: 0.459
+Iteration Number: 199
+[9,   200] loss: 0.442
+Iteration Number: 200
+[9,   201] loss: 0.389
+Iteration Number: 201
+[9,   202] loss: 0.422
+Iteration Number: 202
+[9,   203] loss: 0.473
+Iteration Number: 203
+[9,   204] loss: 0.816
+Iteration Number: 204
+[9,   205] loss: 0.197
+Iteration Number: 205
+[9,   206] loss: 0.578
+Iteration Number: 206
+[9,   207] loss: 0.892
+Iteration Number: 207
+[9,   208] loss: 0.580
+Iteration Number: 208
+[9,   209] loss: 0.741
+Iteration Number: 209
+[9,   210] loss: 0.464
+Iteration Number: 210
+[9,   211] loss: 0.478
+Iteration Number: 211
+[9,   212] loss: 0.816
+Iteration Number: 212
+[9,   213] loss: 0.685
+Iteration Number: 213
+[9,   214] loss: 0.802
+Iteration Number: 214
+[9,   215] loss: 0.521
+Iteration Number: 215
+[9,   216] loss: 0.592
+Iteration Number: 216
+[9,   217] loss: 0.835
+Iteration Number: 217
+[9,   218] loss: 0.505
+Iteration Number: 218
+[9,   219] loss: 0.478
+Iteration Number: 219
+[9,   220] loss: 0.511
+Iteration Number: 220
+[9,   221] loss: 0.629
+Iteration Number: 221
+[9,   222] loss: 0.672
+Iteration Number: 222
+[9,   223] loss: 0.449
+Iteration Number: 223
+[9,   224] loss: 0.259
+Iteration Number: 224
+[9,   225] loss: 1.061
+Iteration Number: 225
+[9,   226] loss: 0.620
+Iteration Number: 226
+[9,   227] loss: 0.455
+Iteration Number: 227
+[9,   228] loss: 0.571
+Iteration Number: 228
+[9,   229] loss: 0.675
+Iteration Number: 229
+[9,   230] loss: 0.643
+Iteration Number: 230
+[9,   231] loss: 0.631
+Iteration Number: 231
+[9,   232] loss: 0.759
+Iteration Number: 232
+[9,   233] loss: 0.767
+Iteration Number: 233
+[9,   234] loss: 0.750
+Iteration Number: 234
+[9,   235] loss: 0.675
+Iteration Number: 235
+[9,   236] loss: 0.652
+Iteration Number: 236
+[9,   237] loss: 0.499
+Iteration Number: 237
+[9,   238] loss: 0.521
+Iteration Number: 238
+[9,   239] loss: 0.607
+Iteration Number: 239
+[9,   240] loss: 0.546
+Iteration Number: 240
+[9,   241] loss: 0.770
+Iteration Number: 241
+[9,   242] loss: 0.828
+Iteration Number: 242
+[9,   243] loss: 0.685
+Iteration Number: 243
+[9,   244] loss: 0.819
+Iteration Number: 244
+[9,   245] loss: 0.739
+Iteration Number: 245
+[9,   246] loss: 0.729
+Iteration Number: 246
+[9,   247] loss: 0.447
+Iteration Number: 247
+[9,   248] loss: 0.801
+Iteration Number: 248
+[9,   249] loss: 0.404
+Iteration Number: 249
+[9,   250] loss: 0.657
+Iteration Number: 250
+[9,   251] loss: 0.399
+Iteration Number: 251
+[9,   252] loss: 0.544
+Iteration Number: 252
+[9,   253] loss: 0.426
+Iteration Number: 253
+[9,   254] loss: 0.485
+Iteration Number: 254
+[9,   255] loss: 0.830
+Iteration Number: 255
+[9,   256] loss: 0.338
+Iteration Number: 256
+[9,   257] loss: 0.573
+Iteration Number: 257
+[9,   258] loss: 0.372
+Iteration Number: 258
+[9,   259] loss: 0.404
+Iteration Number: 259
+[9,   260] loss: 0.545
+Iteration Number: 260
+[9,   261] loss: 0.627
+Iteration Number: 261
+[9,   262] loss: 0.404
+Iteration Number: 262
+[9,   263] loss: 1.004
+Iteration Number: 263
+[9,   264] loss: 0.683
+Iteration Number: 264
+[9,   265] loss: 0.401
+Iteration Number: 265
+[9,   266] loss: 0.520
+Iteration Number: 266
+[9,   267] loss: 0.590
+Iteration Number: 267
+[9,   268] loss: 0.481
+Iteration Number: 268
+[9,   269] loss: 0.627
+Iteration Number: 269
+[9,   270] loss: 0.611
+Iteration Number: 270
+[9,   271] loss: 0.517
+Iteration Number: 271
+[9,   272] loss: 0.537
+Iteration Number: 272
+[9,   273] loss: 0.476
+Iteration Number: 273
+[9,   274] loss: 0.457
+Iteration Number: 274
+[9,   275] loss: 0.700
+Iteration Number: 275
+[9,   276] loss: 0.463
+Iteration Number: 276
+[9,   277] loss: 0.463
+Iteration Number: 277
+[9,   278] loss: 0.598
+Iteration Number: 278
+[9,   279] loss: 0.578
+Iteration Number: 279
+[9,   280] loss: 0.624
+Iteration Number: 280
+[9,   281] loss: 0.486
+Iteration Number: 281
+[9,   282] loss: 0.572
+Iteration Number: 282
+[9,   283] loss: 0.919
+Iteration Number: 283
+[9,   284] loss: 0.763
+Iteration Number: 284
+[9,   285] loss: 0.613
+Iteration Number: 285
+[9,   286] loss: 1.172
+Iteration Number: 286
+[9,   287] loss: 0.530
+Iteration Number: 287
+[9,   288] loss: 0.620
+Iteration Number: 288
+[9,   289] loss: 0.736
+Iteration Number: 289
+[9,   290] loss: 0.470
+Iteration Number: 290
+[9,   291] loss: 0.815
+Iteration Number: 291
+[9,   292] loss: 0.751
+Iteration Number: 292
+[9,   293] loss: 0.685
+Iteration Number: 293
+[9,   294] loss: 0.616
+Iteration Number: 294
+[9,   295] loss: 1.076
+Iteration Number: 295
+[9,   296] loss: 0.478
+Iteration Number: 296
+[9,   297] loss: 0.553
+Iteration Number: 297
+[9,   298] loss: 0.588
+Iteration Number: 298
+[9,   299] loss: 0.508
+Iteration Number: 299
+[9,   300] loss: 0.743
+Iteration Number: 300
+[9,   301] loss: 0.659
+Iteration Number: 301
+[9,   302] loss: 0.570
+Iteration Number: 302
+[9,   303] loss: 0.627
+Iteration Number: 303
+[9,   304] loss: 0.738
+Iteration Number: 304
+[9,   305] loss: 0.599
+Iteration Number: 305
+[9,   306] loss: 0.423
+Iteration Number: 306
+[9,   307] loss: 0.512
+Iteration Number: 307
+[9,   308] loss: 0.418
+Iteration Number: 308
+[9,   309] loss: 0.493
+Iteration Number: 309
+[9,   310] loss: 0.406
+Iteration Number: 310
+[9,   311] loss: 0.409
+Iteration Number: 311
+[9,   312] loss: 0.857
+Iteration Number: 312
+[9,   313] loss: 0.520
+[9,   314] Train Acc: 82.131
+Epoch Number: 9
+Iteration Number: 0
+[10,     1] loss: 0.691
+Iteration Number: 1
+[10,     2] loss: 0.554
+Iteration Number: 2
+[10,     3] loss: 0.570
+Iteration Number: 3
+[10,     4] loss: 0.616
+Iteration Number: 4
+[10,     5] loss: 0.521
+Iteration Number: 5
+[10,     6] loss: 0.798
+Iteration Number: 6
+[10,     7] loss: 0.522
+Iteration Number: 7
+[10,     8] loss: 0.612
+Iteration Number: 8
+[10,     9] loss: 0.605
+Iteration Number: 9
+[10,    10] loss: 0.838
+Iteration Number: 10
+[10,    11] loss: 0.279
+Iteration Number: 11
+[10,    12] loss: 0.495
+Iteration Number: 12
+[10,    13] loss: 0.313
+Iteration Number: 13
+[10,    14] loss: 0.796
+Iteration Number: 14
+[10,    15] loss: 0.284
+Iteration Number: 15
+[10,    16] loss: 0.671
+Iteration Number: 16
+[10,    17] loss: 0.883
+Iteration Number: 17
+[10,    18] loss: 0.786
+Iteration Number: 18
+[10,    19] loss: 0.898
+Iteration Number: 19
+[10,    20] loss: 0.552
+Iteration Number: 20
+[10,    21] loss: 0.860
+Iteration Number: 21
+[10,    22] loss: 0.842
+Iteration Number: 22
+[10,    23] loss: 0.622
+Iteration Number: 23
+[10,    24] loss: 0.692
+Iteration Number: 24
+[10,    25] loss: 0.533
+Iteration Number: 25
+[10,    26] loss: 0.638
+Iteration Number: 26
+[10,    27] loss: 0.703
+Iteration Number: 27
+[10,    28] loss: 0.777
+Iteration Number: 28
+[10,    29] loss: 0.458
+Iteration Number: 29
+[10,    30] loss: 0.372
+Iteration Number: 30
+[10,    31] loss: 0.286
+Iteration Number: 31
+[10,    32] loss: 0.599
+Iteration Number: 32
+[10,    33] loss: 0.605
+Iteration Number: 33
+[10,    34] loss: 0.745
+Iteration Number: 34
+[10,    35] loss: 0.712
+Iteration Number: 35
+[10,    36] loss: 0.781
+Iteration Number: 36
+[10,    37] loss: 0.288
+Iteration Number: 37
+[10,    38] loss: 0.430
+Iteration Number: 38
+[10,    39] loss: 0.631
+Iteration Number: 39
+[10,    40] loss: 0.606
+Iteration Number: 40
+[10,    41] loss: 0.456
+Iteration Number: 41
+[10,    42] loss: 0.478
+Iteration Number: 42
+[10,    43] loss: 0.582
+Iteration Number: 43
+[10,    44] loss: 0.659
+Iteration Number: 44
+[10,    45] loss: 0.642
+Iteration Number: 45
+[10,    46] loss: 0.660
+Iteration Number: 46
+[10,    47] loss: 0.733
+Iteration Number: 47
+[10,    48] loss: 0.696
+Iteration Number: 48
+[10,    49] loss: 0.515
+Iteration Number: 49
+[10,    50] loss: 0.529
+Iteration Number: 50
+[10,    51] loss: 0.548
+Iteration Number: 51
+[10,    52] loss: 0.775
+Iteration Number: 52
+[10,    53] loss: 0.625
+Iteration Number: 53
+[10,    54] loss: 0.615
+Iteration Number: 54
+[10,    55] loss: 0.678
+Iteration Number: 55
+[10,    56] loss: 0.679
+Iteration Number: 56
+[10,    57] loss: 0.661
+Iteration Number: 57
+[10,    58] loss: 0.745
+Iteration Number: 58
+[10,    59] loss: 0.576
+Iteration Number: 59
+[10,    60] loss: 0.466
+Iteration Number: 60
+[10,    61] loss: 0.757
+Iteration Number: 61
+[10,    62] loss: 0.740
+Iteration Number: 62
+[10,    63] loss: 0.643
+Iteration Number: 63
+[10,    64] loss: 0.819
+Iteration Number: 64
+[10,    65] loss: 0.315
+Iteration Number: 65
+[10,    66] loss: 0.744
+Iteration Number: 66
+[10,    67] loss: 0.537
+Iteration Number: 67
+[10,    68] loss: 0.389
+Iteration Number: 68
+[10,    69] loss: 0.440
+Iteration Number: 69
+[10,    70] loss: 0.610
+Iteration Number: 70
+[10,    71] loss: 0.706
+Iteration Number: 71
+[10,    72] loss: 0.557
+Iteration Number: 72
+[10,    73] loss: 0.971
+Iteration Number: 73
+[10,    74] loss: 1.035
+Iteration Number: 74
+[10,    75] loss: 0.704
+Iteration Number: 75
+[10,    76] loss: 0.741
+Iteration Number: 76
+[10,    77] loss: 0.511
+Iteration Number: 77
+[10,    78] loss: 0.622
+Iteration Number: 78
+[10,    79] loss: 0.527
+Iteration Number: 79
+[10,    80] loss: 0.692
+Iteration Number: 80
+[10,    81] loss: 0.614
+Iteration Number: 81
+[10,    82] loss: 0.713
+Iteration Number: 82
+[10,    83] loss: 0.819
+Iteration Number: 83
+[10,    84] loss: 0.630
+Iteration Number: 84
+[10,    85] loss: 1.001
+Iteration Number: 85
+[10,    86] loss: 1.070
+Iteration Number: 86
+[10,    87] loss: 0.419
+Iteration Number: 87
+[10,    88] loss: 0.759
+Iteration Number: 88
+[10,    89] loss: 0.452
+Iteration Number: 89
+[10,    90] loss: 0.742
+Iteration Number: 90
+[10,    91] loss: 0.531
+Iteration Number: 91
+[10,    92] loss: 0.556
+Iteration Number: 92
+[10,    93] loss: 0.473
+Iteration Number: 93
+[10,    94] loss: 0.430
+Iteration Number: 94
+[10,    95] loss: 0.477
+Iteration Number: 95
+[10,    96] loss: 0.777
+Iteration Number: 96
+[10,    97] loss: 0.876
+Iteration Number: 97
+[10,    98] loss: 0.489
+Iteration Number: 98
+[10,    99] loss: 0.448
+Iteration Number: 99
+[10,   100] loss: 0.560
+Iteration Number: 100
+[10,   101] loss: 0.516
+Iteration Number: 101
+[10,   102] loss: 0.618
+Iteration Number: 102
+[10,   103] loss: 0.552
+Iteration Number: 103
+[10,   104] loss: 0.454
+Iteration Number: 104
+[10,   105] loss: 0.309
+Iteration Number: 105
+[10,   106] loss: 0.625
+Iteration Number: 106
+[10,   107] loss: 0.495
+Iteration Number: 107
+[10,   108] loss: 0.729
+Iteration Number: 108
+[10,   109] loss: 0.612
+Iteration Number: 109
+[10,   110] loss: 0.604
+Iteration Number: 110
+[10,   111] loss: 0.456
+Iteration Number: 111
+[10,   112] loss: 0.607
+Iteration Number: 112
+[10,   113] loss: 0.759
+Iteration Number: 113
+[10,   114] loss: 0.611
+Iteration Number: 114
+[10,   115] loss: 0.612
+Iteration Number: 115
+[10,   116] loss: 0.557
+Iteration Number: 116
+[10,   117] loss: 0.682
+Iteration Number: 117
+[10,   118] loss: 0.811
+Iteration Number: 118
+[10,   119] loss: 0.510
+Iteration Number: 119
+[10,   120] loss: 0.739
+Iteration Number: 120
+[10,   121] loss: 0.380
+Iteration Number: 121
+[10,   122] loss: 0.799
+Iteration Number: 122
+[10,   123] loss: 1.082
+Iteration Number: 123
+[10,   124] loss: 0.560
+Iteration Number: 124
+[10,   125] loss: 0.650
+Iteration Number: 125
+[10,   126] loss: 0.447
+Iteration Number: 126
+[10,   127] loss: 0.485
+Iteration Number: 127
+[10,   128] loss: 0.302
+Iteration Number: 128
+[10,   129] loss: 0.516
+Iteration Number: 129
+[10,   130] loss: 0.278
+Iteration Number: 130
+[10,   131] loss: 0.479
+Iteration Number: 131
+[10,   132] loss: 0.809
+Iteration Number: 132
+[10,   133] loss: 0.163
+Iteration Number: 133
+[10,   134] loss: 0.872
+Iteration Number: 134
+[10,   135] loss: 0.733
+Iteration Number: 135
+[10,   136] loss: 0.541
+Iteration Number: 136
+[10,   137] loss: 0.594
+Iteration Number: 137
+[10,   138] loss: 0.490
+Iteration Number: 138
+[10,   139] loss: 0.718
+Iteration Number: 139
+[10,   140] loss: 0.714
+Iteration Number: 140
+[10,   141] loss: 0.512
+Iteration Number: 141
+[10,   142] loss: 0.705
+Iteration Number: 142
+[10,   143] loss: 0.685
+Iteration Number: 143
+[10,   144] loss: 0.557
+Iteration Number: 144
+[10,   145] loss: 0.562
+Iteration Number: 145
+[10,   146] loss: 0.619
+Iteration Number: 146
+[10,   147] loss: 0.992
+Iteration Number: 147
+[10,   148] loss: 0.680
+Iteration Number: 148
+[10,   149] loss: 0.392
+Iteration Number: 149
+[10,   150] loss: 0.603
+Iteration Number: 150
+[10,   151] loss: 0.544
+Iteration Number: 151
+[10,   152] loss: 0.741
+Iteration Number: 152
+[10,   153] loss: 0.714
+Iteration Number: 153
+[10,   154] loss: 0.543
+Iteration Number: 154
+[10,   155] loss: 0.705
+Iteration Number: 155
+[10,   156] loss: 0.559
+Iteration Number: 156
+[10,   157] loss: 0.602
+Iteration Number: 157
+[10,   158] loss: 0.556
+Iteration Number: 158
+[10,   159] loss: 0.468
+Iteration Number: 159
+[10,   160] loss: 0.543
+Iteration Number: 160
+[10,   161] loss: 0.367
+Iteration Number: 161
+[10,   162] loss: 0.768
+Iteration Number: 162
+[10,   163] loss: 0.447
+Iteration Number: 163
+[10,   164] loss: 0.609
+Iteration Number: 164
+[10,   165] loss: 0.668
+Iteration Number: 165
+[10,   166] loss: 0.876
+Iteration Number: 166
+[10,   167] loss: 0.669
+Iteration Number: 167
+[10,   168] loss: 0.594
+Iteration Number: 168
+[10,   169] loss: 0.495
+Iteration Number: 169
+[10,   170] loss: 0.429
+Iteration Number: 170
+[10,   171] loss: 0.783
+Iteration Number: 171
+[10,   172] loss: 0.549
+Iteration Number: 172
+[10,   173] loss: 0.484
+Iteration Number: 173
+[10,   174] loss: 0.472
+Iteration Number: 174
+[10,   175] loss: 0.632
+Iteration Number: 175
+[10,   176] loss: 0.555
+Iteration Number: 176
+[10,   177] loss: 0.569
+Iteration Number: 177
+[10,   178] loss: 0.614
+Iteration Number: 178
+[10,   179] loss: 0.236
+Iteration Number: 179
+[10,   180] loss: 0.477
+Iteration Number: 180
+[10,   181] loss: 0.702
+Iteration Number: 181
+[10,   182] loss: 0.557
+Iteration Number: 182
+[10,   183] loss: 0.642
+Iteration Number: 183
+[10,   184] loss: 0.400
+Iteration Number: 184
+[10,   185] loss: 0.537
+Iteration Number: 185
+[10,   186] loss: 0.543
+Iteration Number: 186
+[10,   187] loss: 0.371
+Iteration Number: 187
+[10,   188] loss: 0.494
+Iteration Number: 188
+[10,   189] loss: 0.417
+Iteration Number: 189
+[10,   190] loss: 0.585
+Iteration Number: 190
+[10,   191] loss: 0.578
+Iteration Number: 191
+[10,   192] loss: 0.593
+Iteration Number: 192
+[10,   193] loss: 0.577
+Iteration Number: 193
+[10,   194] loss: 0.720
+Iteration Number: 194
+[10,   195] loss: 0.612
+Iteration Number: 195
+[10,   196] loss: 0.733
+Iteration Number: 196
+[10,   197] loss: 0.785
+Iteration Number: 197
+[10,   198] loss: 0.439
+Iteration Number: 198
+[10,   199] loss: 0.458
+Iteration Number: 199
+[10,   200] loss: 0.441
+Iteration Number: 200
+[10,   201] loss: 0.388
+Iteration Number: 201
+[10,   202] loss: 0.423
+Iteration Number: 202
+[10,   203] loss: 0.474
+Iteration Number: 203
+[10,   204] loss: 0.813
+Iteration Number: 204
+[10,   205] loss: 0.199
+Iteration Number: 205
+[10,   206] loss: 0.577
+Iteration Number: 206
+[10,   207] loss: 0.893
+Iteration Number: 207
+[10,   208] loss: 0.581
+Iteration Number: 208
+[10,   209] loss: 0.741
+Iteration Number: 209
+[10,   210] loss: 0.463
+Iteration Number: 210
+[10,   211] loss: 0.476
+Iteration Number: 211
+[10,   212] loss: 0.818
+Iteration Number: 212
+[10,   213] loss: 0.684
+Iteration Number: 213
+[10,   214] loss: 0.803
+Iteration Number: 214
+[10,   215] loss: 0.518
+Iteration Number: 215
+[10,   216] loss: 0.593
+Iteration Number: 216
+[10,   217] loss: 0.835
+Iteration Number: 217
+[10,   218] loss: 0.509
+Iteration Number: 218
+[10,   219] loss: 0.481
+Iteration Number: 219
+[10,   220] loss: 0.511
+Iteration Number: 220
+[10,   221] loss: 0.628
+Iteration Number: 221
+[10,   222] loss: 0.670
+Iteration Number: 222
+[10,   223] loss: 0.449
+Iteration Number: 223
+[10,   224] loss: 0.260
+Iteration Number: 224
+[10,   225] loss: 1.061
+Iteration Number: 225
+[10,   226] loss: 0.618
+Iteration Number: 226
+[10,   227] loss: 0.456
+Iteration Number: 227
+[10,   228] loss: 0.571
+Iteration Number: 228
+[10,   229] loss: 0.675
+Iteration Number: 229
+[10,   230] loss: 0.641
+Iteration Number: 230
+[10,   231] loss: 0.629
+Iteration Number: 231
+[10,   232] loss: 0.759
+Iteration Number: 232
+[10,   233] loss: 0.770
+Iteration Number: 233
+[10,   234] loss: 0.751
+Iteration Number: 234
+[10,   235] loss: 0.673
+Iteration Number: 235
+[10,   236] loss: 0.652
+Iteration Number: 236
+[10,   237] loss: 0.501
+Iteration Number: 237
+[10,   238] loss: 0.518
+Iteration Number: 238
+[10,   239] loss: 0.606
+Iteration Number: 239
+[10,   240] loss: 0.545
+Iteration Number: 240
+[10,   241] loss: 0.773
+Iteration Number: 241
+[10,   242] loss: 0.829
+Iteration Number: 242
+[10,   243] loss: 0.685
+Iteration Number: 243
+[10,   244] loss: 0.821
+Iteration Number: 244
+[10,   245] loss: 0.741
+Iteration Number: 245
+[10,   246] loss: 0.731
+Iteration Number: 246
+[10,   247] loss: 0.445
+Iteration Number: 247
+[10,   248] loss: 0.799
+Iteration Number: 248
+[10,   249] loss: 0.407
+Iteration Number: 249
+[10,   250] loss: 0.658
+Iteration Number: 250
+[10,   251] loss: 0.401
+Iteration Number: 251
+[10,   252] loss: 0.544
+Iteration Number: 252
+[10,   253] loss: 0.427
+Iteration Number: 253
+[10,   254] loss: 0.484
+Iteration Number: 254
+[10,   255] loss: 0.827
+Iteration Number: 255
+[10,   256] loss: 0.338
+Iteration Number: 256
+[10,   257] loss: 0.573
+Iteration Number: 257
+[10,   258] loss: 0.372
+Iteration Number: 258
+[10,   259] loss: 0.404
+Iteration Number: 259
+[10,   260] loss: 0.547
+Iteration Number: 260
+[10,   261] loss: 0.628
+Iteration Number: 261
+[10,   262] loss: 0.402
+Iteration Number: 262
+[10,   263] loss: 1.008
+Iteration Number: 263
+[10,   264] loss: 0.683
+Iteration Number: 264
+[10,   265] loss: 0.401
+Iteration Number: 265
+[10,   266] loss: 0.523
+Iteration Number: 266
+[10,   267] loss: 0.587
+Iteration Number: 267
+[10,   268] loss: 0.483
+Iteration Number: 268
+[10,   269] loss: 0.628
+Iteration Number: 269
+[10,   270] loss: 0.609
+Iteration Number: 270
+[10,   271] loss: 0.513
+Iteration Number: 271
+[10,   272] loss: 0.536
+Iteration Number: 272
+[10,   273] loss: 0.478
+Iteration Number: 273
+[10,   274] loss: 0.456
+Iteration Number: 274
+[10,   275] loss: 0.700
+Iteration Number: 275
+[10,   276] loss: 0.463
+Iteration Number: 276
+[10,   277] loss: 0.463
+Iteration Number: 277
+[10,   278] loss: 0.599
+Iteration Number: 278
+[10,   279] loss: 0.581
+Iteration Number: 279
+[10,   280] loss: 0.624
+Iteration Number: 280
+[10,   281] loss: 0.484
+Iteration Number: 281
+[10,   282] loss: 0.573
+Iteration Number: 282
+[10,   283] loss: 0.915
+Iteration Number: 283
+[10,   284] loss: 0.759
+Iteration Number: 284
+[10,   285] loss: 0.613
+Iteration Number: 285
+[10,   286] loss: 1.166
+Iteration Number: 286
+[10,   287] loss: 0.531
+Iteration Number: 287
+[10,   288] loss: 0.621
+Iteration Number: 288
+[10,   289] loss: 0.736
+Iteration Number: 289
+[10,   290] loss: 0.470
+Iteration Number: 290
+[10,   291] loss: 0.813
+Iteration Number: 291
+[10,   292] loss: 0.749
+Iteration Number: 292
+[10,   293] loss: 0.684
+Iteration Number: 293
+[10,   294] loss: 0.616
+Iteration Number: 294
+[10,   295] loss: 1.075
+Iteration Number: 295
+[10,   296] loss: 0.478
+Iteration Number: 296
+[10,   297] loss: 0.552
+Iteration Number: 297
+[10,   298] loss: 0.586
+Iteration Number: 298
+[10,   299] loss: 0.507
+Iteration Number: 299
+[10,   300] loss: 0.742
+Iteration Number: 300
+[10,   301] loss: 0.659
+Iteration Number: 301
+[10,   302] loss: 0.571
+Iteration Number: 302
+[10,   303] loss: 0.627
+Iteration Number: 303
+[10,   304] loss: 0.738
+Iteration Number: 304
+[10,   305] loss: 0.598
+Iteration Number: 305
+[10,   306] loss: 0.423
+Iteration Number: 306
+[10,   307] loss: 0.512
+Iteration Number: 307
+[10,   308] loss: 0.418
+Iteration Number: 308
+[10,   309] loss: 0.492
+Iteration Number: 309
+[10,   310] loss: 0.406
+Iteration Number: 310
+[10,   311] loss: 0.408
+Iteration Number: 311
+[10,   312] loss: 0.856
+Iteration Number: 312
+[10,   313] loss: 0.519
+[10,   314] Train Acc: 82.131
+Epoch Number: 10
+Iteration Number: 0
+[11,     1] loss: 0.691
+Iteration Number: 1
+[11,     2] loss: 0.554
+Iteration Number: 2
+[11,     3] loss: 0.570
+Iteration Number: 3
+[11,     4] loss: 0.616
+Iteration Number: 4
+[11,     5] loss: 0.520
+Iteration Number: 5
+[11,     6] loss: 0.799
+Iteration Number: 6
+[11,     7] loss: 0.521
+Iteration Number: 7
+[11,     8] loss: 0.612
+Iteration Number: 8
+[11,     9] loss: 0.605
+Iteration Number: 9
+[11,    10] loss: 0.840
+Iteration Number: 10
+[11,    11] loss: 0.281
+Iteration Number: 11
+[11,    12] loss: 0.498
+Iteration Number: 12
+[11,    13] loss: 0.313
+Iteration Number: 13
+[11,    14] loss: 0.795
+Iteration Number: 14
+[11,    15] loss: 0.285
+Iteration Number: 15
+[11,    16] loss: 0.669
+Iteration Number: 16
+[11,    17] loss: 0.881
+Iteration Number: 17
+[11,    18] loss: 0.785
+Iteration Number: 18
+[11,    19] loss: 0.899
+Iteration Number: 19
+[11,    20] loss: 0.553
+Iteration Number: 20
+[11,    21] loss: 0.861
+Iteration Number: 21
+[11,    22] loss: 0.844
+Iteration Number: 22
+[11,    23] loss: 0.618
+Iteration Number: 23
+[11,    24] loss: 0.693
+Iteration Number: 24
+[11,    25] loss: 0.532
+Iteration Number: 25
+[11,    26] loss: 0.639
+Iteration Number: 26
+[11,    27] loss: 0.703
+Iteration Number: 27
+[11,    28] loss: 0.774
+Iteration Number: 28
+[11,    29] loss: 0.460
+Iteration Number: 29
+[11,    30] loss: 0.373
+Iteration Number: 30
+[11,    31] loss: 0.287
+Iteration Number: 31
+[11,    32] loss: 0.596
+Iteration Number: 32
+[11,    33] loss: 0.603
+Iteration Number: 33
+[11,    34] loss: 0.744
+Iteration Number: 34
+[11,    35] loss: 0.713
+Iteration Number: 35
+[11,    36] loss: 0.785
+Iteration Number: 36
+[11,    37] loss: 0.287
+Iteration Number: 37
+[11,    38] loss: 0.429
+Iteration Number: 38
+[11,    39] loss: 0.635
+Iteration Number: 39
+[11,    40] loss: 0.606
+Iteration Number: 40
+[11,    41] loss: 0.449
+Iteration Number: 41
+[11,    42] loss: 0.473
+Iteration Number: 42
+[11,    43] loss: 0.582
+Iteration Number: 43
+[11,    44] loss: 0.660
+Iteration Number: 44
+[11,    45] loss: 0.644
+Iteration Number: 45
+[11,    46] loss: 0.659
+Iteration Number: 46
+[11,    47] loss: 0.731
+Iteration Number: 47
+[11,    48] loss: 0.693
+Iteration Number: 48
+[11,    49] loss: 0.516
+Iteration Number: 49
+[11,    50] loss: 0.529
+Iteration Number: 50
+[11,    51] loss: 0.548
+Iteration Number: 51
+[11,    52] loss: 0.777
+Iteration Number: 52
+[11,    53] loss: 0.626
+Iteration Number: 53
+[11,    54] loss: 0.617
+Iteration Number: 54
+[11,    55] loss: 0.680
+Iteration Number: 55
+[11,    56] loss: 0.679
+Iteration Number: 56
+[11,    57] loss: 0.661
+Iteration Number: 57
+[11,    58] loss: 0.744
+Iteration Number: 58
+[11,    59] loss: 0.575
+Iteration Number: 59
+[11,    60] loss: 0.468
+Iteration Number: 60
+[11,    61] loss: 0.756
+Iteration Number: 61
+[11,    62] loss: 0.738
+Iteration Number: 62
+[11,    63] loss: 0.642
+Iteration Number: 63
+[11,    64] loss: 0.815
+Iteration Number: 64
+[11,    65] loss: 0.317
+Iteration Number: 65
+[11,    66] loss: 0.742
+Iteration Number: 66
+[11,    67] loss: 0.537
+Iteration Number: 67
+[11,    68] loss: 0.388
+Iteration Number: 68
+[11,    69] loss: 0.439
+Iteration Number: 69
+[11,    70] loss: 0.611
+Iteration Number: 70
+[11,    71] loss: 0.708
+Iteration Number: 71
+[11,    72] loss: 0.557
+Iteration Number: 72
+[11,    73] loss: 0.976
+Iteration Number: 73
+[11,    74] loss: 1.039
+Iteration Number: 74
+[11,    75] loss: 0.704
+Iteration Number: 75
+[11,    76] loss: 0.740
+Iteration Number: 76
+[11,    77] loss: 0.510
+Iteration Number: 77
+[11,    78] loss: 0.625
+Iteration Number: 78
+[11,    79] loss: 0.531
+Iteration Number: 79
+[11,    80] loss: 0.693
+Iteration Number: 80
+[11,    81] loss: 0.613
+Iteration Number: 81
+[11,    82] loss: 0.709
+Iteration Number: 82
+[11,    83] loss: 0.814
+Iteration Number: 83
+[11,    84] loss: 0.629
+Iteration Number: 84
+[11,    85] loss: 1.000
+Iteration Number: 85
+[11,    86] loss: 1.071
+Iteration Number: 86
+[11,    87] loss: 0.415
+Iteration Number: 87
+[11,    88] loss: 0.759
+Iteration Number: 88
+[11,    89] loss: 0.442
+Iteration Number: 89
+[11,    90] loss: 0.741
+Iteration Number: 90
+[11,    91] loss: 0.530
+Iteration Number: 91
+[11,    92] loss: 0.558
+Iteration Number: 92
+[11,    93] loss: 0.476
+Iteration Number: 93
+[11,    94] loss: 0.433
+Iteration Number: 94
+[11,    95] loss: 0.476
+Iteration Number: 95
+[11,    96] loss: 0.769
+Iteration Number: 96
+[11,    97] loss: 0.867
+Iteration Number: 97
+[11,    98] loss: 0.487
+Iteration Number: 98
+[11,    99] loss: 0.447
+Iteration Number: 99
+[11,   100] loss: 0.559
+Iteration Number: 100
+[11,   101] loss: 0.517
+Iteration Number: 101
+[11,   102] loss: 0.618
+Iteration Number: 102
+[11,   103] loss: 0.551
+Iteration Number: 103
+[11,   104] loss: 0.453
+Iteration Number: 104
+[11,   105] loss: 0.305
+Iteration Number: 105
+[11,   106] loss: 0.626
+Iteration Number: 106
+[11,   107] loss: 0.494
+Iteration Number: 107
+[11,   108] loss: 0.730
+Iteration Number: 108
+[11,   109] loss: 0.612
+Iteration Number: 109
+[11,   110] loss: 0.604
+Iteration Number: 110
+[11,   111] loss: 0.456
+Iteration Number: 111
+[11,   112] loss: 0.606
+Iteration Number: 112
+[11,   113] loss: 0.759
+Iteration Number: 113
+[11,   114] loss: 0.612
+Iteration Number: 114
+[11,   115] loss: 0.612
+Iteration Number: 115
+[11,   116] loss: 0.558
+Iteration Number: 116
+[11,   117] loss: 0.681
+Iteration Number: 117
+[11,   118] loss: 0.811
+Iteration Number: 118
+[11,   119] loss: 0.509
+Iteration Number: 119
+[11,   120] loss: 0.739
+Iteration Number: 120
+[11,   121] loss: 0.380
+Iteration Number: 121
+[11,   122] loss: 0.800
+Iteration Number: 122
+[11,   123] loss: 1.079
+Iteration Number: 123
+[11,   124] loss: 0.559
+Iteration Number: 124
+[11,   125] loss: 0.652
+Iteration Number: 125
+[11,   126] loss: 0.448
+Iteration Number: 126
+[11,   127] loss: 0.485
+Iteration Number: 127
+[11,   128] loss: 0.303
+Iteration Number: 128
+[11,   129] loss: 0.516
+Iteration Number: 129
+[11,   130] loss: 0.279
+Iteration Number: 130
+[11,   131] loss: 0.478
+Iteration Number: 131
+[11,   132] loss: 0.806
+Iteration Number: 132
+[11,   133] loss: 0.163
+Iteration Number: 133
+[11,   134] loss: 0.869
+Iteration Number: 134
+[11,   135] loss: 0.732
+Iteration Number: 135
+[11,   136] loss: 0.541
+Iteration Number: 136
+[11,   137] loss: 0.595
+Iteration Number: 137
+[11,   138] loss: 0.489
+Iteration Number: 138
+[11,   139] loss: 0.720
+Iteration Number: 139
+[11,   140] loss: 0.714
+Iteration Number: 140
+[11,   141] loss: 0.508
+Iteration Number: 141
+[11,   142] loss: 0.705
+Iteration Number: 142
+[11,   143] loss: 0.686
+Iteration Number: 143
+[11,   144] loss: 0.559
+Iteration Number: 144
+[11,   145] loss: 0.565
+Iteration Number: 145
+[11,   146] loss: 0.619
+Iteration Number: 146
+[11,   147] loss: 0.983
+Iteration Number: 147
+[11,   148] loss: 0.679
+Iteration Number: 148
+[11,   149] loss: 0.394
+Iteration Number: 149
+[11,   150] loss: 0.604
+Iteration Number: 150
+[11,   151] loss: 0.543
+Iteration Number: 151
+[11,   152] loss: 0.741
+Iteration Number: 152
+[11,   153] loss: 0.714
+Iteration Number: 153
+[11,   154] loss: 0.543
+Iteration Number: 154
+[11,   155] loss: 0.708
+Iteration Number: 155
+[11,   156] loss: 0.561
+Iteration Number: 156
+[11,   157] loss: 0.601
+Iteration Number: 157
+[11,   158] loss: 0.559
+Iteration Number: 158
+[11,   159] loss: 0.470
+Iteration Number: 159
+[11,   160] loss: 0.543
+Iteration Number: 160
+[11,   161] loss: 0.369
+Iteration Number: 161
+[11,   162] loss: 0.767
+Iteration Number: 162
+[11,   163] loss: 0.447
+Iteration Number: 163
+[11,   164] loss: 0.608
+Iteration Number: 164
+[11,   165] loss: 0.667
+Iteration Number: 165
+[11,   166] loss: 0.873
+Iteration Number: 166
+[11,   167] loss: 0.668
+Iteration Number: 167
+[11,   168] loss: 0.594
+Iteration Number: 168
+[11,   169] loss: 0.496
+Iteration Number: 169
+[11,   170] loss: 0.429
+Iteration Number: 170
+[11,   171] loss: 0.781
+Iteration Number: 171
+[11,   172] loss: 0.550
+Iteration Number: 172
+[11,   173] loss: 0.483
+Iteration Number: 173
+[11,   174] loss: 0.473
+Iteration Number: 174
+[11,   175] loss: 0.633
+Iteration Number: 175
+[11,   176] loss: 0.557
+Iteration Number: 176
+[11,   177] loss: 0.572
+Iteration Number: 177
+[11,   178] loss: 0.614
+Iteration Number: 178
+[11,   179] loss: 0.234
+Iteration Number: 179
+[11,   180] loss: 0.475
+Iteration Number: 180
+[11,   181] loss: 0.702
+Iteration Number: 181
+[11,   182] loss: 0.555
+Iteration Number: 182
+[11,   183] loss: 0.641
+Iteration Number: 183
+[11,   184] loss: 0.400
+Iteration Number: 184
+[11,   185] loss: 0.537
+Iteration Number: 185
+[11,   186] loss: 0.543
+Iteration Number: 186
+[11,   187] loss: 0.373
+Iteration Number: 187
+[11,   188] loss: 0.496
+Iteration Number: 188
+[11,   189] loss: 0.416
+Iteration Number: 189
+[11,   190] loss: 0.582
+Iteration Number: 190
+[11,   191] loss: 0.579
+Iteration Number: 191
+[11,   192] loss: 0.590
+Iteration Number: 192
+[11,   193] loss: 0.577
+Iteration Number: 193
+[11,   194] loss: 0.718
+Iteration Number: 194
+[11,   195] loss: 0.611
+Iteration Number: 195
+[11,   196] loss: 0.730
+Iteration Number: 196
+[11,   197] loss: 0.786
+Iteration Number: 197
+[11,   198] loss: 0.439
+Iteration Number: 198
+[11,   199] loss: 0.457
+Iteration Number: 199
+[11,   200] loss: 0.441
+Iteration Number: 200
+[11,   201] loss: 0.388
+Iteration Number: 201
+[11,   202] loss: 0.425
+Iteration Number: 202
+[11,   203] loss: 0.475
+Iteration Number: 203
+[11,   204] loss: 0.810
+Iteration Number: 204
+[11,   205] loss: 0.201
+Iteration Number: 205
+[11,   206] loss: 0.575
+Iteration Number: 206
+[11,   207] loss: 0.892
+Iteration Number: 207
+[11,   208] loss: 0.582
+Iteration Number: 208
+[11,   209] loss: 0.740
+Iteration Number: 209
+[11,   210] loss: 0.463
+Iteration Number: 210
+[11,   211] loss: 0.474
+Iteration Number: 211
+[11,   212] loss: 0.820
+Iteration Number: 212
+[11,   213] loss: 0.683
+Iteration Number: 213
+[11,   214] loss: 0.803
+Iteration Number: 214
+[11,   215] loss: 0.515
+Iteration Number: 215
+[11,   216] loss: 0.593
+Iteration Number: 216
+[11,   217] loss: 0.835
+Iteration Number: 217
+[11,   218] loss: 0.513
+Iteration Number: 218
+[11,   219] loss: 0.485
+Iteration Number: 219
+[11,   220] loss: 0.511
+Iteration Number: 220
+[11,   221] loss: 0.628
+Iteration Number: 221
+[11,   222] loss: 0.668
+Iteration Number: 222
+[11,   223] loss: 0.449
+Iteration Number: 223
+[11,   224] loss: 0.261
+Iteration Number: 224
+[11,   225] loss: 1.060
+Iteration Number: 225
+[11,   226] loss: 0.615
+Iteration Number: 226
+[11,   227] loss: 0.457
+Iteration Number: 227
+[11,   228] loss: 0.571
+Iteration Number: 228
+[11,   229] loss: 0.675
+Iteration Number: 229
+[11,   230] loss: 0.639
+Iteration Number: 230
+[11,   231] loss: 0.627
+Iteration Number: 231
+[11,   232] loss: 0.759
+Iteration Number: 232
+[11,   233] loss: 0.773
+Iteration Number: 233
+[11,   234] loss: 0.752
+Iteration Number: 234
+[11,   235] loss: 0.670
+Iteration Number: 235
+[11,   236] loss: 0.652
+Iteration Number: 236
+[11,   237] loss: 0.503
+Iteration Number: 237
+[11,   238] loss: 0.515
+Iteration Number: 238
+[11,   239] loss: 0.605
+Iteration Number: 239
+[11,   240] loss: 0.545
+Iteration Number: 240
+[11,   241] loss: 0.777
+Iteration Number: 241
+[11,   242] loss: 0.829
+Iteration Number: 242
+[11,   243] loss: 0.686
+Iteration Number: 243
+[11,   244] loss: 0.823
+Iteration Number: 244
+[11,   245] loss: 0.742
+Iteration Number: 245
+[11,   246] loss: 0.733
+Iteration Number: 246
+[11,   247] loss: 0.443
+Iteration Number: 247
+[11,   248] loss: 0.797
+Iteration Number: 248
+[11,   249] loss: 0.410
+Iteration Number: 249
+[11,   250] loss: 0.658
+Iteration Number: 250
+[11,   251] loss: 0.404
+Iteration Number: 251
+[11,   252] loss: 0.543
+Iteration Number: 252
+[11,   253] loss: 0.428
+Iteration Number: 253
+[11,   254] loss: 0.483
+Iteration Number: 254
+[11,   255] loss: 0.823
+Iteration Number: 255
+[11,   256] loss: 0.338
+Iteration Number: 256
+[11,   257] loss: 0.573
+Iteration Number: 257
+[11,   258] loss: 0.372
+Iteration Number: 258
+[11,   259] loss: 0.405
+Iteration Number: 259
+[11,   260] loss: 0.549
+Iteration Number: 260
+[11,   261] loss: 0.630
+Iteration Number: 261
+[11,   262] loss: 0.400
+Iteration Number: 262
+[11,   263] loss: 1.012
+Iteration Number: 263
+[11,   264] loss: 0.684
+Iteration Number: 264
+[11,   265] loss: 0.399
+Iteration Number: 265
+[11,   266] loss: 0.524
+Iteration Number: 266
+[11,   267] loss: 0.584
+Iteration Number: 267
+[11,   268] loss: 0.486
+Iteration Number: 268
+[11,   269] loss: 0.629
+Iteration Number: 269
+[11,   270] loss: 0.608
+Iteration Number: 270
+[11,   271] loss: 0.510
+Iteration Number: 271
+[11,   272] loss: 0.534
+Iteration Number: 272
+[11,   273] loss: 0.480
+Iteration Number: 273
+[11,   274] loss: 0.455
+Iteration Number: 274
+[11,   275] loss: 0.701
+Iteration Number: 275
+[11,   276] loss: 0.462
+Iteration Number: 276
+[11,   277] loss: 0.463
+Iteration Number: 277
+[11,   278] loss: 0.600
+Iteration Number: 278
+[11,   279] loss: 0.583
+Iteration Number: 279
+[11,   280] loss: 0.623
+Iteration Number: 280
+[11,   281] loss: 0.483
+Iteration Number: 281
+[11,   282] loss: 0.574
+Iteration Number: 282
+[11,   283] loss: 0.912
+Iteration Number: 283
+[11,   284] loss: 0.754
+Iteration Number: 284
+[11,   285] loss: 0.613
+Iteration Number: 285
+[11,   286] loss: 1.160
+Iteration Number: 286
+[11,   287] loss: 0.533
+Iteration Number: 287
+[11,   288] loss: 0.621
+Iteration Number: 288
+[11,   289] loss: 0.736
+Iteration Number: 289
+[11,   290] loss: 0.470
+Iteration Number: 290
+[11,   291] loss: 0.810
+Iteration Number: 291
+[11,   292] loss: 0.747
+Iteration Number: 292
+[11,   293] loss: 0.682
+Iteration Number: 293
+[11,   294] loss: 0.616
+Iteration Number: 294
+[11,   295] loss: 1.074
+Iteration Number: 295
+[11,   296] loss: 0.477
+Iteration Number: 296
+[11,   297] loss: 0.551
+Iteration Number: 297
+[11,   298] loss: 0.584
+Iteration Number: 298
+[11,   299] loss: 0.506
+Iteration Number: 299
+[11,   300] loss: 0.741
+Iteration Number: 300
+[11,   301] loss: 0.659
+Iteration Number: 301
+[11,   302] loss: 0.571
+Iteration Number: 302
+[11,   303] loss: 0.626
+Iteration Number: 303
+[11,   304] loss: 0.737
+Iteration Number: 304
+[11,   305] loss: 0.598
+Iteration Number: 305
+[11,   306] loss: 0.423
+Iteration Number: 306
+[11,   307] loss: 0.512
+Iteration Number: 307
+[11,   308] loss: 0.419
+Iteration Number: 308
+[11,   309] loss: 0.492
+Iteration Number: 309
+[11,   310] loss: 0.406
+Iteration Number: 310
+[11,   311] loss: 0.408
+Iteration Number: 311
+[11,   312] loss: 0.856
+Iteration Number: 312
+[11,   313] loss: 0.519
+[11,   314] Train Acc: 82.131
+Finished Training

@@ -1,0 +1,3144 @@
+23845
+cuda
+23826
+Epoch Number: 0
+Iteration Number: 0
+[1,     1] loss: 1.105 | Train Acc: 16.000
+Iteration Number: 1
+[1,     2] loss: 0.877 | Train Acc: 84.000
+Iteration Number: 2
+[1,     3] loss: 0.640 | Train Acc: 81.000
+Iteration Number: 3
+[1,     4] loss: 0.764 | Train Acc: 84.000
+Iteration Number: 4
+[1,     5] loss: 0.613 | Train Acc: 84.000
+Iteration Number: 5
+[1,     6] loss: 0.779 | Train Acc: 75.000
+Iteration Number: 6
+[1,     7] loss: 0.683 | Train Acc: 84.000
+Iteration Number: 7
+[1,     8] loss: 0.714 | Train Acc: 81.000
+Iteration Number: 8
+[1,     9] loss: 0.657 | Train Acc: 81.000
+Iteration Number: 9
+[1,    10] loss: 0.809 | Train Acc: 72.000
+Iteration Number: 10
+[1,    11] loss: 0.283 | Train Acc: 97.000
+Iteration Number: 11
+[1,    12] loss: 0.536 | Train Acc: 88.000
+Iteration Number: 12
+[1,    13] loss: 0.266 | Train Acc: 94.000
+Iteration Number: 13
+[1,    14] loss: 1.069 | Train Acc: 75.000
+Iteration Number: 14
+[1,    15] loss: 0.258 | Train Acc: 94.000
+Iteration Number: 15
+[1,    16] loss: 0.634 | Train Acc: 81.000
+Iteration Number: 16
+[1,    17] loss: 0.883 | Train Acc: 75.000
+Iteration Number: 17
+[1,    18] loss: 0.788 | Train Acc: 78.000
+Iteration Number: 18
+[1,    19] loss: 0.804 | Train Acc: 72.000
+Iteration Number: 19
+[1,    20] loss: 0.654 | Train Acc: 84.000
+Iteration Number: 20
+[1,    21] loss: 0.865 | Train Acc: 69.000
+Iteration Number: 21
+[1,    22] loss: 0.856 | Train Acc: 69.000
+Iteration Number: 22
+[1,    23] loss: 0.647 | Train Acc: 84.000
+Iteration Number: 23
+[1,    24] loss: 0.659 | Train Acc: 78.000
+Iteration Number: 24
+[1,    25] loss: 0.394 | Train Acc: 94.000
+Iteration Number: 25
+[1,    26] loss: 0.762 | Train Acc: 81.000
+Iteration Number: 26
+[1,    27] loss: 0.778 | Train Acc: 75.000
+Iteration Number: 27
+[1,    28] loss: 0.803 | Train Acc: 78.000
+Iteration Number: 28
+[1,    29] loss: 0.495 | Train Acc: 91.000
+Iteration Number: 29
+[1,    30] loss: 0.387 | Train Acc: 91.000
+Iteration Number: 30
+[1,    31] loss: 0.308 | Train Acc: 94.000
+Iteration Number: 31
+[1,    32] loss: 0.594 | Train Acc: 84.000
+Iteration Number: 32
+[1,    33] loss: 0.530 | Train Acc: 84.000
+Iteration Number: 33
+[1,    34] loss: 0.686 | Train Acc: 81.000
+Iteration Number: 34
+[1,    35] loss: 0.699 | Train Acc: 81.000
+Iteration Number: 35
+[1,    36] loss: 0.686 | Train Acc: 78.000
+Iteration Number: 36
+[1,    37] loss: 0.363 | Train Acc: 94.000
+Iteration Number: 37
+[1,    38] loss: 0.477 | Train Acc: 88.000
+Iteration Number: 38
+[1,    39] loss: 0.643 | Train Acc: 78.000
+Iteration Number: 39
+[1,    40] loss: 0.600 | Train Acc: 81.000
+Iteration Number: 40
+[1,    41] loss: 0.449 | Train Acc: 88.000
+Iteration Number: 41
+[1,    42] loss: 0.392 | Train Acc: 91.000
+Iteration Number: 42
+[1,    43] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 43
+[1,    44] loss: 0.721 | Train Acc: 78.000
+Iteration Number: 44
+[1,    45] loss: 0.663 | Train Acc: 81.000
+Iteration Number: 45
+[1,    46] loss: 0.694 | Train Acc: 78.000
+Iteration Number: 46
+[1,    47] loss: 0.769 | Train Acc: 78.000
+Iteration Number: 47
+[1,    48] loss: 0.703 | Train Acc: 78.000
+Iteration Number: 48
+[1,    49] loss: 0.600 | Train Acc: 88.000
+Iteration Number: 49
+[1,    50] loss: 0.546 | Train Acc: 84.000
+Iteration Number: 50
+[1,    51] loss: 0.596 | Train Acc: 84.000
+Iteration Number: 51
+[1,    52] loss: 0.686 | Train Acc: 75.000
+Iteration Number: 52
+[1,    53] loss: 0.607 | Train Acc: 81.000
+Iteration Number: 53
+[1,    54] loss: 0.596 | Train Acc: 81.000
+Iteration Number: 54
+[1,    55] loss: 0.662 | Train Acc: 78.000
+Iteration Number: 55
+[1,    56] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 56
+[1,    57] loss: 0.675 | Train Acc: 78.000
+Iteration Number: 57
+[1,    58] loss: 0.759 | Train Acc: 75.000
+Iteration Number: 58
+[1,    59] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 59
+[1,    60] loss: 0.408 | Train Acc: 91.000
+Iteration Number: 60
+[1,    61] loss: 0.754 | Train Acc: 75.000
+Iteration Number: 61
+[1,    62] loss: 0.733 | Train Acc: 75.000
+Iteration Number: 62
+[1,    63] loss: 0.638 | Train Acc: 81.000
+Iteration Number: 63
+[1,    64] loss: 0.795 | Train Acc: 72.000
+Iteration Number: 64
+[1,    65] loss: 0.366 | Train Acc: 94.000
+Iteration Number: 65
+[1,    66] loss: 0.732 | Train Acc: 75.000
+Iteration Number: 66
+[1,    67] loss: 0.573 | Train Acc: 84.000
+Iteration Number: 67
+[1,    68] loss: 0.407 | Train Acc: 91.000
+Iteration Number: 68
+[1,    69] loss: 0.437 | Train Acc: 88.000
+Iteration Number: 69
+[1,    70] loss: 0.614 | Train Acc: 81.000
+Iteration Number: 70
+[1,    71] loss: 0.689 | Train Acc: 78.000
+Iteration Number: 71
+[1,    72] loss: 0.554 | Train Acc: 84.000
+Iteration Number: 72
+[1,    73] loss: 1.064 | Train Acc: 66.000
+Iteration Number: 73
+[1,    74] loss: 1.110 | Train Acc: 62.000
+Iteration Number: 74
+[1,    75] loss: 0.703 | Train Acc: 75.000
+Iteration Number: 75
+[1,    76] loss: 0.747 | Train Acc: 75.000
+Iteration Number: 76
+[1,    77] loss: 0.474 | Train Acc: 97.000
+Iteration Number: 77
+[1,    78] loss: 0.646 | Train Acc: 84.000
+Iteration Number: 78
+[1,    79] loss: 0.595 | Train Acc: 88.000
+Iteration Number: 79
+[1,    80] loss: 0.734 | Train Acc: 78.000
+Iteration Number: 80
+[1,    81] loss: 0.635 | Train Acc: 81.000
+Iteration Number: 81
+[1,    82] loss: 0.690 | Train Acc: 78.000
+Iteration Number: 82
+[1,    83] loss: 0.753 | Train Acc: 75.000
+Iteration Number: 83
+[1,    84] loss: 0.628 | Train Acc: 81.000
+Iteration Number: 84
+[1,    85] loss: 0.905 | Train Acc: 69.000
+Iteration Number: 85
+[1,    86] loss: 0.975 | Train Acc: 66.000
+Iteration Number: 86
+[1,    87] loss: 0.406 | Train Acc: 91.000
+Iteration Number: 87
+[1,    88] loss: 0.747 | Train Acc: 75.000
+Iteration Number: 88
+[1,    89] loss: 0.352 | Train Acc: 94.000
+Iteration Number: 89
+[1,    90] loss: 0.742 | Train Acc: 75.000
+Iteration Number: 90
+[1,    91] loss: 0.485 | Train Acc: 88.000
+Iteration Number: 91
+[1,    92] loss: 0.544 | Train Acc: 84.000
+Iteration Number: 92
+[1,    93] loss: 0.482 | Train Acc: 88.000
+Iteration Number: 93
+[1,    94] loss: 0.471 | Train Acc: 88.000
+Iteration Number: 94
+[1,    95] loss: 0.472 | Train Acc: 88.000
+Iteration Number: 95
+[1,    96] loss: 0.701 | Train Acc: 78.000
+Iteration Number: 96
+[1,    97] loss: 0.796 | Train Acc: 75.000
+Iteration Number: 97
+[1,    98] loss: 0.452 | Train Acc: 88.000
+Iteration Number: 98
+[1,    99] loss: 0.461 | Train Acc: 88.000
+Iteration Number: 99
+[1,   100] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 100
+[1,   101] loss: 0.488 | Train Acc: 84.000
+Iteration Number: 101
+[1,   102] loss: 0.540 | Train Acc: 81.000
+Iteration Number: 102
+[1,   103] loss: 0.564 | Train Acc: 81.000
+Iteration Number: 103
+[1,   104] loss: 0.538 | Train Acc: 84.000
+Iteration Number: 104
+[1,   105] loss: 0.386 | Train Acc: 94.000
+Iteration Number: 105
+[1,   106] loss: 0.694 | Train Acc: 78.000
+Iteration Number: 106
+[1,   107] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 107
+[1,   108] loss: 0.754 | Train Acc: 78.000
+Iteration Number: 108
+[1,   109] loss: 0.618 | Train Acc: 81.000
+Iteration Number: 109
+[1,   110] loss: 0.604 | Train Acc: 81.000
+Iteration Number: 110
+[1,   111] loss: 0.463 | Train Acc: 88.000
+Iteration Number: 111
+[1,   112] loss: 0.609 | Train Acc: 81.000
+Iteration Number: 112
+[1,   113] loss: 0.756 | Train Acc: 75.000
+Iteration Number: 113
+[1,   114] loss: 0.617 | Train Acc: 81.000
+Iteration Number: 114
+[1,   115] loss: 0.622 | Train Acc: 81.000
+Iteration Number: 115
+[1,   116] loss: 0.600 | Train Acc: 84.000
+Iteration Number: 116
+[1,   117] loss: 0.678 | Train Acc: 78.000
+Iteration Number: 117
+[1,   118] loss: 0.778 | Train Acc: 72.000
+Iteration Number: 118
+[1,   119] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 119
+[1,   120] loss: 0.737 | Train Acc: 75.000
+Iteration Number: 120
+[1,   121] loss: 0.335 | Train Acc: 94.000
+Iteration Number: 121
+[1,   122] loss: 0.827 | Train Acc: 72.000
+Iteration Number: 122
+[1,   123] loss: 1.148 | Train Acc: 59.000
+Iteration Number: 123
+[1,   124] loss: 0.570 | Train Acc: 84.000
+Iteration Number: 124
+[1,   125] loss: 0.696 | Train Acc: 78.000
+Iteration Number: 125
+[1,   126] loss: 0.452 | Train Acc: 91.000
+Iteration Number: 126
+[1,   127] loss: 0.526 | Train Acc: 88.000
+Iteration Number: 127
+[1,   128] loss: 0.359 | Train Acc: 97.000
+Iteration Number: 128
+[1,   129] loss: 0.530 | Train Acc: 84.000
+Iteration Number: 129
+[1,   130] loss: 0.312 | Train Acc: 94.000
+Iteration Number: 130
+[1,   131] loss: 0.460 | Train Acc: 88.000
+Iteration Number: 131
+[1,   132] loss: 0.775 | Train Acc: 78.000
+Iteration Number: 132
+[1,   133] loss: 0.167 | Train Acc: 97.000
+Iteration Number: 133
+[1,   134] loss: 0.897 | Train Acc: 75.000
+Iteration Number: 134
+[1,   135] loss: 0.747 | Train Acc: 78.000
+Iteration Number: 135
+[1,   136] loss: 0.544 | Train Acc: 84.000
+Iteration Number: 136
+[1,   137] loss: 0.571 | Train Acc: 84.000
+Iteration Number: 137
+[1,   138] loss: 0.494 | Train Acc: 88.000
+Iteration Number: 138
+[1,   139] loss: 0.717 | Train Acc: 75.000
+Iteration Number: 139
+[1,   140] loss: 0.658 | Train Acc: 81.000
+Iteration Number: 140
+[1,   141] loss: 0.480 | Train Acc: 91.000
+Iteration Number: 141
+[1,   142] loss: 0.679 | Train Acc: 78.000
+Iteration Number: 142
+[1,   143] loss: 0.678 | Train Acc: 78.000
+Iteration Number: 143
+[1,   144] loss: 0.580 | Train Acc: 84.000
+Iteration Number: 144
+[1,   145] loss: 0.611 | Train Acc: 84.000
+Iteration Number: 145
+[1,   146] loss: 0.635 | Train Acc: 81.000
+Iteration Number: 146
+[1,   147] loss: 0.890 | Train Acc: 66.000
+Iteration Number: 147
+[1,   148] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 148
+[1,   149] loss: 0.459 | Train Acc: 91.000
+Iteration Number: 149
+[1,   150] loss: 0.634 | Train Acc: 81.000
+Iteration Number: 150
+[1,   151] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 151
+[1,   152] loss: 0.680 | Train Acc: 78.000
+Iteration Number: 152
+[1,   153] loss: 0.780 | Train Acc: 75.000
+Iteration Number: 153
+[1,   154] loss: 0.527 | Train Acc: 84.000
+Iteration Number: 154
+[1,   155] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 155
+[1,   156] loss: 0.556 | Train Acc: 84.000
+Iteration Number: 156
+[1,   157] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 157
+[1,   158] loss: 0.555 | Train Acc: 84.000
+Iteration Number: 158
+[1,   159] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 159
+[1,   160] loss: 0.525 | Train Acc: 84.000
+Iteration Number: 160
+[1,   161] loss: 0.404 | Train Acc: 91.000
+Iteration Number: 161
+[1,   162] loss: 0.874 | Train Acc: 72.000
+Iteration Number: 162
+[1,   163] loss: 0.473 | Train Acc: 88.000
+Iteration Number: 163
+[1,   164] loss: 0.613 | Train Acc: 81.000
+Iteration Number: 164
+[1,   165] loss: 0.695 | Train Acc: 78.000
+Iteration Number: 165
+[1,   166] loss: 0.817 | Train Acc: 72.000
+Iteration Number: 166
+[1,   167] loss: 0.677 | Train Acc: 78.000
+Iteration Number: 167
+[1,   168] loss: 0.488 | Train Acc: 88.000
+Iteration Number: 168
+[1,   169] loss: 0.451 | Train Acc: 91.000
+Iteration Number: 169
+[1,   170] loss: 0.486 | Train Acc: 88.000
+Iteration Number: 170
+[1,   171] loss: 0.779 | Train Acc: 72.000
+Iteration Number: 171
+[1,   172] loss: 0.565 | Train Acc: 84.000
+Iteration Number: 172
+[1,   173] loss: 0.513 | Train Acc: 84.000
+Iteration Number: 173
+[1,   174] loss: 0.483 | Train Acc: 88.000
+Iteration Number: 174
+[1,   175] loss: 0.630 | Train Acc: 81.000
+Iteration Number: 175
+[1,   176] loss: 0.565 | Train Acc: 84.000
+Iteration Number: 176
+[1,   177] loss: 0.596 | Train Acc: 84.000
+Iteration Number: 177
+[1,   178] loss: 0.600 | Train Acc: 81.000
+Iteration Number: 178
+[1,   179] loss: 0.248 | Train Acc: 97.000
+Iteration Number: 179
+[1,   180] loss: 0.444 | Train Acc: 88.000
+Iteration Number: 180
+[1,   181] loss: 0.732 | Train Acc: 78.000
+Iteration Number: 181
+[1,   182] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 182
+[1,   183] loss: 0.580 | Train Acc: 81.000
+Iteration Number: 183
+[1,   184] loss: 0.348 | Train Acc: 91.000
+Iteration Number: 184
+[1,   185] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 185
+[1,   186] loss: 0.563 | Train Acc: 84.000
+Iteration Number: 186
+[1,   187] loss: 0.362 | Train Acc: 91.000
+Iteration Number: 187
+[1,   188] loss: 0.494 | Train Acc: 84.000
+Iteration Number: 188
+[1,   189] loss: 0.402 | Train Acc: 91.000
+Iteration Number: 189
+[1,   190] loss: 0.569 | Train Acc: 84.000
+Iteration Number: 190
+[1,   191] loss: 0.593 | Train Acc: 81.000
+Iteration Number: 191
+[1,   192] loss: 0.560 | Train Acc: 84.000
+Iteration Number: 192
+[1,   193] loss: 0.578 | Train Acc: 81.000
+Iteration Number: 193
+[1,   194] loss: 0.687 | Train Acc: 78.000
+Iteration Number: 194
+[1,   195] loss: 0.597 | Train Acc: 81.000
+Iteration Number: 195
+[1,   196] loss: 0.667 | Train Acc: 81.000
+Iteration Number: 196
+[1,   197] loss: 0.810 | Train Acc: 69.000
+Iteration Number: 197
+[1,   198] loss: 0.458 | Train Acc: 88.000
+Iteration Number: 198
+[1,   199] loss: 0.459 | Train Acc: 88.000
+Iteration Number: 199
+[1,   200] loss: 0.427 | Train Acc: 91.000
+Iteration Number: 200
+[1,   201] loss: 0.408 | Train Acc: 91.000
+Iteration Number: 201
+[1,   202] loss: 0.439 | Train Acc: 91.000
+Iteration Number: 202
+[1,   203] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 203
+[1,   204] loss: 0.767 | Train Acc: 75.000
+Iteration Number: 204
+[1,   205] loss: 0.256 | Train Acc: 97.000
+Iteration Number: 205
+[1,   206] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 206
+[1,   207] loss: 0.869 | Train Acc: 75.000
+Iteration Number: 207
+[1,   208] loss: 0.579 | Train Acc: 84.000
+Iteration Number: 208
+[1,   209] loss: 0.693 | Train Acc: 78.000
+Iteration Number: 209
+[1,   210] loss: 0.481 | Train Acc: 88.000
+Iteration Number: 210
+[1,   211] loss: 0.439 | Train Acc: 88.000
+Iteration Number: 211
+[1,   212] loss: 0.829 | Train Acc: 72.000
+Iteration Number: 212
+[1,   213] loss: 0.655 | Train Acc: 78.000
+Iteration Number: 213
+[1,   214] loss: 0.791 | Train Acc: 72.000
+Iteration Number: 214
+[1,   215] loss: 0.454 | Train Acc: 91.000
+Iteration Number: 215
+[1,   216] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 216
+[1,   217] loss: 0.841 | Train Acc: 69.000
+Iteration Number: 217
+[1,   218] loss: 0.513 | Train Acc: 88.000
+Iteration Number: 218
+[1,   219] loss: 0.508 | Train Acc: 88.000
+Iteration Number: 219
+[1,   220] loss: 0.510 | Train Acc: 88.000
+Iteration Number: 220
+[1,   221] loss: 0.633 | Train Acc: 78.000
+Iteration Number: 221
+[1,   222] loss: 0.667 | Train Acc: 78.000
+Iteration Number: 222
+[1,   223] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 223
+[1,   224] loss: 0.315 | Train Acc: 94.000
+Iteration Number: 224
+[1,   225] loss: 0.961 | Train Acc: 66.000
+Iteration Number: 225
+[1,   226] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 226
+[1,   227] loss: 0.492 | Train Acc: 84.000
+Iteration Number: 227
+[1,   228] loss: 0.591 | Train Acc: 81.000
+Iteration Number: 228
+[1,   229] loss: 0.686 | Train Acc: 78.000
+Iteration Number: 229
+[1,   230] loss: 0.607 | Train Acc: 81.000
+Iteration Number: 230
+[1,   231] loss: 0.517 | Train Acc: 88.000
+Iteration Number: 231
+[1,   232] loss: 0.793 | Train Acc: 72.000
+Iteration Number: 232
+[1,   233] loss: 0.730 | Train Acc: 78.000
+Iteration Number: 233
+[1,   234] loss: 0.732 | Train Acc: 75.000
+Iteration Number: 234
+[1,   235] loss: 0.691 | Train Acc: 75.000
+Iteration Number: 235
+[1,   236] loss: 0.657 | Train Acc: 78.000
+Iteration Number: 236
+[1,   237] loss: 0.521 | Train Acc: 88.000
+Iteration Number: 237
+[1,   238] loss: 0.511 | Train Acc: 84.000
+Iteration Number: 238
+[1,   239] loss: 0.615 | Train Acc: 81.000
+Iteration Number: 239
+[1,   240] loss: 0.580 | Train Acc: 84.000
+Iteration Number: 240
+[1,   241] loss: 0.846 | Train Acc: 75.000
+Iteration Number: 241
+[1,   242] loss: 0.760 | Train Acc: 72.000
+Iteration Number: 242
+[1,   243] loss: 0.683 | Train Acc: 78.000
+Iteration Number: 243
+[1,   244] loss: 0.749 | Train Acc: 72.000
+Iteration Number: 244
+[1,   245] loss: 0.702 | Train Acc: 75.000
+Iteration Number: 245
+[1,   246] loss: 0.707 | Train Acc: 75.000
+Iteration Number: 246
+[1,   247] loss: 0.395 | Train Acc: 94.000
+Iteration Number: 247
+[1,   248] loss: 0.827 | Train Acc: 72.000
+Iteration Number: 248
+[1,   249] loss: 0.361 | Train Acc: 94.000
+Iteration Number: 249
+[1,   250] loss: 0.657 | Train Acc: 78.000
+Iteration Number: 250
+[1,   251] loss: 0.410 | Train Acc: 91.000
+Iteration Number: 251
+[1,   252] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 252
+[1,   253] loss: 0.439 | Train Acc: 88.000
+Iteration Number: 253
+[1,   254] loss: 0.480 | Train Acc: 88.000
+Iteration Number: 254
+[1,   255] loss: 0.757 | Train Acc: 75.000
+Iteration Number: 255
+[1,   256] loss: 0.355 | Train Acc: 91.000
+Iteration Number: 256
+[1,   257] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 257
+[1,   258] loss: 0.370 | Train Acc: 91.000
+Iteration Number: 258
+[1,   259] loss: 0.428 | Train Acc: 88.000
+Iteration Number: 259
+[1,   260] loss: 0.581 | Train Acc: 81.000
+Iteration Number: 260
+[1,   261] loss: 0.627 | Train Acc: 81.000
+Iteration Number: 261
+[1,   262] loss: 0.365 | Train Acc: 91.000
+Iteration Number: 262
+[1,   263] loss: 0.994 | Train Acc: 69.000
+Iteration Number: 263
+[1,   264] loss: 0.656 | Train Acc: 81.000
+Iteration Number: 264
+[1,   265] loss: 0.313 | Train Acc: 94.000
+Iteration Number: 265
+[1,   266] loss: 0.482 | Train Acc: 88.000
+Iteration Number: 266
+[1,   267] loss: 0.623 | Train Acc: 78.000
+Iteration Number: 267
+[1,   268] loss: 0.476 | Train Acc: 88.000
+Iteration Number: 268
+[1,   269] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 269
+[1,   270] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 270
+[1,   271] loss: 0.502 | Train Acc: 84.000
+Iteration Number: 271
+[1,   272] loss: 0.523 | Train Acc: 84.000
+Iteration Number: 272
+[1,   273] loss: 0.526 | Train Acc: 88.000
+Iteration Number: 273
+[1,   274] loss: 0.467 | Train Acc: 88.000
+Iteration Number: 274
+[1,   275] loss: 0.678 | Train Acc: 78.000
+Iteration Number: 275
+[1,   276] loss: 0.468 | Train Acc: 88.000
+Iteration Number: 276
+[1,   277] loss: 0.435 | Train Acc: 88.000
+Iteration Number: 277
+[1,   278] loss: 0.576 | Train Acc: 81.000
+Iteration Number: 278
+[1,   279] loss: 0.552 | Train Acc: 81.000
+Iteration Number: 279
+[1,   280] loss: 0.640 | Train Acc: 81.000
+Iteration Number: 280
+[1,   281] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 281
+[1,   282] loss: 0.575 | Train Acc: 81.000
+Iteration Number: 282
+[1,   283] loss: 0.956 | Train Acc: 69.000
+Iteration Number: 283
+[1,   284] loss: 0.755 | Train Acc: 78.000
+Iteration Number: 284
+[1,   285] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 285
+[1,   286] loss: 1.225 | Train Acc: 56.000
+Iteration Number: 286
+[1,   287] loss: 0.484 | Train Acc: 88.000
+Iteration Number: 287
+[1,   288] loss: 0.605 | Train Acc: 81.000
+Iteration Number: 288
+[1,   289] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 289
+[1,   290] loss: 0.438 | Train Acc: 91.000
+Iteration Number: 290
+[1,   291] loss: 0.769 | Train Acc: 72.000
+Iteration Number: 291
+[1,   292] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 292
+[1,   293] loss: 0.665 | Train Acc: 78.000
+Iteration Number: 293
+[1,   294] loss: 0.629 | Train Acc: 81.000
+Iteration Number: 294
+[1,   295] loss: 0.961 | Train Acc: 59.000
+Iteration Number: 295
+[1,   296] loss: 0.512 | Train Acc: 88.000
+Iteration Number: 296
+[1,   297] loss: 0.569 | Train Acc: 84.000
+Iteration Number: 297
+[1,   298] loss: 0.582 | Train Acc: 84.000
+Iteration Number: 298
+[1,   299] loss: 0.517 | Train Acc: 88.000
+Iteration Number: 299
+[1,   300] loss: 0.728 | Train Acc: 75.000
+Iteration Number: 300
+[1,   301] loss: 0.662 | Train Acc: 78.000
+Iteration Number: 301
+[1,   302] loss: 0.592 | Train Acc: 81.000
+Iteration Number: 302
+[1,   303] loss: 0.646 | Train Acc: 78.000
+Iteration Number: 303
+[1,   304] loss: 0.757 | Train Acc: 72.000
+Iteration Number: 304
+[1,   305] loss: 0.560 | Train Acc: 84.000
+Iteration Number: 305
+[1,   306] loss: 0.413 | Train Acc: 91.000
+Iteration Number: 306
+[1,   307] loss: 0.523 | Train Acc: 84.000
+Iteration Number: 307
+[1,   308] loss: 0.436 | Train Acc: 88.000
+Iteration Number: 308
+[1,   309] loss: 0.481 | Train Acc: 88.000
+Iteration Number: 309
+[1,   310] loss: 0.428 | Train Acc: 88.000
+Iteration Number: 310
+[1,   311] loss: 0.425 | Train Acc: 88.000
+Iteration Number: 311
+[1,   312] loss: 0.813 | Train Acc: 72.000
+Iteration Number: 312
+[1,   313] loss: 0.519 | Train Acc: 84.000
+Iteration Number: 313
+Epoch Number: 1
+Iteration Number: 0
+[2,     1] loss: 0.681 | Train Acc: 78.000
+Iteration Number: 1
+[2,     2] loss: 0.547 | Train Acc: 84.000
+Iteration Number: 2
+[2,     3] loss: 0.579 | Train Acc: 81.000
+Iteration Number: 3
+[2,     4] loss: 0.583 | Train Acc: 84.000
+Iteration Number: 4
+[2,     5] loss: 0.511 | Train Acc: 84.000
+Iteration Number: 5
+[2,     6] loss: 0.808 | Train Acc: 75.000
+Iteration Number: 6
+[2,     7] loss: 0.516 | Train Acc: 84.000
+Iteration Number: 7
+[2,     8] loss: 0.607 | Train Acc: 81.000
+Iteration Number: 8
+[2,     9] loss: 0.615 | Train Acc: 81.000
+Iteration Number: 9
+[2,    10] loss: 0.890 | Train Acc: 72.000
+Iteration Number: 10
+[2,    11] loss: 0.255 | Train Acc: 97.000
+Iteration Number: 11
+[2,    12] loss: 0.560 | Train Acc: 88.000
+Iteration Number: 12
+[2,    13] loss: 0.320 | Train Acc: 94.000
+Iteration Number: 13
+[2,    14] loss: 0.777 | Train Acc: 75.000
+Iteration Number: 14
+[2,    15] loss: 0.373 | Train Acc: 94.000
+Iteration Number: 15
+[2,    16] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 16
+[2,    17] loss: 0.724 | Train Acc: 75.000
+Iteration Number: 17
+[2,    18] loss: 0.640 | Train Acc: 78.000
+Iteration Number: 18
+[2,    19] loss: 0.810 | Train Acc: 72.000
+Iteration Number: 19
+[2,    20] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 20
+[2,    21] loss: 0.926 | Train Acc: 69.000
+Iteration Number: 21
+[2,    22] loss: 0.877 | Train Acc: 69.000
+Iteration Number: 22
+[2,    23] loss: 0.525 | Train Acc: 84.000
+Iteration Number: 23
+[2,    24] loss: 0.626 | Train Acc: 78.000
+Iteration Number: 24
+[2,    25] loss: 0.349 | Train Acc: 94.000
+Iteration Number: 25
+[2,    26] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 26
+[2,    27] loss: 0.715 | Train Acc: 75.000
+Iteration Number: 27
+[2,    28] loss: 0.709 | Train Acc: 78.000
+Iteration Number: 28
+[2,    29] loss: 0.463 | Train Acc: 91.000
+Iteration Number: 29
+[2,    30] loss: 0.425 | Train Acc: 91.000
+Iteration Number: 30
+[2,    31] loss: 0.365 | Train Acc: 94.000
+Iteration Number: 31
+[2,    32] loss: 0.545 | Train Acc: 84.000
+Iteration Number: 32
+[2,    33] loss: 0.529 | Train Acc: 84.000
+Iteration Number: 33
+[2,    34] loss: 0.614 | Train Acc: 81.000
+Iteration Number: 34
+[2,    35] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 35
+[2,    36] loss: 0.669 | Train Acc: 78.000
+Iteration Number: 36
+[2,    37] loss: 0.326 | Train Acc: 94.000
+Iteration Number: 37
+[2,    38] loss: 0.444 | Train Acc: 88.000
+Iteration Number: 38
+[2,    39] loss: 0.656 | Train Acc: 78.000
+Iteration Number: 39
+[2,    40] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 40
+[2,    41] loss: 0.441 | Train Acc: 88.000
+Iteration Number: 41
+[2,    42] loss: 0.380 | Train Acc: 91.000
+Iteration Number: 42
+[2,    43] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 43
+[2,    44] loss: 0.689 | Train Acc: 78.000
+Iteration Number: 44
+[2,    45] loss: 0.634 | Train Acc: 81.000
+Iteration Number: 45
+[2,    46] loss: 0.687 | Train Acc: 78.000
+Iteration Number: 46
+[2,    47] loss: 0.723 | Train Acc: 78.000
+Iteration Number: 47
+[2,    48] loss: 0.698 | Train Acc: 78.000
+Iteration Number: 48
+[2,    49] loss: 0.513 | Train Acc: 88.000
+Iteration Number: 49
+[2,    50] loss: 0.521 | Train Acc: 84.000
+Iteration Number: 50
+[2,    51] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 51
+[2,    52] loss: 0.715 | Train Acc: 75.000
+Iteration Number: 52
+[2,    53] loss: 0.580 | Train Acc: 81.000
+Iteration Number: 53
+[2,    54] loss: 0.583 | Train Acc: 81.000
+Iteration Number: 54
+[2,    55] loss: 0.660 | Train Acc: 78.000
+Iteration Number: 55
+[2,    56] loss: 0.680 | Train Acc: 78.000
+Iteration Number: 56
+[2,    57] loss: 0.659 | Train Acc: 78.000
+Iteration Number: 57
+[2,    58] loss: 0.754 | Train Acc: 75.000
+Iteration Number: 58
+[2,    59] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 59
+[2,    60] loss: 0.421 | Train Acc: 91.000
+Iteration Number: 60
+[2,    61] loss: 0.751 | Train Acc: 75.000
+Iteration Number: 61
+[2,    62] loss: 0.728 | Train Acc: 75.000
+Iteration Number: 62
+[2,    63] loss: 0.650 | Train Acc: 81.000
+Iteration Number: 63
+[2,    64] loss: 0.783 | Train Acc: 72.000
+Iteration Number: 64
+[2,    65] loss: 0.359 | Train Acc: 94.000
+Iteration Number: 65
+[2,    66] loss: 0.714 | Train Acc: 75.000
+Iteration Number: 66
+[2,    67] loss: 0.556 | Train Acc: 84.000
+Iteration Number: 67
+[2,    68] loss: 0.426 | Train Acc: 91.000
+Iteration Number: 68
+[2,    69] loss: 0.458 | Train Acc: 88.000
+Iteration Number: 69
+[2,    70] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 70
+[2,    71] loss: 0.676 | Train Acc: 78.000
+Iteration Number: 71
+[2,    72] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 72
+[2,    73] loss: 0.938 | Train Acc: 66.000
+Iteration Number: 73
+[2,    74] loss: 1.037 | Train Acc: 62.000
+Iteration Number: 74
+[2,    75] loss: 0.721 | Train Acc: 75.000
+Iteration Number: 75
+[2,    76] loss: 0.739 | Train Acc: 75.000
+Iteration Number: 76
+[2,    77] loss: 0.298 | Train Acc: 97.000
+Iteration Number: 77
+[2,    78] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 78
+[2,    79] loss: 0.473 | Train Acc: 88.000
+Iteration Number: 79
+[2,    80] loss: 0.709 | Train Acc: 78.000
+Iteration Number: 80
+[2,    81] loss: 0.613 | Train Acc: 81.000
+Iteration Number: 81
+[2,    82] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 82
+[2,    83] loss: 0.751 | Train Acc: 75.000
+Iteration Number: 83
+[2,    84] loss: 0.630 | Train Acc: 81.000
+Iteration Number: 84
+[2,    85] loss: 0.868 | Train Acc: 69.000
+Iteration Number: 85
+[2,    86] loss: 0.915 | Train Acc: 66.000
+Iteration Number: 86
+[2,    87] loss: 0.429 | Train Acc: 91.000
+Iteration Number: 87
+[2,    88] loss: 0.733 | Train Acc: 75.000
+Iteration Number: 88
+[2,    89] loss: 0.366 | Train Acc: 94.000
+Iteration Number: 89
+[2,    90] loss: 0.743 | Train Acc: 75.000
+Iteration Number: 90
+[2,    91] loss: 0.484 | Train Acc: 88.000
+Iteration Number: 91
+[2,    92] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 92
+[2,    93] loss: 0.484 | Train Acc: 88.000
+Iteration Number: 93
+[2,    94] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 94
+[2,    95] loss: 0.487 | Train Acc: 88.000
+Iteration Number: 95
+[2,    96] loss: 0.680 | Train Acc: 78.000
+Iteration Number: 96
+[2,    97] loss: 0.751 | Train Acc: 75.000
+Iteration Number: 97
+[2,    98] loss: 0.472 | Train Acc: 88.000
+Iteration Number: 98
+[2,    99] loss: 0.468 | Train Acc: 88.000
+Iteration Number: 99
+[2,   100] loss: 0.535 | Train Acc: 84.000
+Iteration Number: 100
+[2,   101] loss: 0.527 | Train Acc: 84.000
+Iteration Number: 101
+[2,   102] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 102
+[2,   103] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 103
+[2,   104] loss: 0.459 | Train Acc: 88.000
+Iteration Number: 104
+[2,   105] loss: 0.307 | Train Acc: 94.000
+Iteration Number: 105
+[2,   106] loss: 0.675 | Train Acc: 78.000
+Iteration Number: 106
+[2,   107] loss: 0.467 | Train Acc: 88.000
+Iteration Number: 107
+[2,   108] loss: 0.712 | Train Acc: 78.000
+Iteration Number: 108
+[2,   109] loss: 0.611 | Train Acc: 81.000
+Iteration Number: 109
+[2,   110] loss: 0.613 | Train Acc: 81.000
+Iteration Number: 110
+[2,   111] loss: 0.453 | Train Acc: 88.000
+Iteration Number: 111
+[2,   112] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 112
+[2,   113] loss: 0.781 | Train Acc: 75.000
+Iteration Number: 113
+[2,   114] loss: 0.623 | Train Acc: 81.000
+Iteration Number: 114
+[2,   115] loss: 0.624 | Train Acc: 81.000
+Iteration Number: 115
+[2,   116] loss: 0.578 | Train Acc: 84.000
+Iteration Number: 116
+[2,   117] loss: 0.674 | Train Acc: 78.000
+Iteration Number: 117
+[2,   118] loss: 0.814 | Train Acc: 72.000
+Iteration Number: 118
+[2,   119] loss: 0.445 | Train Acc: 88.000
+Iteration Number: 119
+[2,   120] loss: 0.742 | Train Acc: 75.000
+Iteration Number: 120
+[2,   121] loss: 0.348 | Train Acc: 94.000
+Iteration Number: 121
+[2,   122] loss: 0.793 | Train Acc: 72.000
+Iteration Number: 122
+[2,   123] loss: 1.086 | Train Acc: 59.000
+Iteration Number: 123
+[2,   124] loss: 0.567 | Train Acc: 84.000
+Iteration Number: 124
+[2,   125] loss: 0.649 | Train Acc: 78.000
+Iteration Number: 125
+[2,   126] loss: 0.429 | Train Acc: 91.000
+Iteration Number: 126
+[2,   127] loss: 0.486 | Train Acc: 88.000
+Iteration Number: 127
+[2,   128] loss: 0.327 | Train Acc: 97.000
+Iteration Number: 128
+[2,   129] loss: 0.536 | Train Acc: 84.000
+Iteration Number: 129
+[2,   130] loss: 0.355 | Train Acc: 94.000
+Iteration Number: 130
+[2,   131] loss: 0.489 | Train Acc: 88.000
+Iteration Number: 131
+[2,   132] loss: 0.687 | Train Acc: 78.000
+Iteration Number: 132
+[2,   133] loss: 0.270 | Train Acc: 97.000
+Iteration Number: 133
+[2,   134] loss: 0.719 | Train Acc: 75.000
+Iteration Number: 134
+[2,   135] loss: 0.641 | Train Acc: 78.000
+Iteration Number: 135
+[2,   136] loss: 0.521 | Train Acc: 84.000
+Iteration Number: 136
+[2,   137] loss: 0.555 | Train Acc: 84.000
+Iteration Number: 137
+[2,   138] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 138
+[2,   139] loss: 0.738 | Train Acc: 75.000
+Iteration Number: 139
+[2,   140] loss: 0.644 | Train Acc: 81.000
+Iteration Number: 140
+[2,   141] loss: 0.402 | Train Acc: 91.000
+Iteration Number: 141
+[2,   142] loss: 0.696 | Train Acc: 78.000
+Iteration Number: 142
+[2,   143] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 143
+[2,   144] loss: 0.536 | Train Acc: 84.000
+Iteration Number: 144
+[2,   145] loss: 0.561 | Train Acc: 84.000
+Iteration Number: 145
+[2,   146] loss: 0.629 | Train Acc: 81.000
+Iteration Number: 146
+[2,   147] loss: 0.966 | Train Acc: 66.000
+Iteration Number: 147
+[2,   148] loss: 0.705 | Train Acc: 78.000
+Iteration Number: 148
+[2,   149] loss: 0.427 | Train Acc: 91.000
+Iteration Number: 149
+[2,   150] loss: 0.636 | Train Acc: 81.000
+Iteration Number: 150
+[2,   151] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 151
+[2,   152] loss: 0.668 | Train Acc: 78.000
+Iteration Number: 152
+[2,   153] loss: 0.775 | Train Acc: 75.000
+Iteration Number: 153
+[2,   154] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 154
+[2,   155] loss: 0.589 | Train Acc: 81.000
+Iteration Number: 155
+[2,   156] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 156
+[2,   157] loss: 0.619 | Train Acc: 81.000
+Iteration Number: 157
+[2,   158] loss: 0.538 | Train Acc: 84.000
+Iteration Number: 158
+[2,   159] loss: 0.480 | Train Acc: 88.000
+Iteration Number: 159
+[2,   160] loss: 0.546 | Train Acc: 84.000
+Iteration Number: 160
+[2,   161] loss: 0.406 | Train Acc: 91.000
+Iteration Number: 161
+[2,   162] loss: 0.738 | Train Acc: 75.000
+Iteration Number: 162
+[2,   163] loss: 0.476 | Train Acc: 88.000
+Iteration Number: 163
+[2,   164] loss: 0.605 | Train Acc: 81.000
+Iteration Number: 164
+[2,   165] loss: 0.673 | Train Acc: 78.000
+Iteration Number: 165
+[2,   166] loss: 0.808 | Train Acc: 72.000
+Iteration Number: 166
+[2,   167] loss: 0.668 | Train Acc: 78.000
+Iteration Number: 167
+[2,   168] loss: 0.485 | Train Acc: 88.000
+Iteration Number: 168
+[2,   169] loss: 0.415 | Train Acc: 91.000
+Iteration Number: 169
+[2,   170] loss: 0.461 | Train Acc: 88.000
+Iteration Number: 170
+[2,   171] loss: 0.795 | Train Acc: 72.000
+Iteration Number: 171
+[2,   172] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 172
+[2,   173] loss: 0.514 | Train Acc: 84.000
+Iteration Number: 173
+[2,   174] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 174
+[2,   175] loss: 0.616 | Train Acc: 81.000
+Iteration Number: 175
+[2,   176] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 176
+[2,   177] loss: 0.566 | Train Acc: 84.000
+Iteration Number: 177
+[2,   178] loss: 0.599 | Train Acc: 81.000
+Iteration Number: 178
+[2,   179] loss: 0.262 | Train Acc: 97.000
+Iteration Number: 179
+[2,   180] loss: 0.456 | Train Acc: 88.000
+Iteration Number: 180
+[2,   181] loss: 0.695 | Train Acc: 78.000
+Iteration Number: 181
+[2,   182] loss: 0.528 | Train Acc: 84.000
+Iteration Number: 182
+[2,   183] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 183
+[2,   184] loss: 0.366 | Train Acc: 91.000
+Iteration Number: 184
+[2,   185] loss: 0.522 | Train Acc: 84.000
+Iteration Number: 185
+[2,   186] loss: 0.552 | Train Acc: 84.000
+Iteration Number: 186
+[2,   187] loss: 0.366 | Train Acc: 91.000
+Iteration Number: 187
+[2,   188] loss: 0.503 | Train Acc: 84.000
+Iteration Number: 188
+[2,   189] loss: 0.398 | Train Acc: 91.000
+Iteration Number: 189
+[2,   190] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 190
+[2,   191] loss: 0.592 | Train Acc: 81.000
+Iteration Number: 191
+[2,   192] loss: 0.548 | Train Acc: 84.000
+Iteration Number: 192
+[2,   193] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 193
+[2,   194] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 194
+[2,   195] loss: 0.599 | Train Acc: 81.000
+Iteration Number: 195
+[2,   196] loss: 0.669 | Train Acc: 81.000
+Iteration Number: 196
+[2,   197] loss: 0.859 | Train Acc: 69.000
+Iteration Number: 197
+[2,   198] loss: 0.425 | Train Acc: 88.000
+Iteration Number: 198
+[2,   199] loss: 0.421 | Train Acc: 88.000
+Iteration Number: 199
+[2,   200] loss: 0.383 | Train Acc: 91.000
+Iteration Number: 200
+[2,   201] loss: 0.364 | Train Acc: 91.000
+Iteration Number: 201
+[2,   202] loss: 0.420 | Train Acc: 91.000
+Iteration Number: 202
+[2,   203] loss: 0.468 | Train Acc: 88.000
+Iteration Number: 203
+[2,   204] loss: 0.739 | Train Acc: 75.000
+Iteration Number: 204
+[2,   205] loss: 0.273 | Train Acc: 97.000
+Iteration Number: 205
+[2,   206] loss: 0.534 | Train Acc: 84.000
+Iteration Number: 206
+[2,   207] loss: 0.807 | Train Acc: 75.000
+Iteration Number: 207
+[2,   208] loss: 0.550 | Train Acc: 84.000
+Iteration Number: 208
+[2,   209] loss: 0.664 | Train Acc: 78.000
+Iteration Number: 209
+[2,   210] loss: 0.494 | Train Acc: 88.000
+Iteration Number: 210
+[2,   211] loss: 0.418 | Train Acc: 88.000
+Iteration Number: 211
+[2,   212] loss: 0.828 | Train Acc: 72.000
+Iteration Number: 212
+[2,   213] loss: 0.653 | Train Acc: 78.000
+Iteration Number: 213
+[2,   214] loss: 0.868 | Train Acc: 72.000
+Iteration Number: 214
+[2,   215] loss: 0.413 | Train Acc: 91.000
+Iteration Number: 215
+[2,   216] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 216
+[2,   217] loss: 0.892 | Train Acc: 69.000
+Iteration Number: 217
+[2,   218] loss: 0.464 | Train Acc: 88.000
+Iteration Number: 218
+[2,   219] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 219
+[2,   220] loss: 0.482 | Train Acc: 88.000
+Iteration Number: 220
+[2,   221] loss: 0.612 | Train Acc: 78.000
+Iteration Number: 221
+[2,   222] loss: 0.652 | Train Acc: 78.000
+Iteration Number: 222
+[2,   223] loss: 0.485 | Train Acc: 88.000
+Iteration Number: 223
+[2,   224] loss: 0.345 | Train Acc: 94.000
+Iteration Number: 224
+[2,   225] loss: 0.906 | Train Acc: 66.000
+Iteration Number: 225
+[2,   226] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 226
+[2,   227] loss: 0.505 | Train Acc: 84.000
+Iteration Number: 227
+[2,   228] loss: 0.590 | Train Acc: 81.000
+Iteration Number: 228
+[2,   229] loss: 0.665 | Train Acc: 78.000
+Iteration Number: 229
+[2,   230] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 230
+[2,   231] loss: 0.516 | Train Acc: 88.000
+Iteration Number: 231
+[2,   232] loss: 0.777 | Train Acc: 72.000
+Iteration Number: 232
+[2,   233] loss: 0.715 | Train Acc: 78.000
+Iteration Number: 233
+[2,   234] loss: 0.736 | Train Acc: 75.000
+Iteration Number: 234
+[2,   235] loss: 0.702 | Train Acc: 75.000
+Iteration Number: 235
+[2,   236] loss: 0.660 | Train Acc: 78.000
+Iteration Number: 236
+[2,   237] loss: 0.489 | Train Acc: 88.000
+Iteration Number: 237
+[2,   238] loss: 0.495 | Train Acc: 84.000
+Iteration Number: 238
+[2,   239] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 239
+[2,   240] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 240
+[2,   241] loss: 0.843 | Train Acc: 75.000
+Iteration Number: 241
+[2,   242] loss: 0.773 | Train Acc: 72.000
+Iteration Number: 242
+[2,   243] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 243
+[2,   244] loss: 0.771 | Train Acc: 72.000
+Iteration Number: 244
+[2,   245] loss: 0.711 | Train Acc: 75.000
+Iteration Number: 245
+[2,   246] loss: 0.708 | Train Acc: 75.000
+Iteration Number: 246
+[2,   247] loss: 0.367 | Train Acc: 94.000
+Iteration Number: 247
+[2,   248] loss: 0.835 | Train Acc: 72.000
+Iteration Number: 248
+[2,   249] loss: 0.348 | Train Acc: 94.000
+Iteration Number: 249
+[2,   250] loss: 0.657 | Train Acc: 78.000
+Iteration Number: 250
+[2,   251] loss: 0.423 | Train Acc: 91.000
+Iteration Number: 251
+[2,   252] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 252
+[2,   253] loss: 0.450 | Train Acc: 88.000
+Iteration Number: 253
+[2,   254] loss: 0.492 | Train Acc: 88.000
+Iteration Number: 254
+[2,   255] loss: 0.716 | Train Acc: 75.000
+Iteration Number: 255
+[2,   256] loss: 0.385 | Train Acc: 91.000
+Iteration Number: 256
+[2,   257] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 257
+[2,   258] loss: 0.400 | Train Acc: 91.000
+Iteration Number: 258
+[2,   259] loss: 0.437 | Train Acc: 88.000
+Iteration Number: 259
+[2,   260] loss: 0.559 | Train Acc: 81.000
+Iteration Number: 260
+[2,   261] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 261
+[2,   262] loss: 0.386 | Train Acc: 91.000
+Iteration Number: 262
+[2,   263] loss: 0.935 | Train Acc: 69.000
+Iteration Number: 263
+[2,   264] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 264
+[2,   265] loss: 0.318 | Train Acc: 94.000
+Iteration Number: 265
+[2,   266] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 266
+[2,   267] loss: 0.633 | Train Acc: 78.000
+Iteration Number: 267
+[2,   268] loss: 0.472 | Train Acc: 88.000
+Iteration Number: 268
+[2,   269] loss: 0.633 | Train Acc: 81.000
+Iteration Number: 269
+[2,   270] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 270
+[2,   271] loss: 0.497 | Train Acc: 84.000
+Iteration Number: 271
+[2,   272] loss: 0.517 | Train Acc: 84.000
+Iteration Number: 272
+[2,   273] loss: 0.500 | Train Acc: 88.000
+Iteration Number: 273
+[2,   274] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 274
+[2,   275] loss: 0.696 | Train Acc: 78.000
+Iteration Number: 275
+[2,   276] loss: 0.452 | Train Acc: 88.000
+Iteration Number: 276
+[2,   277] loss: 0.427 | Train Acc: 88.000
+Iteration Number: 277
+[2,   278] loss: 0.583 | Train Acc: 81.000
+Iteration Number: 278
+[2,   279] loss: 0.560 | Train Acc: 81.000
+Iteration Number: 279
+[2,   280] loss: 0.636 | Train Acc: 81.000
+Iteration Number: 280
+[2,   281] loss: 0.471 | Train Acc: 88.000
+Iteration Number: 281
+[2,   282] loss: 0.580 | Train Acc: 81.000
+Iteration Number: 282
+[2,   283] loss: 0.945 | Train Acc: 69.000
+Iteration Number: 283
+[2,   284] loss: 0.748 | Train Acc: 78.000
+Iteration Number: 284
+[2,   285] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 285
+[2,   286] loss: 1.238 | Train Acc: 56.000
+Iteration Number: 286
+[2,   287] loss: 0.482 | Train Acc: 88.000
+Iteration Number: 287
+[2,   288] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 288
+[2,   289] loss: 0.761 | Train Acc: 75.000
+Iteration Number: 289
+[2,   290] loss: 0.414 | Train Acc: 91.000
+Iteration Number: 290
+[2,   291] loss: 0.772 | Train Acc: 72.000
+Iteration Number: 291
+[2,   292] loss: 0.716 | Train Acc: 75.000
+Iteration Number: 292
+[2,   293] loss: 0.656 | Train Acc: 78.000
+Iteration Number: 293
+[2,   294] loss: 0.625 | Train Acc: 81.000
+Iteration Number: 294
+[2,   295] loss: 0.965 | Train Acc: 59.000
+Iteration Number: 295
+[2,   296] loss: 0.491 | Train Acc: 88.000
+Iteration Number: 296
+[2,   297] loss: 0.559 | Train Acc: 84.000
+Iteration Number: 297
+[2,   298] loss: 0.582 | Train Acc: 84.000
+Iteration Number: 298
+[2,   299] loss: 0.514 | Train Acc: 88.000
+Iteration Number: 299
+[2,   300] loss: 0.729 | Train Acc: 75.000
+Iteration Number: 300
+[2,   301] loss: 0.660 | Train Acc: 78.000
+Iteration Number: 301
+[2,   302] loss: 0.589 | Train Acc: 81.000
+Iteration Number: 302
+[2,   303] loss: 0.641 | Train Acc: 78.000
+Iteration Number: 303
+[2,   304] loss: 0.743 | Train Acc: 72.000
+Iteration Number: 304
+[2,   305] loss: 0.573 | Train Acc: 84.000
+Iteration Number: 305
+[2,   306] loss: 0.431 | Train Acc: 91.000
+Iteration Number: 306
+[2,   307] loss: 0.533 | Train Acc: 84.000
+Iteration Number: 307
+[2,   308] loss: 0.454 | Train Acc: 88.000
+Iteration Number: 308
+[2,   309] loss: 0.495 | Train Acc: 88.000
+Iteration Number: 309
+[2,   310] loss: 0.446 | Train Acc: 88.000
+Iteration Number: 310
+[2,   311] loss: 0.441 | Train Acc: 88.000
+Iteration Number: 311
+[2,   312] loss: 0.781 | Train Acc: 72.000
+Iteration Number: 312
+[2,   313] loss: 0.521 | Train Acc: 84.000
+Iteration Number: 313
+Epoch Number: 2
+Iteration Number: 0
+[3,     1] loss: 0.664 | Train Acc: 78.000
+Iteration Number: 1
+[3,     2] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 2
+[3,     3] loss: 0.577 | Train Acc: 81.000
+Iteration Number: 3
+[3,     4] loss: 0.570 | Train Acc: 84.000
+Iteration Number: 4
+[3,     5] loss: 0.514 | Train Acc: 84.000
+Iteration Number: 5
+[3,     6] loss: 0.788 | Train Acc: 75.000
+Iteration Number: 6
+[3,     7] loss: 0.516 | Train Acc: 84.000
+Iteration Number: 7
+[3,     8] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 8
+[3,     9] loss: 0.611 | Train Acc: 81.000
+Iteration Number: 9
+[3,    10] loss: 0.882 | Train Acc: 72.000
+Iteration Number: 10
+[3,    11] loss: 0.235 | Train Acc: 97.000
+Iteration Number: 11
+[3,    12] loss: 0.536 | Train Acc: 88.000
+Iteration Number: 12
+[3,    13] loss: 0.300 | Train Acc: 94.000
+Iteration Number: 13
+[3,    14] loss: 0.786 | Train Acc: 75.000
+Iteration Number: 14
+[3,    15] loss: 0.349 | Train Acc: 94.000
+Iteration Number: 15
+[3,    16] loss: 0.609 | Train Acc: 81.000
+Iteration Number: 16
+[3,    17] loss: 0.739 | Train Acc: 75.000
+Iteration Number: 17
+[3,    18] loss: 0.649 | Train Acc: 78.000
+Iteration Number: 18
+[3,    19] loss: 0.826 | Train Acc: 72.000
+Iteration Number: 19
+[3,    20] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 20
+[3,    21] loss: 0.949 | Train Acc: 69.000
+Iteration Number: 21
+[3,    22] loss: 0.899 | Train Acc: 69.000
+Iteration Number: 22
+[3,    23] loss: 0.519 | Train Acc: 84.000
+Iteration Number: 23
+[3,    24] loss: 0.622 | Train Acc: 78.000
+Iteration Number: 24
+[3,    25] loss: 0.324 | Train Acc: 94.000
+Iteration Number: 25
+[3,    26] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 26
+[3,    27] loss: 0.717 | Train Acc: 75.000
+Iteration Number: 27
+[3,    28] loss: 0.720 | Train Acc: 78.000
+Iteration Number: 28
+[3,    29] loss: 0.458 | Train Acc: 91.000
+Iteration Number: 29
+[3,    30] loss: 0.417 | Train Acc: 91.000
+Iteration Number: 30
+[3,    31] loss: 0.361 | Train Acc: 94.000
+Iteration Number: 31
+[3,    32] loss: 0.545 | Train Acc: 84.000
+Iteration Number: 32
+[3,    33] loss: 0.527 | Train Acc: 84.000
+Iteration Number: 33
+[3,    34] loss: 0.618 | Train Acc: 81.000
+Iteration Number: 34
+[3,    35] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 35
+[3,    36] loss: 0.663 | Train Acc: 78.000
+Iteration Number: 36
+[3,    37] loss: 0.342 | Train Acc: 94.000
+Iteration Number: 37
+[3,    38] loss: 0.447 | Train Acc: 88.000
+Iteration Number: 38
+[3,    39] loss: 0.638 | Train Acc: 78.000
+Iteration Number: 39
+[3,    40] loss: 0.605 | Train Acc: 81.000
+Iteration Number: 40
+[3,    41] loss: 0.442 | Train Acc: 88.000
+Iteration Number: 41
+[3,    42] loss: 0.391 | Train Acc: 91.000
+Iteration Number: 42
+[3,    43] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 43
+[3,    44] loss: 0.672 | Train Acc: 78.000
+Iteration Number: 44
+[3,    45] loss: 0.624 | Train Acc: 81.000
+Iteration Number: 45
+[3,    46] loss: 0.675 | Train Acc: 78.000
+Iteration Number: 46
+[3,    47] loss: 0.713 | Train Acc: 78.000
+Iteration Number: 47
+[3,    48] loss: 0.692 | Train Acc: 78.000
+Iteration Number: 48
+[3,    49] loss: 0.513 | Train Acc: 88.000
+Iteration Number: 49
+[3,    50] loss: 0.521 | Train Acc: 84.000
+Iteration Number: 50
+[3,    51] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 51
+[3,    52] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 52
+[3,    53] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 53
+[3,    54] loss: 0.586 | Train Acc: 81.000
+Iteration Number: 54
+[3,    55] loss: 0.666 | Train Acc: 78.000
+Iteration Number: 55
+[3,    56] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 56
+[3,    57] loss: 0.665 | Train Acc: 78.000
+Iteration Number: 57
+[3,    58] loss: 0.763 | Train Acc: 75.000
+Iteration Number: 58
+[3,    59] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 59
+[3,    60] loss: 0.405 | Train Acc: 91.000
+Iteration Number: 60
+[3,    61] loss: 0.759 | Train Acc: 75.000
+Iteration Number: 61
+[3,    62] loss: 0.736 | Train Acc: 75.000
+Iteration Number: 62
+[3,    63] loss: 0.644 | Train Acc: 81.000
+Iteration Number: 63
+[3,    64] loss: 0.792 | Train Acc: 72.000
+Iteration Number: 64
+[3,    65] loss: 0.341 | Train Acc: 94.000
+Iteration Number: 65
+[3,    66] loss: 0.714 | Train Acc: 75.000
+Iteration Number: 66
+[3,    67] loss: 0.550 | Train Acc: 84.000
+Iteration Number: 67
+[3,    68] loss: 0.419 | Train Acc: 91.000
+Iteration Number: 68
+[3,    69] loss: 0.454 | Train Acc: 88.000
+Iteration Number: 69
+[3,    70] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 70
+[3,    71] loss: 0.677 | Train Acc: 78.000
+Iteration Number: 71
+[3,    72] loss: 0.563 | Train Acc: 84.000
+Iteration Number: 72
+[3,    73] loss: 0.928 | Train Acc: 66.000
+Iteration Number: 73
+[3,    74] loss: 1.024 | Train Acc: 62.000
+Iteration Number: 74
+[3,    75] loss: 0.717 | Train Acc: 75.000
+Iteration Number: 75
+[3,    76] loss: 0.735 | Train Acc: 75.000
+Iteration Number: 76
+[3,    77] loss: 0.308 | Train Acc: 97.000
+Iteration Number: 77
+[3,    78] loss: 0.550 | Train Acc: 84.000
+Iteration Number: 78
+[3,    79] loss: 0.477 | Train Acc: 88.000
+Iteration Number: 79
+[3,    80] loss: 0.710 | Train Acc: 78.000
+Iteration Number: 80
+[3,    81] loss: 0.617 | Train Acc: 81.000
+Iteration Number: 81
+[3,    82] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 82
+[3,    83] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 83
+[3,    84] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 84
+[3,    85] loss: 0.866 | Train Acc: 69.000
+Iteration Number: 85
+[3,    86] loss: 0.912 | Train Acc: 66.000
+Iteration Number: 86
+[3,    87] loss: 0.429 | Train Acc: 91.000
+Iteration Number: 87
+[3,    88] loss: 0.733 | Train Acc: 75.000
+Iteration Number: 88
+[3,    89] loss: 0.364 | Train Acc: 94.000
+Iteration Number: 89
+[3,    90] loss: 0.745 | Train Acc: 75.000
+Iteration Number: 90
+[3,    91] loss: 0.481 | Train Acc: 88.000
+Iteration Number: 91
+[3,    92] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 92
+[3,    93] loss: 0.481 | Train Acc: 88.000
+Iteration Number: 93
+[3,    94] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 94
+[3,    95] loss: 0.484 | Train Acc: 88.000
+Iteration Number: 95
+[3,    96] loss: 0.682 | Train Acc: 78.000
+Iteration Number: 96
+[3,    97] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 97
+[3,    98] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 98
+[3,    99] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 99
+[3,   100] loss: 0.538 | Train Acc: 84.000
+Iteration Number: 100
+[3,   101] loss: 0.528 | Train Acc: 84.000
+Iteration Number: 101
+[3,   102] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 102
+[3,   103] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 103
+[3,   104] loss: 0.461 | Train Acc: 88.000
+Iteration Number: 104
+[3,   105] loss: 0.314 | Train Acc: 94.000
+Iteration Number: 105
+[3,   106] loss: 0.670 | Train Acc: 78.000
+Iteration Number: 106
+[3,   107] loss: 0.468 | Train Acc: 88.000
+Iteration Number: 107
+[3,   108] loss: 0.705 | Train Acc: 78.000
+Iteration Number: 108
+[3,   109] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 109
+[3,   110] loss: 0.611 | Train Acc: 81.000
+Iteration Number: 110
+[3,   111] loss: 0.454 | Train Acc: 88.000
+Iteration Number: 111
+[3,   112] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 112
+[3,   113] loss: 0.777 | Train Acc: 75.000
+Iteration Number: 113
+[3,   114] loss: 0.621 | Train Acc: 81.000
+Iteration Number: 114
+[3,   115] loss: 0.621 | Train Acc: 81.000
+Iteration Number: 115
+[3,   116] loss: 0.572 | Train Acc: 84.000
+Iteration Number: 116
+[3,   117] loss: 0.677 | Train Acc: 78.000
+Iteration Number: 117
+[3,   118] loss: 0.818 | Train Acc: 72.000
+Iteration Number: 118
+[3,   119] loss: 0.444 | Train Acc: 88.000
+Iteration Number: 119
+[3,   120] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 120
+[3,   121] loss: 0.336 | Train Acc: 94.000
+Iteration Number: 121
+[3,   122] loss: 0.805 | Train Acc: 72.000
+Iteration Number: 122
+[3,   123] loss: 1.106 | Train Acc: 59.000
+Iteration Number: 123
+[3,   124] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 124
+[3,   125] loss: 0.652 | Train Acc: 78.000
+Iteration Number: 125
+[3,   126] loss: 0.416 | Train Acc: 91.000
+Iteration Number: 126
+[3,   127] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 127
+[3,   128] loss: 0.309 | Train Acc: 97.000
+Iteration Number: 128
+[3,   129] loss: 0.531 | Train Acc: 84.000
+Iteration Number: 129
+[3,   130] loss: 0.344 | Train Acc: 94.000
+Iteration Number: 130
+[3,   131] loss: 0.483 | Train Acc: 88.000
+Iteration Number: 131
+[3,   132] loss: 0.690 | Train Acc: 78.000
+Iteration Number: 132
+[3,   133] loss: 0.268 | Train Acc: 97.000
+Iteration Number: 133
+[3,   134] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 134
+[3,   135] loss: 0.639 | Train Acc: 78.000
+Iteration Number: 135
+[3,   136] loss: 0.521 | Train Acc: 84.000
+Iteration Number: 136
+[3,   137] loss: 0.556 | Train Acc: 84.000
+Iteration Number: 137
+[3,   138] loss: 0.477 | Train Acc: 88.000
+Iteration Number: 138
+[3,   139] loss: 0.731 | Train Acc: 75.000
+Iteration Number: 139
+[3,   140] loss: 0.640 | Train Acc: 81.000
+Iteration Number: 140
+[3,   141] loss: 0.407 | Train Acc: 91.000
+Iteration Number: 141
+[3,   142] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 142
+[3,   143] loss: 0.687 | Train Acc: 78.000
+Iteration Number: 143
+[3,   144] loss: 0.536 | Train Acc: 84.000
+Iteration Number: 144
+[3,   145] loss: 0.560 | Train Acc: 84.000
+Iteration Number: 145
+[3,   146] loss: 0.628 | Train Acc: 81.000
+Iteration Number: 146
+[3,   147] loss: 0.956 | Train Acc: 66.000
+Iteration Number: 147
+[3,   148] loss: 0.703 | Train Acc: 78.000
+Iteration Number: 148
+[3,   149] loss: 0.429 | Train Acc: 91.000
+Iteration Number: 149
+[3,   150] loss: 0.637 | Train Acc: 81.000
+Iteration Number: 150
+[3,   151] loss: 0.550 | Train Acc: 84.000
+Iteration Number: 151
+[3,   152] loss: 0.667 | Train Acc: 78.000
+Iteration Number: 152
+[3,   153] loss: 0.780 | Train Acc: 75.000
+Iteration Number: 153
+[3,   154] loss: 0.554 | Train Acc: 84.000
+Iteration Number: 154
+[3,   155] loss: 0.586 | Train Acc: 81.000
+Iteration Number: 155
+[3,   156] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 156
+[3,   157] loss: 0.621 | Train Acc: 81.000
+Iteration Number: 157
+[3,   158] loss: 0.535 | Train Acc: 84.000
+Iteration Number: 158
+[3,   159] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 159
+[3,   160] loss: 0.544 | Train Acc: 84.000
+Iteration Number: 160
+[3,   161] loss: 0.398 | Train Acc: 91.000
+Iteration Number: 161
+[3,   162] loss: 0.738 | Train Acc: 75.000
+Iteration Number: 162
+[3,   163] loss: 0.473 | Train Acc: 88.000
+Iteration Number: 163
+[3,   164] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 164
+[3,   165] loss: 0.673 | Train Acc: 78.000
+Iteration Number: 165
+[3,   166] loss: 0.807 | Train Acc: 72.000
+Iteration Number: 166
+[3,   167] loss: 0.670 | Train Acc: 78.000
+Iteration Number: 167
+[3,   168] loss: 0.484 | Train Acc: 88.000
+Iteration Number: 168
+[3,   169] loss: 0.417 | Train Acc: 91.000
+Iteration Number: 169
+[3,   170] loss: 0.463 | Train Acc: 88.000
+Iteration Number: 170
+[3,   171] loss: 0.793 | Train Acc: 72.000
+Iteration Number: 171
+[3,   172] loss: 0.544 | Train Acc: 84.000
+Iteration Number: 172
+[3,   173] loss: 0.516 | Train Acc: 84.000
+Iteration Number: 173
+[3,   174] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 174
+[3,   175] loss: 0.619 | Train Acc: 81.000
+Iteration Number: 175
+[3,   176] loss: 0.556 | Train Acc: 84.000
+Iteration Number: 176
+[3,   177] loss: 0.563 | Train Acc: 84.000
+Iteration Number: 177
+[3,   178] loss: 0.598 | Train Acc: 81.000
+Iteration Number: 178
+[3,   179] loss: 0.267 | Train Acc: 97.000
+Iteration Number: 179
+[3,   180] loss: 0.456 | Train Acc: 88.000
+Iteration Number: 180
+[3,   181] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 181
+[3,   182] loss: 0.525 | Train Acc: 84.000
+Iteration Number: 182
+[3,   183] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 183
+[3,   184] loss: 0.371 | Train Acc: 91.000
+Iteration Number: 184
+[3,   185] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 185
+[3,   186] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 186
+[3,   187] loss: 0.371 | Train Acc: 91.000
+Iteration Number: 187
+[3,   188] loss: 0.506 | Train Acc: 84.000
+Iteration Number: 188
+[3,   189] loss: 0.398 | Train Acc: 91.000
+Iteration Number: 189
+[3,   190] loss: 0.555 | Train Acc: 84.000
+Iteration Number: 190
+[3,   191] loss: 0.596 | Train Acc: 81.000
+Iteration Number: 191
+[3,   192] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 192
+[3,   193] loss: 0.592 | Train Acc: 81.000
+Iteration Number: 193
+[3,   194] loss: 0.693 | Train Acc: 78.000
+Iteration Number: 194
+[3,   195] loss: 0.605 | Train Acc: 81.000
+Iteration Number: 195
+[3,   196] loss: 0.673 | Train Acc: 81.000
+Iteration Number: 196
+[3,   197] loss: 0.863 | Train Acc: 69.000
+Iteration Number: 197
+[3,   198] loss: 0.430 | Train Acc: 88.000
+Iteration Number: 198
+[3,   199] loss: 0.417 | Train Acc: 88.000
+Iteration Number: 199
+[3,   200] loss: 0.388 | Train Acc: 91.000
+Iteration Number: 200
+[3,   201] loss: 0.371 | Train Acc: 91.000
+Iteration Number: 201
+[3,   202] loss: 0.424 | Train Acc: 91.000
+Iteration Number: 202
+[3,   203] loss: 0.487 | Train Acc: 88.000
+Iteration Number: 203
+[3,   204] loss: 0.752 | Train Acc: 75.000
+Iteration Number: 204
+[3,   205] loss: 0.268 | Train Acc: 97.000
+Iteration Number: 205
+[3,   206] loss: 0.551 | Train Acc: 84.000
+Iteration Number: 206
+[3,   207] loss: 0.792 | Train Acc: 75.000
+Iteration Number: 207
+[3,   208] loss: 0.564 | Train Acc: 84.000
+Iteration Number: 208
+[3,   209] loss: 0.672 | Train Acc: 78.000
+Iteration Number: 209
+[3,   210] loss: 0.472 | Train Acc: 88.000
+Iteration Number: 210
+[3,   211] loss: 0.431 | Train Acc: 88.000
+Iteration Number: 211
+[3,   212] loss: 0.843 | Train Acc: 72.000
+Iteration Number: 212
+[3,   213] loss: 0.670 | Train Acc: 78.000
+Iteration Number: 213
+[3,   214] loss: 0.807 | Train Acc: 72.000
+Iteration Number: 214
+[3,   215] loss: 0.405 | Train Acc: 91.000
+Iteration Number: 215
+[3,   216] loss: 0.509 | Train Acc: 84.000
+Iteration Number: 216
+[3,   217] loss: 0.896 | Train Acc: 69.000
+Iteration Number: 217
+[3,   218] loss: 0.456 | Train Acc: 88.000
+Iteration Number: 218
+[3,   219] loss: 0.464 | Train Acc: 88.000
+Iteration Number: 219
+[3,   220] loss: 0.462 | Train Acc: 88.000
+Iteration Number: 220
+[3,   221] loss: 0.591 | Train Acc: 78.000
+Iteration Number: 221
+[3,   222] loss: 0.668 | Train Acc: 78.000
+Iteration Number: 222
+[3,   223] loss: 0.486 | Train Acc: 88.000
+Iteration Number: 223
+[3,   224] loss: 0.328 | Train Acc: 94.000
+Iteration Number: 224
+[3,   225] loss: 0.918 | Train Acc: 66.000
+Iteration Number: 225
+[3,   226] loss: 0.554 | Train Acc: 84.000
+Iteration Number: 226
+[3,   227] loss: 0.498 | Train Acc: 84.000
+Iteration Number: 227
+[3,   228] loss: 0.595 | Train Acc: 81.000
+Iteration Number: 228
+[3,   229] loss: 0.667 | Train Acc: 78.000
+Iteration Number: 229
+[3,   230] loss: 0.600 | Train Acc: 81.000
+Iteration Number: 230
+[3,   231] loss: 0.525 | Train Acc: 88.000
+Iteration Number: 231
+[3,   232] loss: 0.784 | Train Acc: 72.000
+Iteration Number: 232
+[3,   233] loss: 0.722 | Train Acc: 78.000
+Iteration Number: 233
+[3,   234] loss: 0.731 | Train Acc: 75.000
+Iteration Number: 234
+[3,   235] loss: 0.704 | Train Acc: 75.000
+Iteration Number: 235
+[3,   236] loss: 0.663 | Train Acc: 78.000
+Iteration Number: 236
+[3,   237] loss: 0.494 | Train Acc: 88.000
+Iteration Number: 237
+[3,   238] loss: 0.497 | Train Acc: 84.000
+Iteration Number: 238
+[3,   239] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 239
+[3,   240] loss: 0.554 | Train Acc: 84.000
+Iteration Number: 240
+[3,   241] loss: 0.840 | Train Acc: 75.000
+Iteration Number: 241
+[3,   242] loss: 0.774 | Train Acc: 72.000
+Iteration Number: 242
+[3,   243] loss: 0.684 | Train Acc: 78.000
+Iteration Number: 243
+[3,   244] loss: 0.770 | Train Acc: 72.000
+Iteration Number: 244
+[3,   245] loss: 0.710 | Train Acc: 75.000
+Iteration Number: 245
+[3,   246] loss: 0.706 | Train Acc: 75.000
+Iteration Number: 246
+[3,   247] loss: 0.369 | Train Acc: 94.000
+Iteration Number: 247
+[3,   248] loss: 0.831 | Train Acc: 72.000
+Iteration Number: 248
+[3,   249] loss: 0.352 | Train Acc: 94.000
+Iteration Number: 249
+[3,   250] loss: 0.658 | Train Acc: 78.000
+Iteration Number: 250
+[3,   251] loss: 0.427 | Train Acc: 91.000
+Iteration Number: 251
+[3,   252] loss: 0.550 | Train Acc: 84.000
+Iteration Number: 252
+[3,   253] loss: 0.452 | Train Acc: 88.000
+Iteration Number: 253
+[3,   254] loss: 0.493 | Train Acc: 88.000
+Iteration Number: 254
+[3,   255] loss: 0.713 | Train Acc: 75.000
+Iteration Number: 255
+[3,   256] loss: 0.387 | Train Acc: 91.000
+Iteration Number: 256
+[3,   257] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 257
+[3,   258] loss: 0.404 | Train Acc: 91.000
+Iteration Number: 258
+[3,   259] loss: 0.437 | Train Acc: 88.000
+Iteration Number: 259
+[3,   260] loss: 0.557 | Train Acc: 81.000
+Iteration Number: 260
+[3,   261] loss: 0.599 | Train Acc: 81.000
+Iteration Number: 261
+[3,   262] loss: 0.386 | Train Acc: 91.000
+Iteration Number: 262
+[3,   263] loss: 0.931 | Train Acc: 69.000
+Iteration Number: 263
+[3,   264] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 264
+[3,   265] loss: 0.320 | Train Acc: 94.000
+Iteration Number: 265
+[3,   266] loss: 0.476 | Train Acc: 88.000
+Iteration Number: 266
+[3,   267] loss: 0.634 | Train Acc: 78.000
+Iteration Number: 267
+[3,   268] loss: 0.471 | Train Acc: 88.000
+Iteration Number: 268
+[3,   269] loss: 0.635 | Train Acc: 81.000
+Iteration Number: 269
+[3,   270] loss: 0.610 | Train Acc: 81.000
+Iteration Number: 270
+[3,   271] loss: 0.497 | Train Acc: 84.000
+Iteration Number: 271
+[3,   272] loss: 0.519 | Train Acc: 84.000
+Iteration Number: 272
+[3,   273] loss: 0.502 | Train Acc: 88.000
+Iteration Number: 273
+[3,   274] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 274
+[3,   275] loss: 0.697 | Train Acc: 78.000
+Iteration Number: 275
+[3,   276] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 276
+[3,   277] loss: 0.427 | Train Acc: 88.000
+Iteration Number: 277
+[3,   278] loss: 0.583 | Train Acc: 81.000
+Iteration Number: 278
+[3,   279] loss: 0.560 | Train Acc: 81.000
+Iteration Number: 279
+[3,   280] loss: 0.636 | Train Acc: 81.000
+Iteration Number: 280
+[3,   281] loss: 0.469 | Train Acc: 88.000
+Iteration Number: 281
+[3,   282] loss: 0.580 | Train Acc: 81.000
+Iteration Number: 282
+[3,   283] loss: 0.946 | Train Acc: 69.000
+Iteration Number: 283
+[3,   284] loss: 0.747 | Train Acc: 78.000
+Iteration Number: 284
+[3,   285] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 285
+[3,   286] loss: 1.242 | Train Acc: 56.000
+Iteration Number: 286
+[3,   287] loss: 0.481 | Train Acc: 88.000
+Iteration Number: 287
+[3,   288] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 288
+[3,   289] loss: 0.764 | Train Acc: 75.000
+Iteration Number: 289
+[3,   290] loss: 0.412 | Train Acc: 91.000
+Iteration Number: 290
+[3,   291] loss: 0.773 | Train Acc: 72.000
+Iteration Number: 291
+[3,   292] loss: 0.717 | Train Acc: 75.000
+Iteration Number: 292
+[3,   293] loss: 0.656 | Train Acc: 78.000
+Iteration Number: 293
+[3,   294] loss: 0.624 | Train Acc: 81.000
+Iteration Number: 294
+[3,   295] loss: 0.969 | Train Acc: 59.000
+Iteration Number: 295
+[3,   296] loss: 0.487 | Train Acc: 88.000
+Iteration Number: 296
+[3,   297] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 297
+[3,   298] loss: 0.580 | Train Acc: 84.000
+Iteration Number: 298
+[3,   299] loss: 0.511 | Train Acc: 88.000
+Iteration Number: 299
+[3,   300] loss: 0.729 | Train Acc: 75.000
+Iteration Number: 300
+[3,   301] loss: 0.661 | Train Acc: 78.000
+Iteration Number: 301
+[3,   302] loss: 0.589 | Train Acc: 81.000
+Iteration Number: 302
+[3,   303] loss: 0.640 | Train Acc: 78.000
+Iteration Number: 303
+[3,   304] loss: 0.742 | Train Acc: 72.000
+Iteration Number: 304
+[3,   305] loss: 0.574 | Train Acc: 84.000
+Iteration Number: 305
+[3,   306] loss: 0.433 | Train Acc: 91.000
+Iteration Number: 306
+[3,   307] loss: 0.535 | Train Acc: 84.000
+Iteration Number: 307
+[3,   308] loss: 0.457 | Train Acc: 88.000
+Iteration Number: 308
+[3,   309] loss: 0.496 | Train Acc: 88.000
+Iteration Number: 309
+[3,   310] loss: 0.450 | Train Acc: 88.000
+Iteration Number: 310
+[3,   311] loss: 0.445 | Train Acc: 88.000
+Iteration Number: 311
+[3,   312] loss: 0.776 | Train Acc: 72.000
+Iteration Number: 312
+[3,   313] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 313
+Epoch Number: 3
+Iteration Number: 0
+[4,     1] loss: 0.664 | Train Acc: 78.000
+Iteration Number: 1
+[4,     2] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 2
+[4,     3] loss: 0.577 | Train Acc: 81.000
+Iteration Number: 3
+[4,     4] loss: 0.568 | Train Acc: 84.000
+Iteration Number: 4
+[4,     5] loss: 0.516 | Train Acc: 84.000
+Iteration Number: 5
+[4,     6] loss: 0.780 | Train Acc: 75.000
+Iteration Number: 6
+[4,     7] loss: 0.517 | Train Acc: 84.000
+Iteration Number: 7
+[4,     8] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 8
+[4,     9] loss: 0.613 | Train Acc: 81.000
+Iteration Number: 9
+[4,    10] loss: 0.877 | Train Acc: 72.000
+Iteration Number: 10
+[4,    11] loss: 0.237 | Train Acc: 97.000
+Iteration Number: 11
+[4,    12] loss: 0.533 | Train Acc: 88.000
+Iteration Number: 12
+[4,    13] loss: 0.304 | Train Acc: 94.000
+Iteration Number: 13
+[4,    14] loss: 0.783 | Train Acc: 75.000
+Iteration Number: 14
+[4,    15] loss: 0.348 | Train Acc: 94.000
+Iteration Number: 15
+[4,    16] loss: 0.612 | Train Acc: 81.000
+Iteration Number: 16
+[4,    17] loss: 0.737 | Train Acc: 75.000
+Iteration Number: 17
+[4,    18] loss: 0.648 | Train Acc: 78.000
+Iteration Number: 18
+[4,    19] loss: 0.826 | Train Acc: 72.000
+Iteration Number: 19
+[4,    20] loss: 0.538 | Train Acc: 84.000
+Iteration Number: 20
+[4,    21] loss: 0.950 | Train Acc: 69.000
+Iteration Number: 21
+[4,    22] loss: 0.901 | Train Acc: 69.000
+Iteration Number: 22
+[4,    23] loss: 0.518 | Train Acc: 84.000
+Iteration Number: 23
+[4,    24] loss: 0.622 | Train Acc: 78.000
+Iteration Number: 24
+[4,    25] loss: 0.319 | Train Acc: 94.000
+Iteration Number: 25
+[4,    26] loss: 0.604 | Train Acc: 81.000
+Iteration Number: 26
+[4,    27] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 27
+[4,    28] loss: 0.720 | Train Acc: 78.000
+Iteration Number: 28
+[4,    29] loss: 0.454 | Train Acc: 91.000
+Iteration Number: 29
+[4,    30] loss: 0.412 | Train Acc: 91.000
+Iteration Number: 30
+[4,    31] loss: 0.354 | Train Acc: 94.000
+Iteration Number: 31
+[4,    32] loss: 0.544 | Train Acc: 84.000
+Iteration Number: 32
+[4,    33] loss: 0.525 | Train Acc: 84.000
+Iteration Number: 33
+[4,    34] loss: 0.617 | Train Acc: 81.000
+Iteration Number: 34
+[4,    35] loss: 0.599 | Train Acc: 81.000
+Iteration Number: 35
+[4,    36] loss: 0.661 | Train Acc: 78.000
+Iteration Number: 36
+[4,    37] loss: 0.343 | Train Acc: 94.000
+Iteration Number: 37
+[4,    38] loss: 0.444 | Train Acc: 88.000
+Iteration Number: 38
+[4,    39] loss: 0.637 | Train Acc: 78.000
+Iteration Number: 39
+[4,    40] loss: 0.604 | Train Acc: 81.000
+Iteration Number: 40
+[4,    41] loss: 0.443 | Train Acc: 88.000
+Iteration Number: 41
+[4,    42] loss: 0.394 | Train Acc: 91.000
+Iteration Number: 42
+[4,    43] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 43
+[4,    44] loss: 0.670 | Train Acc: 78.000
+Iteration Number: 44
+[4,    45] loss: 0.624 | Train Acc: 81.000
+Iteration Number: 45
+[4,    46] loss: 0.676 | Train Acc: 78.000
+Iteration Number: 46
+[4,    47] loss: 0.712 | Train Acc: 78.000
+Iteration Number: 47
+[4,    48] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 48
+[4,    49] loss: 0.512 | Train Acc: 88.000
+Iteration Number: 49
+[4,    50] loss: 0.523 | Train Acc: 84.000
+Iteration Number: 50
+[4,    51] loss: 0.556 | Train Acc: 84.000
+Iteration Number: 51
+[4,    52] loss: 0.715 | Train Acc: 75.000
+Iteration Number: 52
+[4,    53] loss: 0.581 | Train Acc: 81.000
+Iteration Number: 53
+[4,    54] loss: 0.586 | Train Acc: 81.000
+Iteration Number: 54
+[4,    55] loss: 0.664 | Train Acc: 78.000
+Iteration Number: 55
+[4,    56] loss: 0.684 | Train Acc: 78.000
+Iteration Number: 56
+[4,    57] loss: 0.666 | Train Acc: 78.000
+Iteration Number: 57
+[4,    58] loss: 0.763 | Train Acc: 75.000
+Iteration Number: 58
+[4,    59] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 59
+[4,    60] loss: 0.402 | Train Acc: 91.000
+Iteration Number: 60
+[4,    61] loss: 0.758 | Train Acc: 75.000
+Iteration Number: 61
+[4,    62] loss: 0.740 | Train Acc: 75.000
+Iteration Number: 62
+[4,    63] loss: 0.643 | Train Acc: 81.000
+Iteration Number: 63
+[4,    64] loss: 0.794 | Train Acc: 72.000
+Iteration Number: 64
+[4,    65] loss: 0.334 | Train Acc: 94.000
+Iteration Number: 65
+[4,    66] loss: 0.720 | Train Acc: 75.000
+Iteration Number: 66
+[4,    67] loss: 0.548 | Train Acc: 84.000
+Iteration Number: 67
+[4,    68] loss: 0.414 | Train Acc: 91.000
+Iteration Number: 68
+[4,    69] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 69
+[4,    70] loss: 0.600 | Train Acc: 81.000
+Iteration Number: 70
+[4,    71] loss: 0.676 | Train Acc: 78.000
+Iteration Number: 71
+[4,    72] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 72
+[4,    73] loss: 0.929 | Train Acc: 66.000
+Iteration Number: 73
+[4,    74] loss: 1.026 | Train Acc: 62.000
+Iteration Number: 74
+[4,    75] loss: 0.715 | Train Acc: 75.000
+Iteration Number: 75
+[4,    76] loss: 0.737 | Train Acc: 75.000
+Iteration Number: 76
+[4,    77] loss: 0.305 | Train Acc: 97.000
+Iteration Number: 77
+[4,    78] loss: 0.551 | Train Acc: 84.000
+Iteration Number: 78
+[4,    79] loss: 0.476 | Train Acc: 88.000
+Iteration Number: 79
+[4,    80] loss: 0.712 | Train Acc: 78.000
+Iteration Number: 80
+[4,    81] loss: 0.617 | Train Acc: 81.000
+Iteration Number: 81
+[4,    82] loss: 0.692 | Train Acc: 78.000
+Iteration Number: 82
+[4,    83] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 83
+[4,    84] loss: 0.634 | Train Acc: 81.000
+Iteration Number: 84
+[4,    85] loss: 0.865 | Train Acc: 69.000
+Iteration Number: 85
+[4,    86] loss: 0.907 | Train Acc: 66.000
+Iteration Number: 86
+[4,    87] loss: 0.430 | Train Acc: 91.000
+Iteration Number: 87
+[4,    88] loss: 0.733 | Train Acc: 75.000
+Iteration Number: 88
+[4,    89] loss: 0.363 | Train Acc: 94.000
+Iteration Number: 89
+[4,    90] loss: 0.744 | Train Acc: 75.000
+Iteration Number: 90
+[4,    91] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 91
+[4,    92] loss: 0.536 | Train Acc: 84.000
+Iteration Number: 92
+[4,    93] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 93
+[4,    94] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 94
+[4,    95] loss: 0.487 | Train Acc: 88.000
+Iteration Number: 95
+[4,    96] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 96
+[4,    97] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 97
+[4,    98] loss: 0.476 | Train Acc: 88.000
+Iteration Number: 98
+[4,    99] loss: 0.471 | Train Acc: 88.000
+Iteration Number: 99
+[4,   100] loss: 0.538 | Train Acc: 84.000
+Iteration Number: 100
+[4,   101] loss: 0.530 | Train Acc: 84.000
+Iteration Number: 101
+[4,   102] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 102
+[4,   103] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 103
+[4,   104] loss: 0.463 | Train Acc: 88.000
+Iteration Number: 104
+[4,   105] loss: 0.318 | Train Acc: 94.000
+Iteration Number: 105
+[4,   106] loss: 0.669 | Train Acc: 78.000
+Iteration Number: 106
+[4,   107] loss: 0.467 | Train Acc: 88.000
+Iteration Number: 107
+[4,   108] loss: 0.704 | Train Acc: 78.000
+Iteration Number: 108
+[4,   109] loss: 0.608 | Train Acc: 81.000
+Iteration Number: 109
+[4,   110] loss: 0.609 | Train Acc: 81.000
+Iteration Number: 110
+[4,   111] loss: 0.455 | Train Acc: 88.000
+Iteration Number: 111
+[4,   112] loss: 0.607 | Train Acc: 81.000
+Iteration Number: 112
+[4,   113] loss: 0.774 | Train Acc: 75.000
+Iteration Number: 113
+[4,   114] loss: 0.618 | Train Acc: 81.000
+Iteration Number: 114
+[4,   115] loss: 0.619 | Train Acc: 81.000
+Iteration Number: 115
+[4,   116] loss: 0.569 | Train Acc: 84.000
+Iteration Number: 116
+[4,   117] loss: 0.679 | Train Acc: 78.000
+Iteration Number: 117
+[4,   118] loss: 0.821 | Train Acc: 72.000
+Iteration Number: 118
+[4,   119] loss: 0.443 | Train Acc: 88.000
+Iteration Number: 119
+[4,   120] loss: 0.750 | Train Acc: 75.000
+Iteration Number: 120
+[4,   121] loss: 0.331 | Train Acc: 94.000
+Iteration Number: 121
+[4,   122] loss: 0.807 | Train Acc: 72.000
+Iteration Number: 122
+[4,   123] loss: 1.115 | Train Acc: 59.000
+Iteration Number: 123
+[4,   124] loss: 0.559 | Train Acc: 84.000
+Iteration Number: 124
+[4,   125] loss: 0.653 | Train Acc: 78.000
+Iteration Number: 125
+[4,   126] loss: 0.407 | Train Acc: 91.000
+Iteration Number: 126
+[4,   127] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 127
+[4,   128] loss: 0.297 | Train Acc: 97.000
+Iteration Number: 128
+[4,   129] loss: 0.527 | Train Acc: 84.000
+Iteration Number: 129
+[4,   130] loss: 0.338 | Train Acc: 94.000
+Iteration Number: 130
+[4,   131] loss: 0.482 | Train Acc: 88.000
+Iteration Number: 131
+[4,   132] loss: 0.690 | Train Acc: 78.000
+Iteration Number: 132
+[4,   133] loss: 0.266 | Train Acc: 97.000
+Iteration Number: 133
+[4,   134] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 134
+[4,   135] loss: 0.640 | Train Acc: 78.000
+Iteration Number: 135
+[4,   136] loss: 0.522 | Train Acc: 84.000
+Iteration Number: 136
+[4,   137] loss: 0.555 | Train Acc: 84.000
+Iteration Number: 137
+[4,   138] loss: 0.478 | Train Acc: 88.000
+Iteration Number: 138
+[4,   139] loss: 0.728 | Train Acc: 75.000
+Iteration Number: 139
+[4,   140] loss: 0.636 | Train Acc: 81.000
+Iteration Number: 140
+[4,   141] loss: 0.411 | Train Acc: 91.000
+Iteration Number: 141
+[4,   142] loss: 0.688 | Train Acc: 78.000
+Iteration Number: 142
+[4,   143] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 143
+[4,   144] loss: 0.535 | Train Acc: 84.000
+Iteration Number: 144
+[4,   145] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 145
+[4,   146] loss: 0.628 | Train Acc: 81.000
+Iteration Number: 146
+[4,   147] loss: 0.950 | Train Acc: 66.000
+Iteration Number: 147
+[4,   148] loss: 0.702 | Train Acc: 78.000
+Iteration Number: 148
+[4,   149] loss: 0.431 | Train Acc: 91.000
+Iteration Number: 149
+[4,   150] loss: 0.638 | Train Acc: 81.000
+Iteration Number: 150
+[4,   151] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 151
+[4,   152] loss: 0.667 | Train Acc: 78.000
+Iteration Number: 152
+[4,   153] loss: 0.782 | Train Acc: 75.000
+Iteration Number: 153
+[4,   154] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 154
+[4,   155] loss: 0.583 | Train Acc: 81.000
+Iteration Number: 155
+[4,   156] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 156
+[4,   157] loss: 0.622 | Train Acc: 81.000
+Iteration Number: 157
+[4,   158] loss: 0.532 | Train Acc: 84.000
+Iteration Number: 158
+[4,   159] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 159
+[4,   160] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 160
+[4,   161] loss: 0.395 | Train Acc: 91.000
+Iteration Number: 161
+[4,   162] loss: 0.741 | Train Acc: 75.000
+Iteration Number: 162
+[4,   163] loss: 0.471 | Train Acc: 88.000
+Iteration Number: 163
+[4,   164] loss: 0.605 | Train Acc: 81.000
+Iteration Number: 164
+[4,   165] loss: 0.673 | Train Acc: 78.000
+Iteration Number: 165
+[4,   166] loss: 0.812 | Train Acc: 72.000
+Iteration Number: 166
+[4,   167] loss: 0.666 | Train Acc: 78.000
+Iteration Number: 167
+[4,   168] loss: 0.486 | Train Acc: 88.000
+Iteration Number: 168
+[4,   169] loss: 0.414 | Train Acc: 91.000
+Iteration Number: 169
+[4,   170] loss: 0.460 | Train Acc: 88.000
+Iteration Number: 170
+[4,   171] loss: 0.794 | Train Acc: 72.000
+Iteration Number: 171
+[4,   172] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 172
+[4,   173] loss: 0.514 | Train Acc: 84.000
+Iteration Number: 173
+[4,   174] loss: 0.477 | Train Acc: 88.000
+Iteration Number: 174
+[4,   175] loss: 0.615 | Train Acc: 81.000
+Iteration Number: 175
+[4,   176] loss: 0.555 | Train Acc: 84.000
+Iteration Number: 176
+[4,   177] loss: 0.567 | Train Acc: 84.000
+Iteration Number: 177
+[4,   178] loss: 0.600 | Train Acc: 81.000
+Iteration Number: 178
+[4,   179] loss: 0.267 | Train Acc: 97.000
+Iteration Number: 179
+[4,   180] loss: 0.459 | Train Acc: 88.000
+Iteration Number: 180
+[4,   181] loss: 0.688 | Train Acc: 78.000
+Iteration Number: 181
+[4,   182] loss: 0.529 | Train Acc: 84.000
+Iteration Number: 182
+[4,   183] loss: 0.586 | Train Acc: 81.000
+Iteration Number: 183
+[4,   184] loss: 0.371 | Train Acc: 91.000
+Iteration Number: 184
+[4,   185] loss: 0.527 | Train Acc: 84.000
+Iteration Number: 185
+[4,   186] loss: 0.552 | Train Acc: 84.000
+Iteration Number: 186
+[4,   187] loss: 0.371 | Train Acc: 91.000
+Iteration Number: 187
+[4,   188] loss: 0.506 | Train Acc: 84.000
+Iteration Number: 188
+[4,   189] loss: 0.395 | Train Acc: 91.000
+Iteration Number: 189
+[4,   190] loss: 0.558 | Train Acc: 84.000
+Iteration Number: 190
+[4,   191] loss: 0.599 | Train Acc: 81.000
+Iteration Number: 191
+[4,   192] loss: 0.546 | Train Acc: 84.000
+Iteration Number: 192
+[4,   193] loss: 0.583 | Train Acc: 81.000
+Iteration Number: 193
+[4,   194] loss: 0.691 | Train Acc: 78.000
+Iteration Number: 194
+[4,   195] loss: 0.600 | Train Acc: 81.000
+Iteration Number: 195
+[4,   196] loss: 0.657 | Train Acc: 81.000
+Iteration Number: 196
+[4,   197] loss: 0.864 | Train Acc: 69.000
+Iteration Number: 197
+[4,   198] loss: 0.432 | Train Acc: 88.000
+Iteration Number: 198
+[4,   199] loss: 0.421 | Train Acc: 88.000
+Iteration Number: 199
+[4,   200] loss: 0.381 | Train Acc: 91.000
+Iteration Number: 200
+[4,   201] loss: 0.364 | Train Acc: 91.000
+Iteration Number: 201
+[4,   202] loss: 0.417 | Train Acc: 91.000
+Iteration Number: 202
+[4,   203] loss: 0.468 | Train Acc: 88.000
+Iteration Number: 203
+[4,   204] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 204
+[4,   205] loss: 0.266 | Train Acc: 97.000
+Iteration Number: 205
+[4,   206] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 206
+[4,   207] loss: 0.795 | Train Acc: 75.000
+Iteration Number: 207
+[4,   208] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 208
+[4,   209] loss: 0.667 | Train Acc: 78.000
+Iteration Number: 209
+[4,   210] loss: 0.478 | Train Acc: 88.000
+Iteration Number: 210
+[4,   211] loss: 0.429 | Train Acc: 88.000
+Iteration Number: 211
+[4,   212] loss: 0.840 | Train Acc: 72.000
+Iteration Number: 212
+[4,   213] loss: 0.661 | Train Acc: 78.000
+Iteration Number: 213
+[4,   214] loss: 0.831 | Train Acc: 72.000
+Iteration Number: 214
+[4,   215] loss: 0.414 | Train Acc: 91.000
+Iteration Number: 215
+[4,   216] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 216
+[4,   217] loss: 0.897 | Train Acc: 69.000
+Iteration Number: 217
+[4,   218] loss: 0.455 | Train Acc: 88.000
+Iteration Number: 218
+[4,   219] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 219
+[4,   220] loss: 0.462 | Train Acc: 88.000
+Iteration Number: 220
+[4,   221] loss: 0.591 | Train Acc: 78.000
+Iteration Number: 221
+[4,   222] loss: 0.664 | Train Acc: 78.000
+Iteration Number: 222
+[4,   223] loss: 0.487 | Train Acc: 88.000
+Iteration Number: 223
+[4,   224] loss: 0.336 | Train Acc: 94.000
+Iteration Number: 224
+[4,   225] loss: 0.912 | Train Acc: 66.000
+Iteration Number: 225
+[4,   226] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 226
+[4,   227] loss: 0.500 | Train Acc: 84.000
+Iteration Number: 227
+[4,   228] loss: 0.591 | Train Acc: 81.000
+Iteration Number: 228
+[4,   229] loss: 0.660 | Train Acc: 78.000
+Iteration Number: 229
+[4,   230] loss: 0.593 | Train Acc: 81.000
+Iteration Number: 230
+[4,   231] loss: 0.519 | Train Acc: 88.000
+Iteration Number: 231
+[4,   232] loss: 0.783 | Train Acc: 72.000
+Iteration Number: 232
+[4,   233] loss: 0.715 | Train Acc: 78.000
+Iteration Number: 233
+[4,   234] loss: 0.724 | Train Acc: 75.000
+Iteration Number: 234
+[4,   235] loss: 0.709 | Train Acc: 75.000
+Iteration Number: 235
+[4,   236] loss: 0.666 | Train Acc: 78.000
+Iteration Number: 236
+[4,   237] loss: 0.492 | Train Acc: 88.000
+Iteration Number: 237
+[4,   238] loss: 0.492 | Train Acc: 84.000
+Iteration Number: 238
+[4,   239] loss: 0.596 | Train Acc: 81.000
+Iteration Number: 239
+[4,   240] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 240
+[4,   241] loss: 0.845 | Train Acc: 75.000
+Iteration Number: 241
+[4,   242] loss: 0.785 | Train Acc: 72.000
+Iteration Number: 242
+[4,   243] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 243
+[4,   244] loss: 0.769 | Train Acc: 72.000
+Iteration Number: 244
+[4,   245] loss: 0.712 | Train Acc: 75.000
+Iteration Number: 245
+[4,   246] loss: 0.714 | Train Acc: 75.000
+Iteration Number: 246
+[4,   247] loss: 0.366 | Train Acc: 94.000
+Iteration Number: 247
+[4,   248] loss: 0.832 | Train Acc: 72.000
+Iteration Number: 248
+[4,   249] loss: 0.346 | Train Acc: 94.000
+Iteration Number: 249
+[4,   250] loss: 0.657 | Train Acc: 78.000
+Iteration Number: 250
+[4,   251] loss: 0.422 | Train Acc: 91.000
+Iteration Number: 251
+[4,   252] loss: 0.549 | Train Acc: 84.000
+Iteration Number: 252
+[4,   253] loss: 0.448 | Train Acc: 88.000
+Iteration Number: 253
+[4,   254] loss: 0.493 | Train Acc: 88.000
+Iteration Number: 254
+[4,   255] loss: 0.714 | Train Acc: 75.000
+Iteration Number: 255
+[4,   256] loss: 0.389 | Train Acc: 91.000
+Iteration Number: 256
+[4,   257] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 257
+[4,   258] loss: 0.405 | Train Acc: 91.000
+Iteration Number: 258
+[4,   259] loss: 0.439 | Train Acc: 88.000
+Iteration Number: 259
+[4,   260] loss: 0.556 | Train Acc: 81.000
+Iteration Number: 260
+[4,   261] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 261
+[4,   262] loss: 0.393 | Train Acc: 91.000
+Iteration Number: 262
+[4,   263] loss: 0.922 | Train Acc: 69.000
+Iteration Number: 263
+[4,   264] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 264
+[4,   265] loss: 0.327 | Train Acc: 94.000
+Iteration Number: 265
+[4,   266] loss: 0.477 | Train Acc: 88.000
+Iteration Number: 266
+[4,   267] loss: 0.625 | Train Acc: 78.000
+Iteration Number: 267
+[4,   268] loss: 0.473 | Train Acc: 88.000
+Iteration Number: 268
+[4,   269] loss: 0.636 | Train Acc: 81.000
+Iteration Number: 269
+[4,   270] loss: 0.604 | Train Acc: 81.000
+Iteration Number: 270
+[4,   271] loss: 0.499 | Train Acc: 84.000
+Iteration Number: 271
+[4,   272] loss: 0.520 | Train Acc: 84.000
+Iteration Number: 272
+[4,   273] loss: 0.503 | Train Acc: 88.000
+Iteration Number: 273
+[4,   274] loss: 0.452 | Train Acc: 88.000
+Iteration Number: 274
+[4,   275] loss: 0.700 | Train Acc: 78.000
+Iteration Number: 275
+[4,   276] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 276
+[4,   277] loss: 0.428 | Train Acc: 88.000
+Iteration Number: 277
+[4,   278] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 278
+[4,   279] loss: 0.562 | Train Acc: 81.000
+Iteration Number: 279
+[4,   280] loss: 0.631 | Train Acc: 81.000
+Iteration Number: 280
+[4,   281] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 281
+[4,   282] loss: 0.581 | Train Acc: 81.000
+Iteration Number: 282
+[4,   283] loss: 0.939 | Train Acc: 69.000
+Iteration Number: 283
+[4,   284] loss: 0.743 | Train Acc: 78.000
+Iteration Number: 284
+[4,   285] loss: 0.608 | Train Acc: 81.000
+Iteration Number: 285
+[4,   286] loss: 1.256 | Train Acc: 56.000
+Iteration Number: 286
+[4,   287] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 287
+[4,   288] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 288
+[4,   289] loss: 0.769 | Train Acc: 75.000
+Iteration Number: 289
+[4,   290] loss: 0.403 | Train Acc: 91.000
+Iteration Number: 290
+[4,   291] loss: 0.777 | Train Acc: 72.000
+Iteration Number: 291
+[4,   292] loss: 0.717 | Train Acc: 75.000
+Iteration Number: 292
+[4,   293] loss: 0.659 | Train Acc: 78.000
+Iteration Number: 293
+[4,   294] loss: 0.623 | Train Acc: 81.000
+Iteration Number: 294
+[4,   295] loss: 0.986 | Train Acc: 59.000
+Iteration Number: 295
+[4,   296] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 296
+[4,   297] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 297
+[4,   298] loss: 0.576 | Train Acc: 84.000
+Iteration Number: 298
+[4,   299] loss: 0.505 | Train Acc: 88.000
+Iteration Number: 299
+[4,   300] loss: 0.730 | Train Acc: 75.000
+Iteration Number: 300
+[4,   301] loss: 0.658 | Train Acc: 78.000
+Iteration Number: 301
+[4,   302] loss: 0.588 | Train Acc: 81.000
+Iteration Number: 302
+[4,   303] loss: 0.639 | Train Acc: 78.000
+Iteration Number: 303
+[4,   304] loss: 0.741 | Train Acc: 72.000
+Iteration Number: 304
+[4,   305] loss: 0.577 | Train Acc: 84.000
+Iteration Number: 305
+[4,   306] loss: 0.434 | Train Acc: 91.000
+Iteration Number: 306
+[4,   307] loss: 0.534 | Train Acc: 84.000
+Iteration Number: 307
+[4,   308] loss: 0.460 | Train Acc: 88.000
+Iteration Number: 308
+[4,   309] loss: 0.499 | Train Acc: 88.000
+Iteration Number: 309
+[4,   310] loss: 0.453 | Train Acc: 88.000
+Iteration Number: 310
+[4,   311] loss: 0.449 | Train Acc: 88.000
+Iteration Number: 311
+[4,   312] loss: 0.771 | Train Acc: 72.000
+Iteration Number: 312
+[4,   313] loss: 0.523 | Train Acc: 84.000
+Iteration Number: 313
+Epoch Number: 4
+Iteration Number: 0
+[5,     1] loss: 0.661 | Train Acc: 78.000
+Iteration Number: 1
+[5,     2] loss: 0.544 | Train Acc: 84.000
+Iteration Number: 2
+[5,     3] loss: 0.578 | Train Acc: 81.000
+Iteration Number: 3
+[5,     4] loss: 0.568 | Train Acc: 84.000
+Iteration Number: 4
+[5,     5] loss: 0.518 | Train Acc: 84.000
+Iteration Number: 5
+[5,     6] loss: 0.775 | Train Acc: 75.000
+Iteration Number: 6
+[5,     7] loss: 0.517 | Train Acc: 84.000
+Iteration Number: 7
+[5,     8] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 8
+[5,     9] loss: 0.604 | Train Acc: 81.000
+Iteration Number: 9
+[5,    10] loss: 0.867 | Train Acc: 72.000
+Iteration Number: 10
+[5,    11] loss: 0.245 | Train Acc: 97.000
+Iteration Number: 11
+[5,    12] loss: 0.532 | Train Acc: 88.000
+Iteration Number: 12
+[5,    13] loss: 0.304 | Train Acc: 94.000
+Iteration Number: 13
+[5,    14] loss: 0.780 | Train Acc: 75.000
+Iteration Number: 14
+[5,    15] loss: 0.349 | Train Acc: 94.000
+Iteration Number: 15
+[5,    16] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 16
+[5,    17] loss: 0.737 | Train Acc: 75.000
+Iteration Number: 17
+[5,    18] loss: 0.651 | Train Acc: 78.000
+Iteration Number: 18
+[5,    19] loss: 0.825 | Train Acc: 72.000
+Iteration Number: 19
+[5,    20] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 20
+[5,    21] loss: 0.950 | Train Acc: 69.000
+Iteration Number: 21
+[5,    22] loss: 0.904 | Train Acc: 69.000
+Iteration Number: 22
+[5,    23] loss: 0.520 | Train Acc: 84.000
+Iteration Number: 23
+[5,    24] loss: 0.626 | Train Acc: 78.000
+Iteration Number: 24
+[5,    25] loss: 0.317 | Train Acc: 94.000
+Iteration Number: 25
+[5,    26] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 26
+[5,    27] loss: 0.722 | Train Acc: 75.000
+Iteration Number: 27
+[5,    28] loss: 0.723 | Train Acc: 78.000
+Iteration Number: 28
+[5,    29] loss: 0.447 | Train Acc: 91.000
+Iteration Number: 29
+[5,    30] loss: 0.407 | Train Acc: 91.000
+Iteration Number: 30
+[5,    31] loss: 0.349 | Train Acc: 94.000
+Iteration Number: 31
+[5,    32] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 32
+[5,    33] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 33
+[5,    34] loss: 0.620 | Train Acc: 81.000
+Iteration Number: 34
+[5,    35] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 35
+[5,    36] loss: 0.664 | Train Acc: 78.000
+Iteration Number: 36
+[5,    37] loss: 0.339 | Train Acc: 94.000
+Iteration Number: 37
+[5,    38] loss: 0.445 | Train Acc: 88.000
+Iteration Number: 38
+[5,    39] loss: 0.633 | Train Acc: 78.000
+Iteration Number: 39
+[5,    40] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 40
+[5,    41] loss: 0.442 | Train Acc: 88.000
+Iteration Number: 41
+[5,    42] loss: 0.395 | Train Acc: 91.000
+Iteration Number: 42
+[5,    43] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 43
+[5,    44] loss: 0.668 | Train Acc: 78.000
+Iteration Number: 44
+[5,    45] loss: 0.623 | Train Acc: 81.000
+Iteration Number: 45
+[5,    46] loss: 0.669 | Train Acc: 78.000
+Iteration Number: 46
+[5,    47] loss: 0.708 | Train Acc: 78.000
+Iteration Number: 47
+[5,    48] loss: 0.689 | Train Acc: 78.000
+Iteration Number: 48
+[5,    49] loss: 0.515 | Train Acc: 88.000
+Iteration Number: 49
+[5,    50] loss: 0.520 | Train Acc: 84.000
+Iteration Number: 50
+[5,    51] loss: 0.559 | Train Acc: 84.000
+Iteration Number: 51
+[5,    52] loss: 0.714 | Train Acc: 75.000
+Iteration Number: 52
+[5,    53] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 53
+[5,    54] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 54
+[5,    55] loss: 0.667 | Train Acc: 78.000
+Iteration Number: 55
+[5,    56] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 56
+[5,    57] loss: 0.665 | Train Acc: 78.000
+Iteration Number: 57
+[5,    58] loss: 0.765 | Train Acc: 75.000
+Iteration Number: 58
+[5,    59] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 59
+[5,    60] loss: 0.403 | Train Acc: 91.000
+Iteration Number: 60
+[5,    61] loss: 0.761 | Train Acc: 75.000
+Iteration Number: 61
+[5,    62] loss: 0.740 | Train Acc: 75.000
+Iteration Number: 62
+[5,    63] loss: 0.642 | Train Acc: 81.000
+Iteration Number: 63
+[5,    64] loss: 0.796 | Train Acc: 72.000
+Iteration Number: 64
+[5,    65] loss: 0.334 | Train Acc: 94.000
+Iteration Number: 65
+[5,    66] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 66
+[5,    67] loss: 0.546 | Train Acc: 84.000
+Iteration Number: 67
+[5,    68] loss: 0.414 | Train Acc: 91.000
+Iteration Number: 68
+[5,    69] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 69
+[5,    70] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 70
+[5,    71] loss: 0.679 | Train Acc: 78.000
+Iteration Number: 71
+[5,    72] loss: 0.563 | Train Acc: 84.000
+Iteration Number: 72
+[5,    73] loss: 0.930 | Train Acc: 66.000
+Iteration Number: 73
+[5,    74] loss: 1.025 | Train Acc: 62.000
+Iteration Number: 74
+[5,    75] loss: 0.718 | Train Acc: 75.000
+Iteration Number: 75
+[5,    76] loss: 0.735 | Train Acc: 75.000
+Iteration Number: 76
+[5,    77] loss: 0.305 | Train Acc: 97.000
+Iteration Number: 77
+[5,    78] loss: 0.548 | Train Acc: 84.000
+Iteration Number: 78
+[5,    79] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 79
+[5,    80] loss: 0.711 | Train Acc: 78.000
+Iteration Number: 80
+[5,    81] loss: 0.620 | Train Acc: 81.000
+Iteration Number: 81
+[5,    82] loss: 0.692 | Train Acc: 78.000
+Iteration Number: 82
+[5,    83] loss: 0.749 | Train Acc: 75.000
+Iteration Number: 83
+[5,    84] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 84
+[5,    85] loss: 0.865 | Train Acc: 69.000
+Iteration Number: 85
+[5,    86] loss: 0.910 | Train Acc: 66.000
+Iteration Number: 86
+[5,    87] loss: 0.431 | Train Acc: 91.000
+Iteration Number: 87
+[5,    88] loss: 0.733 | Train Acc: 75.000
+Iteration Number: 88
+[5,    89] loss: 0.364 | Train Acc: 94.000
+Iteration Number: 89
+[5,    90] loss: 0.743 | Train Acc: 75.000
+Iteration Number: 90
+[5,    91] loss: 0.480 | Train Acc: 88.000
+Iteration Number: 91
+[5,    92] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 92
+[5,    93] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 93
+[5,    94] loss: 0.469 | Train Acc: 88.000
+Iteration Number: 94
+[5,    95] loss: 0.485 | Train Acc: 88.000
+Iteration Number: 95
+[5,    96] loss: 0.685 | Train Acc: 78.000
+Iteration Number: 96
+[5,    97] loss: 0.748 | Train Acc: 75.000
+Iteration Number: 97
+[5,    98] loss: 0.480 | Train Acc: 88.000
+Iteration Number: 98
+[5,    99] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 99
+[5,   100] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 100
+[5,   101] loss: 0.532 | Train Acc: 84.000
+Iteration Number: 101
+[5,   102] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 102
+[5,   103] loss: 0.540 | Train Acc: 84.000
+Iteration Number: 103
+[5,   104] loss: 0.463 | Train Acc: 88.000
+Iteration Number: 104
+[5,   105] loss: 0.317 | Train Acc: 94.000
+Iteration Number: 105
+[5,   106] loss: 0.665 | Train Acc: 78.000
+Iteration Number: 106
+[5,   107] loss: 0.470 | Train Acc: 88.000
+Iteration Number: 107
+[5,   108] loss: 0.699 | Train Acc: 78.000
+Iteration Number: 108
+[5,   109] loss: 0.608 | Train Acc: 81.000
+Iteration Number: 109
+[5,   110] loss: 0.608 | Train Acc: 81.000
+Iteration Number: 110
+[5,   111] loss: 0.457 | Train Acc: 88.000
+Iteration Number: 111
+[5,   112] loss: 0.608 | Train Acc: 81.000
+Iteration Number: 112
+[5,   113] loss: 0.774 | Train Acc: 75.000
+Iteration Number: 113
+[5,   114] loss: 0.621 | Train Acc: 81.000
+Iteration Number: 114
+[5,   115] loss: 0.621 | Train Acc: 81.000
+Iteration Number: 115
+[5,   116] loss: 0.567 | Train Acc: 84.000
+Iteration Number: 116
+[5,   117] loss: 0.675 | Train Acc: 78.000
+Iteration Number: 117
+[5,   118] loss: 0.823 | Train Acc: 72.000
+Iteration Number: 118
+[5,   119] loss: 0.444 | Train Acc: 88.000
+Iteration Number: 119
+[5,   120] loss: 0.751 | Train Acc: 75.000
+Iteration Number: 120
+[5,   121] loss: 0.329 | Train Acc: 94.000
+Iteration Number: 121
+[5,   122] loss: 0.813 | Train Acc: 72.000
+Iteration Number: 122
+[5,   123] loss: 1.125 | Train Acc: 59.000
+Iteration Number: 123
+[5,   124] loss: 0.555 | Train Acc: 84.000
+Iteration Number: 124
+[5,   125] loss: 0.650 | Train Acc: 78.000
+Iteration Number: 125
+[5,   126] loss: 0.407 | Train Acc: 91.000
+Iteration Number: 126
+[5,   127] loss: 0.469 | Train Acc: 88.000
+Iteration Number: 127
+[5,   128] loss: 0.292 | Train Acc: 97.000
+Iteration Number: 128
+[5,   129] loss: 0.529 | Train Acc: 84.000
+Iteration Number: 129
+[5,   130] loss: 0.335 | Train Acc: 94.000
+Iteration Number: 130
+[5,   131] loss: 0.483 | Train Acc: 88.000
+Iteration Number: 131
+[5,   132] loss: 0.694 | Train Acc: 78.000
+Iteration Number: 132
+[5,   133] loss: 0.266 | Train Acc: 97.000
+Iteration Number: 133
+[5,   134] loss: 0.712 | Train Acc: 75.000
+Iteration Number: 134
+[5,   135] loss: 0.635 | Train Acc: 78.000
+Iteration Number: 135
+[5,   136] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 136
+[5,   137] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 137
+[5,   138] loss: 0.476 | Train Acc: 88.000
+Iteration Number: 138
+[5,   139] loss: 0.731 | Train Acc: 75.000
+Iteration Number: 139
+[5,   140] loss: 0.639 | Train Acc: 81.000
+Iteration Number: 140
+[5,   141] loss: 0.411 | Train Acc: 91.000
+Iteration Number: 141
+[5,   142] loss: 0.686 | Train Acc: 78.000
+Iteration Number: 142
+[5,   143] loss: 0.686 | Train Acc: 78.000
+Iteration Number: 143
+[5,   144] loss: 0.539 | Train Acc: 84.000
+Iteration Number: 144
+[5,   145] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 145
+[5,   146] loss: 0.622 | Train Acc: 81.000
+Iteration Number: 146
+[5,   147] loss: 0.948 | Train Acc: 66.000
+Iteration Number: 147
+[5,   148] loss: 0.702 | Train Acc: 78.000
+Iteration Number: 148
+[5,   149] loss: 0.427 | Train Acc: 91.000
+Iteration Number: 149
+[5,   150] loss: 0.635 | Train Acc: 81.000
+Iteration Number: 150
+[5,   151] loss: 0.554 | Train Acc: 84.000
+Iteration Number: 151
+[5,   152] loss: 0.668 | Train Acc: 78.000
+Iteration Number: 152
+[5,   153] loss: 0.785 | Train Acc: 75.000
+Iteration Number: 153
+[5,   154] loss: 0.552 | Train Acc: 84.000
+Iteration Number: 154
+[5,   155] loss: 0.582 | Train Acc: 81.000
+Iteration Number: 155
+[5,   156] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 156
+[5,   157] loss: 0.625 | Train Acc: 81.000
+Iteration Number: 157
+[5,   158] loss: 0.532 | Train Acc: 84.000
+Iteration Number: 158
+[5,   159] loss: 0.469 | Train Acc: 88.000
+Iteration Number: 159
+[5,   160] loss: 0.542 | Train Acc: 84.000
+Iteration Number: 160
+[5,   161] loss: 0.397 | Train Acc: 91.000
+Iteration Number: 161
+[5,   162] loss: 0.743 | Train Acc: 75.000
+Iteration Number: 162
+[5,   163] loss: 0.468 | Train Acc: 88.000
+Iteration Number: 163
+[5,   164] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 164
+[5,   165] loss: 0.671 | Train Acc: 78.000
+Iteration Number: 165
+[5,   166] loss: 0.818 | Train Acc: 72.000
+Iteration Number: 166
+[5,   167] loss: 0.670 | Train Acc: 78.000
+Iteration Number: 167
+[5,   168] loss: 0.487 | Train Acc: 88.000
+Iteration Number: 168
+[5,   169] loss: 0.413 | Train Acc: 91.000
+Iteration Number: 169
+[5,   170] loss: 0.457 | Train Acc: 88.000
+Iteration Number: 170
+[5,   171] loss: 0.797 | Train Acc: 72.000
+Iteration Number: 171
+[5,   172] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 172
+[5,   173] loss: 0.518 | Train Acc: 84.000
+Iteration Number: 173
+[5,   174] loss: 0.477 | Train Acc: 88.000
+Iteration Number: 174
+[5,   175] loss: 0.617 | Train Acc: 81.000
+Iteration Number: 175
+[5,   176] loss: 0.554 | Train Acc: 84.000
+Iteration Number: 176
+[5,   177] loss: 0.567 | Train Acc: 84.000
+Iteration Number: 177
+[5,   178] loss: 0.604 | Train Acc: 81.000
+Iteration Number: 178
+[5,   179] loss: 0.269 | Train Acc: 97.000
+Iteration Number: 179
+[5,   180] loss: 0.461 | Train Acc: 88.000
+Iteration Number: 180
+[5,   181] loss: 0.684 | Train Acc: 78.000
+Iteration Number: 181
+[5,   182] loss: 0.526 | Train Acc: 84.000
+Iteration Number: 182
+[5,   183] loss: 0.579 | Train Acc: 81.000
+Iteration Number: 183
+[5,   184] loss: 0.378 | Train Acc: 91.000
+Iteration Number: 184
+[5,   185] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 185
+[5,   186] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 186
+[5,   187] loss: 0.373 | Train Acc: 91.000
+Iteration Number: 187
+[5,   188] loss: 0.507 | Train Acc: 84.000
+Iteration Number: 188
+[5,   189] loss: 0.403 | Train Acc: 91.000
+Iteration Number: 189
+[5,   190] loss: 0.556 | Train Acc: 84.000
+Iteration Number: 190
+[5,   191] loss: 0.591 | Train Acc: 81.000
+Iteration Number: 191
+[5,   192] loss: 0.557 | Train Acc: 84.000
+Iteration Number: 192
+[5,   193] loss: 0.591 | Train Acc: 81.000
+Iteration Number: 193
+[5,   194] loss: 0.696 | Train Acc: 78.000
+Iteration Number: 194
+[5,   195] loss: 0.608 | Train Acc: 81.000
+Iteration Number: 195
+[5,   196] loss: 0.666 | Train Acc: 81.000
+Iteration Number: 196
+[5,   197] loss: 0.863 | Train Acc: 69.000
+Iteration Number: 197
+[5,   198] loss: 0.433 | Train Acc: 88.000
+Iteration Number: 198
+[5,   199] loss: 0.432 | Train Acc: 88.000
+Iteration Number: 199
+[5,   200] loss: 0.387 | Train Acc: 91.000
+Iteration Number: 200
+[5,   201] loss: 0.367 | Train Acc: 91.000
+Iteration Number: 201
+[5,   202] loss: 0.410 | Train Acc: 91.000
+Iteration Number: 202
+[5,   203] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 203
+[5,   204] loss: 0.758 | Train Acc: 75.000
+Iteration Number: 204
+[5,   205] loss: 0.258 | Train Acc: 97.000
+Iteration Number: 205
+[5,   206] loss: 0.541 | Train Acc: 84.000
+Iteration Number: 206
+[5,   207] loss: 0.804 | Train Acc: 75.000
+Iteration Number: 207
+[5,   208] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 208
+[5,   209] loss: 0.672 | Train Acc: 78.000
+Iteration Number: 209
+[5,   210] loss: 0.474 | Train Acc: 88.000
+Iteration Number: 210
+[5,   211] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 211
+[5,   212] loss: 0.845 | Train Acc: 72.000
+Iteration Number: 212
+[5,   213] loss: 0.671 | Train Acc: 78.000
+Iteration Number: 213
+[5,   214] loss: 0.802 | Train Acc: 72.000
+Iteration Number: 214
+[5,   215] loss: 0.409 | Train Acc: 91.000
+Iteration Number: 215
+[5,   216] loss: 0.520 | Train Acc: 84.000
+Iteration Number: 216
+[5,   217] loss: 0.898 | Train Acc: 69.000
+Iteration Number: 217
+[5,   218] loss: 0.457 | Train Acc: 88.000
+Iteration Number: 218
+[5,   219] loss: 0.459 | Train Acc: 88.000
+Iteration Number: 219
+[5,   220] loss: 0.495 | Train Acc: 88.000
+Iteration Number: 220
+[5,   221] loss: 0.623 | Train Acc: 78.000
+Iteration Number: 221
+[5,   222] loss: 0.645 | Train Acc: 78.000
+Iteration Number: 222
+[5,   223] loss: 0.462 | Train Acc: 88.000
+Iteration Number: 223
+[5,   224] loss: 0.321 | Train Acc: 94.000
+Iteration Number: 224
+[5,   225] loss: 0.923 | Train Acc: 66.000
+Iteration Number: 225
+[5,   226] loss: 0.562 | Train Acc: 84.000
+Iteration Number: 226
+[5,   227] loss: 0.499 | Train Acc: 84.000
+Iteration Number: 227
+[5,   228] loss: 0.582 | Train Acc: 81.000
+Iteration Number: 228
+[5,   229] loss: 0.660 | Train Acc: 78.000
+Iteration Number: 229
+[5,   230] loss: 0.601 | Train Acc: 81.000
+Iteration Number: 230
+[5,   231] loss: 0.513 | Train Acc: 88.000
+Iteration Number: 231
+[5,   232] loss: 0.774 | Train Acc: 72.000
+Iteration Number: 232
+[5,   233] loss: 0.709 | Train Acc: 78.000
+Iteration Number: 233
+[5,   234] loss: 0.732 | Train Acc: 75.000
+Iteration Number: 234
+[5,   235] loss: 0.696 | Train Acc: 75.000
+Iteration Number: 235
+[5,   236] loss: 0.660 | Train Acc: 78.000
+Iteration Number: 236
+[5,   237] loss: 0.496 | Train Acc: 88.000
+Iteration Number: 237
+[5,   238] loss: 0.500 | Train Acc: 84.000
+Iteration Number: 238
+[5,   239] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 239
+[5,   240] loss: 0.553 | Train Acc: 84.000
+Iteration Number: 240
+[5,   241] loss: 0.831 | Train Acc: 75.000
+Iteration Number: 241
+[5,   242] loss: 0.771 | Train Acc: 72.000
+Iteration Number: 242
+[5,   243] loss: 0.683 | Train Acc: 78.000
+Iteration Number: 243
+[5,   244] loss: 0.767 | Train Acc: 72.000
+Iteration Number: 244
+[5,   245] loss: 0.711 | Train Acc: 75.000
+Iteration Number: 245
+[5,   246] loss: 0.708 | Train Acc: 75.000
+Iteration Number: 246
+[5,   247] loss: 0.368 | Train Acc: 94.000
+Iteration Number: 247
+[5,   248] loss: 0.832 | Train Acc: 72.000
+Iteration Number: 248
+[5,   249] loss: 0.347 | Train Acc: 94.000
+Iteration Number: 249
+[5,   250] loss: 0.657 | Train Acc: 78.000
+Iteration Number: 250
+[5,   251] loss: 0.422 | Train Acc: 91.000
+Iteration Number: 251
+[5,   252] loss: 0.550 | Train Acc: 84.000
+Iteration Number: 252
+[5,   253] loss: 0.450 | Train Acc: 88.000
+Iteration Number: 253
+[5,   254] loss: 0.491 | Train Acc: 88.000
+Iteration Number: 254
+[5,   255] loss: 0.715 | Train Acc: 75.000
+Iteration Number: 255
+[5,   256] loss: 0.385 | Train Acc: 91.000
+Iteration Number: 256
+[5,   257] loss: 0.543 | Train Acc: 84.000
+Iteration Number: 257
+[5,   258] loss: 0.403 | Train Acc: 91.000
+Iteration Number: 258
+[5,   259] loss: 0.438 | Train Acc: 88.000
+Iteration Number: 259
+[5,   260] loss: 0.558 | Train Acc: 81.000
+Iteration Number: 260
+[5,   261] loss: 0.603 | Train Acc: 81.000
+Iteration Number: 261
+[5,   262] loss: 0.390 | Train Acc: 91.000
+Iteration Number: 262
+[5,   263] loss: 0.925 | Train Acc: 69.000
+Iteration Number: 263
+[5,   264] loss: 0.629 | Train Acc: 81.000
+Iteration Number: 264
+[5,   265] loss: 0.324 | Train Acc: 94.000
+Iteration Number: 265
+[5,   266] loss: 0.475 | Train Acc: 88.000
+Iteration Number: 266
+[5,   267] loss: 0.629 | Train Acc: 78.000
+Iteration Number: 267
+[5,   268] loss: 0.472 | Train Acc: 88.000
+Iteration Number: 268
+[5,   269] loss: 0.633 | Train Acc: 81.000
+Iteration Number: 269
+[5,   270] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 270
+[5,   271] loss: 0.496 | Train Acc: 84.000
+Iteration Number: 271
+[5,   272] loss: 0.519 | Train Acc: 84.000
+Iteration Number: 272
+[5,   273] loss: 0.500 | Train Acc: 88.000
+Iteration Number: 273
+[5,   274] loss: 0.452 | Train Acc: 88.000
+Iteration Number: 274
+[5,   275] loss: 0.699 | Train Acc: 78.000
+Iteration Number: 275
+[5,   276] loss: 0.451 | Train Acc: 88.000
+Iteration Number: 276
+[5,   277] loss: 0.428 | Train Acc: 88.000
+Iteration Number: 277
+[5,   278] loss: 0.585 | Train Acc: 81.000
+Iteration Number: 278
+[5,   279] loss: 0.561 | Train Acc: 81.000
+Iteration Number: 279
+[5,   280] loss: 0.632 | Train Acc: 81.000
+Iteration Number: 280
+[5,   281] loss: 0.473 | Train Acc: 88.000
+Iteration Number: 281
+[5,   282] loss: 0.581 | Train Acc: 81.000
+Iteration Number: 282
+[5,   283] loss: 0.942 | Train Acc: 69.000
+Iteration Number: 283
+[5,   284] loss: 0.744 | Train Acc: 78.000
+Iteration Number: 284
+[5,   285] loss: 0.606 | Train Acc: 81.000
+Iteration Number: 285
+[5,   286] loss: 1.255 | Train Acc: 56.000
+Iteration Number: 286
+[5,   287] loss: 0.478 | Train Acc: 88.000
+Iteration Number: 287
+[5,   288] loss: 0.602 | Train Acc: 81.000
+Iteration Number: 288
+[5,   289] loss: 0.770 | Train Acc: 75.000
+Iteration Number: 289
+[5,   290] loss: 0.404 | Train Acc: 91.000
+Iteration Number: 290
+[5,   291] loss: 0.777 | Train Acc: 72.000
+Iteration Number: 291
+[5,   292] loss: 0.720 | Train Acc: 75.000
+Iteration Number: 292
+[5,   293] loss: 0.659 | Train Acc: 78.000
+Iteration Number: 293
+[5,   294] loss: 0.623 | Train Acc: 81.000
+Iteration Number: 294
+[5,   295] loss: 0.983 | Train Acc: 59.000
+Iteration Number: 295
+[5,   296] loss: 0.479 | Train Acc: 88.000
+Iteration Number: 296
+[5,   297] loss: 0.551 | Train Acc: 84.000
+Iteration Number: 297
+[5,   298] loss: 0.575 | Train Acc: 84.000
+Iteration Number: 298
+[5,   299] loss: 0.506 | Train Acc: 88.000
+Iteration Number: 299
+[5,   300] loss: 0.731 | Train Acc: 75.000
+Iteration Number: 300
+[5,   301] loss: 0.658 | Train Acc: 78.000
+Iteration Number: 301
+[5,   302] loss: 0.587 | Train Acc: 81.000
+Iteration Number: 302
+[5,   303] loss: 0.638 | Train Acc: 78.000
+Iteration Number: 303
+[5,   304] loss: 0.740 | Train Acc: 72.000
+Iteration Number: 304
+[5,   305] loss: 0.576 | Train Acc: 84.000
+Iteration Number: 305
+[5,   306] loss: 0.434 | Train Acc: 91.000
+Iteration Number: 306
+[5,   307] loss: 0.534 | Train Acc: 84.000
+Iteration Number: 307
+[5,   308] loss: 0.457 | Train Acc: 88.000
+Iteration Number: 308
+[5,   309] loss: 0.500 | Train Acc: 88.000
+Iteration Number: 309
+[5,   310] loss: 0.452 | Train Acc: 88.000
+Iteration Number: 310
+[5,   311] loss: 0.448 | Train Acc: 88.000
+Iteration Number: 311
+[5,   312] loss: 0.772 | Train Acc: 72.000
+Iteration Number: 312
+[5,   313] loss: 0.524 | Train Acc: 84.000
+Iteration Number: 313
+Finished Training
