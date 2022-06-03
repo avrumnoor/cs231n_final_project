@@ -54,7 +54,7 @@ print(len(final))
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(device)
 
-feature_extractor = ViTFeatureExtractor.from_pretrained('google/vit-base-patch16-224', num_labels = 3)
+feature_extractor = ViTFeatureExtractor.from_pretrained('google/vit-base-patch16-224')
 
 class PreventionImageDataset(Dataset):
     """The training table dataset.
